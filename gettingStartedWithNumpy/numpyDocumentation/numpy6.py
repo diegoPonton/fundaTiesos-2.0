@@ -62,7 +62,7 @@ for row in matrix:  # ME DEVUELVE CADA UNO DE LOS ELEMENTOS DE LA MATRIZ EN ORDE
         print(element)
 
 
-# USING FUNCTION np.nditer()
+# USING FUNCTION np.nditer()            #np.diter creates an iterable object with the elements on array makint it easy to procces it
 
 for element in np.nditer(matrix):
     print(element)

@@ -1,0 +1,3441 @@
+artist: Michael Jackson song: Never Can Say Goodbye The Neptunes Remix plays: 179535
+artist: Lady Gaga song: Stuck On Fuckin You plays: 355658
+artist: Eminem song: Cold Wind Blows plays: 423762
+artist: Madonna song: Nobody Knows Me plays: 562151
+artist: Queen song: Who Wants To Live Forever 2011 Remaster plays: 714909
+artist: Eminem song: Cocaine plays: 597536
+artist: Beyonce song: Baby Boy plays: 398477
+artist: Michael Jackson song: Maria Emile Haynie Remix plays: 182127
+artist: Lady Gaga song: Animal plays: 652481
+artist: Lady Gaga song: 911 plays: 714148
+artist: Madonna song: The Funny Song Oh Dear Daddy plays: 723170
+artist: Queen song: Drowse plays: 263925
+artist: Eminem song: Phenomenal plays: 496326
+artist: Drake song: Marvins Room plays: 108345
+artist: Eminem song: River plays: 435642
+artist: Lady Gaga song: Joanne Where Do You Think Youre Goin plays: 142979
+artist: Aerosmith song: Pink plays: 792272
+artist: Drake song: City Is Mine plays: 310238
+artist: Madonna song: American Life American Dream Remix plays: 223857
+artist: Queen song: These Are Days Of Our Lifes plays: 420081
+artist: Michael Jackson song: Right Here plays: 426442
+artist: Dua Lipa song: New Rules Live plays: 384925
+artist: Eminem song: Talkin plays: 827529
+artist: Cher song: Gypsies Tramps Thieves plays: 203206
+artist: Aerosmith song: Sunny Side Of Love plays: 355158
+artist: Eminem song: The Ringer plays: 606945
+artist: Madonna song: Xstatic Process plays: 606247
+artist: Drake song: Look What Youve Done plays: 715528
+artist: Michael Jackson song: Smooth Criminal 2012 Remaster plays: 250383
+artist: Queen song: Somebody To Love 2011 Remaster plays: 408869
+artist: Drake song: Summers Over plays: 147419
+artist: Lady Gaga song: Someone Save Me Tonight plays: 773468
+artist: Madonna song: Love Song plays: 892945
+artist: Eminem song: Tv Total Freestyle 2009 plays: 441987
+artist: Eminem song: Things Get Worse plays: 358279
+artist: Lady Gaga song: Bloody Mary Remix plays: 163506
+artist: Beyonce song: All I Could Do Was Cry plays: 855739
+artist: Dua Lipa song: Last Dance plays: 557076
+artist: Beyonce song: Heartbeat plays: 103856
+artist: Eminem song: In Your Head plays: 673457
+artist: Michael Jackson song: Got To Be There Single Version plays: 826530
+artist: Lady Gaga song: Justice plays: 518025
+artist: Eminem song: Forever plays: 646622
+artist: Madonna song: Sorry Remix plays: 207634
+artist: Lady Gaga song: It Dont Mean A Thing plays: 721837
+artist: Drake song: Nothings Into Somethings plays: 559235
+artist: Lady Gaga song: Ill Never Love Again plays: 380050
+artist: Drake song: 8 Out Of 10 plays: 526999
+artist: Lady Gaga song: Do What U Want plays: 867551
+artist: Lady Gaga song: But Beautiful plays: 453497
+artist: Madonna song: Sooner Or Later plays: 123843
+artist: Aerosmith song: Big Ten Inch Record plays: 878173
+artist: Madonna song: Burning Up plays: 399301
+artist: Lady Gaga song: Poker Face plays: 202136
+artist: Cher song: Womanas World plays: 544334
+artist: Aerosmith song: One Way Street plays: 434798
+artist: Madonna song: Music Inferno plays: 662757
+artist: Drake song: My Love Lost Extended Solo Version plays: 727675
+artist: Madonna song: Medley Dress You Upinto The Groove plays: 290631
+artist: Eminem song: My Name Is Explicit plays: 561953
+artist: Lady Gaga song: It Dont Mean A Thing If It Aint Got That Swing plays: 763386
+artist: Drake song: Whatas My Name plays: 675710
+artist: Eminem song: Give Me The Ball plays: 468625
+artist: Cher song: It All Adds Up Now plays: 374199
+artist: Drake song: Gods Plan plays: 394893
+artist: Queen song: I Will Make You Love plays: 784911
+artist: Michael Jackson song: Bigger Man plays: 210561
+artist: Queen song: Sail Away Sweet Sister Take 1 With Guide Vocal plays: 132522
+artist: Drake song: Falling Up plays: 430690
+artist: Michael Jackson song: Somebodys Watching Me plays: 713861
+artist: Drake song: Started From The Bottom plays: 117753
+artist: Michael Jackson song: Hes The Wizard plays: 275123
+artist: Eminem song: Living Proof plays: 686799
+artist: Cher song: I Paralyze plays: 607954
+artist: Cher song: Main Man plays: 259660
+artist: Beyonce song: Jealous Remix plays: 111582
+artist: Cher song: Come Stay With Me plays: 500597
+artist: Drake song: Pop Style plays: 501667
+artist: Drake song: Is There More plays: 166193
+artist: Dua Lipa song: New Rules Alison Wonderland Remix plays: 430800
+artist: Michael Jackson song: You Were There plays: 837931
+artist: Aerosmith song: Legendary Child plays: 127282
+artist: Aerosmith song: Intro plays: 304890
+artist: Aerosmith song: Closer plays: 645353
+artist: Aerosmith song: Spaced plays: 539551
+artist: Drake song: More Life Credits plays: 376243
+artist: Aerosmith song: Bacon Biscuit Blues plays: 533164
+artist: Michael Jackson song: An Angel Came To Me plays: 372527
+artist: Eminem song: Vegas plays: 498298
+artist: Drake song: Free Spirit plays: 827870
+artist: Madonna song: Up Down Suite plays: 511973
+artist: Cher song: Love Is A Lonely Place Without You plays: 154549
+artist: Lady Gaga song: Americano plays: 279042
+artist: Cher song: Gypsiestramps And Thieves plays: 678436
+artist: Drake song: Good Life plays: 745841
+artist: Aerosmith song: Shut Up And Dance plays: 801416
+artist: Beyonce song: 711 plays: 878855
+artist: Aerosmith song: Lightning Stikes plays: 263352
+artist: Aerosmith song: Get A Grip plays: 485726
+artist: Madonna song: Open Your Heart plays: 267983
+artist: Madonna song: Celebration David Guetta Remix plays: 314420
+artist: Michael Jackson song: Here I Am plays: 294119
+artist: Michael Jackson song: Ben Immortal Version plays: 650642
+artist: Aerosmith song: Dream On Live plays: 746926
+artist: Michael Jackson song: Ben Konvict Remix plays: 250919
+artist: Queen song: Flash To The Rescue plays: 412678
+artist: Cher song: It Gets Me Where I Want To Go plays: 705783
+artist: Cher song: Id Rather Belive In You plays: 751997
+artist: Lady Gaga song: Donatella plays: 760213
+artist: Cher song: Wasnt It Good plays: 503342
+artist: Eminem song: Hailies Song plays: 819543
+artist: Queen song: Seven Seas Of Rhye plays: 189409
+artist: Beyonce song: Blow plays: 248039
+artist: Queen song: Somebody To Love Remastered 2011 plays: 144401
+artist: Drake song: Gyalchester Explicit plays: 134688
+artist: Eminem song: No Regrets plays: 360630
+artist: Eminem song: Still Dont Give A Fuck plays: 647420
+artist: Madonna song: I Rise plays: 738735
+artist: Madonna song: Birthday Song plays: 313131
+artist: Drake song: Summers Over Interlude plays: 215880
+artist: Michael Jackson song: The Mime Segment I Like The Wayspeed Demonanother Part Of Me Immortal Version plays: 148652
+artist: Queen song: Dont Try So Hard plays: 384026
+artist: Eminem song: Bitch Please Part Ii plays: 174484
+artist: Michael Jackson song: The Immortal Intro Immortal Version plays: 866059
+artist: Queen song: Under Pressure Remastered plays: 557089
+artist: Madonna song: Borrowed Time plays: 111494
+artist: Queen song: Modern Times Rock N Roll plays: 468687
+artist: Michael Jackson song: Can I Live plays: 414004
+artist: Madonna song: Dear Father plays: 474352
+artist: Drake song: Night Off plays: 756242
+artist: Queen song: Your Kind Of Lover plays: 503614
+artist: Drake song: Nothing Was The Same plays: 394927
+artist: Lady Gaga song: Guy plays: 875578
+artist: Madonna song: She S Not Me plays: 792184
+artist: Drake song: Yamaha Mama plays: 467384
+artist: Queen song: Dont Loose Your Head plays: 729363
+artist: Queen song: All Gods People plays: 825894
+artist: Queen song: The Great Pretender plays: 898159
+artist: Madonna song: What Can You Lose plays: 819511
+artist: Beyonce song: Blow Remix plays: 483406
+artist: Aerosmith song: Canat Stop Loving You plays: 578075
+artist: Eminem song: Topless plays: 482327
+artist: Beyonce song: Reunited Nala Simba Interlude plays: 315435
+artist: Madonna song: Wild Dancing plays: 759850
+artist: Dua Lipa song: Kiss And Make Up plays: 303582
+artist: Beyonce song: Uncle Scar Scar Interlude plays: 858584
+artist: Queen song: Papa Was A Rollin Stone plays: 295688
+artist: Dua Lipa song: Future Nostalgia plays: 289131
+artist: Michael Jackson song: Pretty Young Thing Pyt plays: 748943
+artist: Cher song: Dont Hide Your Love plays: 326643
+artist: Aerosmith song: Something plays: 611918
+artist: Beyonce song: Pretty Hurts plays: 242249
+artist: Drake song: In My Business plays: 355741
+artist: Madonna song: Infinity plays: 645858
+artist: Queen song: Dont Stop Me Now Revisited plays: 154784
+artist: Eminem song: Above The Law plays: 741017
+artist: Eminem song: Cleanin Out My Closet Explicit plays: 572541
+artist: Aerosmith song: Im Down plays: 238951
+artist: Michael Jackson song: Another Part Of Me 2012 Remaster plays: 728464
+artist: Eminem song: Bully plays: 518942
+artist: Beyonce song: Mi Gente plays: 386515
+artist: Michael Jackson song: Ill Come Home To You plays: 598628
+artist: Cher song: Real People plays: 856579
+artist: Eminem song: 25 To Life Remix plays: 223650
+artist: Dua Lipa song: Genesis plays: 348799
+artist: Aerosmith song: Sick As A Dog plays: 725632
+artist: Madonna song: Fever plays: 897083
+artist: Michael Jackson song: Blood On The Dancefloor plays: 161901
+artist: Michael Jackson song: Shake Your Body Down To The Ground Immortal Version plays: 317686
+artist: Drake song: Fall For Your Type plays: 516930
+artist: Cher song: The Gunman plays: 203770
+artist: Eminem song: Places To Go plays: 189829
+artist: Eminem song: The Storm 2017 Bet Hiphop Awards Cypher Verse plays: 882234
+artist: Drake song: Trophies Remix plays: 438167
+artist: Dua Lipa song: Love Again plays: 678399
+artist: Madonna song: Human Nature plays: 752814
+artist: Michael Jackson song: Save Me plays: 827265
+artist: Queen song: Under Pressure plays: 896854
+artist: Cher song: Im In The Middle plays: 741367
+artist: Dua Lipa song: Good In Bed plays: 574739
+artist: Eminem song: I Will plays: 802604
+artist: Drake song: Best Ive Never Had plays: 411725
+artist: Eminem song: Rabbit Vs Lotto 8 Mile Freestyle plays: 762826
+artist: Eminem song: So Much Better plays: 795699
+artist: Aerosmith song: Love Me Like A Bird Dog plays: 258584
+artist: Michael Jackson song: Liberian Girl 2012 Remaster plays: 307491
+artist: Lady Gaga song: You And I Remix plays: 256201
+artist: Drake song: Club Paradise plays: 644646
+artist: Michael Jackson song: Blood On The Dance Floor X Dangerous The White plays: 318852
+artist: Madonna song: Impressive Instant plays: 742522
+artist: Cher song: La Plane plays: 339394
+artist: Cher song: Mirror Image plays: 483127
+artist: Eminem song: I Run Rap plays: 187694
+artist: Dua Lipa song: New Rules plays: 853017
+artist: Lady Gaga song: Chromatica Iii plays: 338710
+artist: Aerosmith song: Rockin Pneumonia The Boogie Woogie Flu plays: 277743
+artist: Drake song: Feeling plays: 312472
+artist: Madonna song: The Look Of Love plays: 874684
+artist: Drake song: Sing For Me plays: 176570
+artist: Michael Jackson song: How Is Life Going To Be plays: 179925
+artist: Drake song: Believe It Or Not plays: 353324
+artist: Drake song: Gonorrhea plays: 533645
+artist: Queen song: Action This Day plays: 617418
+artist: Cher song: More Than You Know plays: 810660
+artist: Madonna Feat Justin Timberlake 2 song: 4 Minutes plays: 842261
+artist: Drake song: Congratulations plays: 183189
+artist: Drake song: 6 Man plays: 742788
+artist: Madonna song: Deeper And Deeper plays: 115311
+artist: Queen song: Rain Must Fall plays: 702611
+artist: Queen song: Put Out The Fire plays: 682871
+artist: Madonna song: I Neednt plays: 569774
+artist: Drake song: Madiba Riddim plays: 323219
+artist: Drake song: One Dance Remix plays: 848344
+artist: Eminem song: I Live At Home In A Trailor plays: 647021
+artist: Lady Gaga song: Disco Heaven plays: 535290
+artist: Drake song: Cameras Good Ones Go plays: 195789
+artist: Eminem song: Nail In The Coffin plays: 897418
+artist: Eminem song: Its Your Time plays: 200351
+artist: Eminem song: Shady Records Mob Squad plays: 508980
+artist: Queen song: Calling All Girls plays: 484624
+artist: Eminem song: Clean Out My Closet plays: 126996
+artist: Lady Gaga song: Judas Remix Hurts plays: 430923
+artist: Eminem song: Going Through Changes plays: 153612
+artist: Eminem song: Rush Ya Clique With Outsidaz plays: 892925
+artist: Lady Gaga song: Black Jesus plays: 233006
+artist: Madonna song: Did You Do It plays: 460566
+artist: Lady Gaga song: Fever plays: 439854
+artist: Eminem song: Greatest plays: 834686
+artist: Beyonce song: So Much Damn Swag Interlude plays: 785675
+artist: Queen song: Dreamers Ball plays: 726743
+artist: Cher song: Rock Roll Doctor plays: 320095
+artist: Queen song: Body Count plays: 501512
+artist: Queen song: My Melancholy Blues plays: 754555
+artist: Aerosmith song: Eyesight To The Blind plays: 651754
+artist: Cher song: Love Can Build A Bridge plays: 491166
+artist: Queen song: Soul Brother plays: 420628
+artist: Lady Gaga song: Retro Physical plays: 762410
+artist: Michael Jackson song: Aint No Sunshine Benny Blanco Remix plays: 304305
+artist: Cher song: I Wasnt Ready plays: 606876
+artist: Aerosmith song: Voodoo Medicine Man plays: 665133
+artist: Lady Gaga song: Silly Boy plays: 456082
+artist: Beyonce song: Lemonade plays: 412444
+artist: Cher song: Shoppin plays: 418975
+artist: Cher song: I Saw A Man He Danced With His Wife plays: 370610
+artist: Aerosmith song: Intro Get A Grip plays: 615442
+artist: Drake song: No Long Talk plays: 592950
+artist: Eminem song: Stepdad plays: 719551
+artist: Cher song: One Of Us plays: 803440
+artist: Cher song: Kiss To Kiss plays: 871786
+artist: Drake song: Change Locations plays: 839633
+artist: Eminem song: Another Sentencing plays: 729719
+artist: Aerosmith song: Livin On The Edge plays: 597114
+artist: Queen song: Dancer plays: 877701
+artist: Cher song: Waterloo plays: 161406
+artist: Michael Jackson song: Happy plays: 545805
+artist: Madonna song: Sanctuary plays: 584944
+artist: Madonna song: Just A Dream plays: 880723
+artist: Queen song: Dont Try Too Hard plays: 461104
+artist: Drake song: Zodiac Sign plays: 147956
+artist: Queen song: Time To Shine plays: 384992
+artist: Queen song: Doing All Right plays: 380889
+artist: Drake song: Marvinas Room Buried Alive Interlude plays: 851394
+artist: Lady Gaga song: Rock Show plays: 167066
+artist: Lady Gaga song: Joanne plays: 295214
+artist: Eminem song: Dont Approach Me plays: 791329
+artist: Queen song: How Can I Go plays: 125331
+artist: Michael Jackson song: What More Can I Give plays: 301251
+artist: Beyonce song: Touchdown plays: 665107
+artist: Cher song: Baby Dont Go plays: 715613
+artist: Eminem song: Unaccommodating plays: 503496
+artist: Michael Jackson song: Break Of Dawn plays: 625133
+artist: Madonna song: 4 Minutes plays: 781413
+artist: Michael Jackson song: I Wanna Be Where You Are Dallas Austin Remix plays: 231065
+artist: Lady Gaga song: I Dont Know What Love Is plays: 546338
+artist: Eminem song: Gaddafi The Coward plays: 436636
+artist: Madonna song: Extreme Occident plays: 760064
+artist: Drake song: Wildfire Remix plays: 118605
+artist: Lady Gaga song: Evry Time We Say Goodbye plays: 618050
+artist: Drake song: Blem plays: 305905
+artist: Aerosmith song: Sharpshooter plays: 626573
+artist: Eminem song: Beautiful New plays: 637852
+artist: Drake song: Thiink Gud Thoughts plays: 447756
+artist: Eminem song: Cum On Everybody plays: 605487
+artist: Lady Gaga song: Take You Out plays: 186182
+artist: Beyonce song: Jealous plays: 316860
+artist: Madonna song: Living For Love Carry On plays: 534160
+artist: Dua Lipa song: Want To Hella Hella Its My Body plays: 101254
+artist: Eminem song: Loud Noises plays: 531691
+artist: Aerosmith song: Dulcimer Stomp plays: 764997
+artist: Drake song: 2 On Thotful plays: 315151
+artist: Cher song: Plastic Man plays: 595271
+artist: Eminem song: My Words Are Weapons plays: 361883
+artist: Cher song: Mama Look Sharp plays: 432563
+artist: Lady Gaga song: Nature Boy plays: 670690
+artist: Lady Gaga song: I Want Your Love Cover plays: 723483
+artist: Madonna song: Aint No Big Deal Extended plays: 346293
+artist: Beyonce song: God Bless The Usa plays: 600681
+artist: Beyonce song: Keys To The Kingdom plays: 793091
+artist: Eminem song: Life plays: 509869
+artist: Cher song: Taxi Taxi plays: 870353
+artist: Madonna song: Inside Out plays: 194698
+artist: Drake song: Get It Together plays: 858883
+artist: Lady Gaga song: Greatest plays: 104273
+artist: Drake song: Tell Your Friends Freestyle plays: 439540
+artist: Queen song: Stand Up For Love plays: 421331
+artist: Queen song: You Take My Breath Away plays: 718700
+artist: Drake song: Gq Freestyle plays: 349950
+artist: Michael Jackson song: Earth Songplanet Earth Immortal Version plays: 883686
+artist: Drake song: What Up plays: 221189
+artist: Eminem song: Music Box plays: 304691
+artist: Michael Jackson song: Thriller 2003 Edit plays: 326167
+artist: Cher song: Chastitys Sun Originally Titled Ruby Jean And Billie Lee plays: 648015
+artist: Beyonce song: Runnin Lose It All plays: 129093
+artist: Eminem song: Evil Twin plays: 481123
+artist: Eminem song: Bitch Please Part 2 plays: 756300
+artist: Lady Gaga song: Scheiae Remix plays: 453448
+artist: Aerosmith song: Hole In My Soul plays: 879915
+artist: Eminem song: Pistol Poppin plays: 151256
+artist: Cher song: War Paint And Soft Feathers plays: 386481
+artist: Eminem song: Fast Lane Remix plays: 790339
+artist: Eminem song: Im Having A Relapse plays: 267013
+artist: Lady Gaga song: Stupid Love plays: 728544
+artist: Queen song: The Millionaire Waltz plays: 600536
+artist: Drake song: How About Now plays: 385230
+artist: Eminem song: Family Problems plays: 428829
+artist: Madonna song: History plays: 332725
+artist: Aerosmith song: Home Tonight plays: 544512
+artist: Drake song: Jodeci plays: 679755
+artist: Michael Jackson song: Beautiful Girl plays: 417113
+artist: Michael Jackson song: Scream plays: 236093
+artist: Aerosmith song: Angels Eye plays: 788091
+artist: Eminem song: A Drop In The Ocean plays: 299041
+artist: Beyonce song: Ghost plays: 882977
+artist: Eminem song: Seduction plays: 216619
+artist: Michael Jackson song: Little Susie plays: 865130
+artist: Eminem song: Luv Me plays: 537771
+artist: Cher song: Pride plays: 793507
+artist: Madonna song: American Life plays: 409770
+artist: Eminem song: American Psycho plays: 485208
+artist: Lady Gaga song: I Wont Dance plays: 266672
+artist: Queen song: Pain Is To Close To Pleasure plays: 697133
+artist: Cher song: Dancing Queen plays: 782705
+artist: Michael Jackson song: All The Things You Are plays: 717494
+artist: Aerosmith song: Blind Man plays: 422031
+artist: Madonna song: Hollywood Remix plays: 197200
+artist: Aerosmith song: Girls Of Summer plays: 638913
+artist: Lady Gaga song: Love Mail plays: 303949
+artist: Beyonce song: Before I Let Go plays: 138825
+artist: Michael Jackson song: Escape plays: 473678
+artist: Beyonce song: Dreaming plays: 579262
+artist: Madonna song: Back That Up To The Beat plays: 499577
+artist: Cher song: Walk With Me plays: 593108
+artist: Michael Jackson song: My Girl plays: 148887
+artist: Madonna song: Santa Baby plays: 434892
+artist: Lady Gaga song: Dancing In Circles plays: 892609
+artist: Eminem song: Tonya plays: 687080
+artist: Drake song: Demons plays: 286969
+artist: Lady Gaga song: 1000 Doves plays: 746733
+artist: Drake song: Not An Angel plays: 852667
+artist: Michael Jackson song: Billie Jean Single Version plays: 692892
+artist: Drake song: Show Me A Good Time plays: 617570
+artist: Beyonce song: Mine plays: 231273
+artist: Lady Gaga song: Joanne Where Do You Think Youre Goin Piano Version plays: 866602
+artist: Drake song: Come Thru plays: 177379
+artist: Michael Jackson song: Let Go plays: 365857
+artist: Madonna song: Turn Up The Radio plays: 755183
+artist: Lady Gaga song: Yoa And I Remix Metronomy plays: 291061
+artist: Queen song: Vultans Theme Attack Of The Hawk Men plays: 684348
+artist: Drake song: Fancy Remix plays: 291800
+artist: Lady Gaga song: Musicland plays: 801545
+artist: Michael Jackson song: Pyt plays: 262659
+artist: Aerosmith song: Melt Down plays: 126184
+artist: Michael Jackson song: Girl Youre So Together plays: 239820
+artist: Drake song: My Side plays: 890045
+artist: Madonna song: Express Yourself Live Remastered plays: 388261
+artist: Queen song: Flashs Theme Reprise Victory Celebrations plays: 351281
+artist: Drake song: Sandras Rose plays: 194598
+artist: Michael Jackson song: This Place Hotel Immortal plays: 790869
+artist: Eminem song: The Way I Am plays: 153921
+artist: Eminem song: Talkina 2 Myself plays: 836270
+artist: Beyonce song: Surrender Simba Scar Interlude plays: 869394
+artist: Cher song: You Take It All plays: 121085
+artist: Madonna song: Now Im Following You Part I plays: 667372
+artist: Drake song: No Long Talk Explicit plays: 223676
+artist: Madonna song: Perons Latest Flame plays: 279284
+artist: Michael Jackson song: A Brand New Day plays: 451270
+artist: Michael Jackson song: The Man plays: 292400
+artist: Beyonce song: Its All Over plays: 857358
+artist: Michael Jackson song: Give Thanks To Allah plays: 540333
+artist: Madonna song: Body Shop plays: 697985
+artist: Michael Jackson song: When I Come Of Age plays: 314799
+artist: Aerosmith song: Bone To Bone Coney Island White Fish Boy plays: 281012
+artist: Lady Gaga song: Summerboy plays: 663110
+artist: Drake song: Im On One plays: 361344
+artist: Drake song: Little Bit plays: 141350
+artist: Madonna song: Dont Cry For Me Argentina Miami Spanglish Mix plays: 733362
+artist: Drake song: The Start From The Bottom plays: 513787
+artist: Michael Jackson song: Earth Song plays: 204717
+artist: Eminem song: Cinderella Man plays: 644566
+artist: Queen song: Blurred Vision plays: 708706
+artist: Lady Gaga song: White Christmas Live From A Very Gaga Thanksgiving plays: 831722
+artist: Eminem song: Marshall Mathers plays: 658951
+artist: Eminem song: The Hills Remix plays: 534390
+artist: Madonna song: Girl Gone Wild plays: 340131
+artist: Drake song: Play Ball plays: 643913
+artist: Queen song: Las Palabras De Amor plays: 760835
+artist: Madonna song: Tight Fit plays: 278184
+artist: Madonna song: Bday Song plays: 203402
+artist: Eminem song: Keep Talking plays: 204665
+artist: Michael Jackson song: Ben plays: 510685
+artist: Madonna song: Secret plays: 621746
+artist: Lady Gaga song: Marry The Night Remix plays: 473787
+artist: Aerosmith song: Out Go The Lights plays: 104836
+artist: Michael Jackson song: Were Almost There plays: 566786
+artist: Beyonce song: Irreplaceable plays: 317430
+artist: Madonna song: I Rise Tracy Youngs Pride Intro Radio Remix plays: 412897
+artist: Eminem song: The Warning plays: 127194
+artist: Beyonce song: Superpower plays: 252653
+artist: Michael Jackson song: Dont Walk Away plays: 370406
+artist: Drake song: Feel No Ways plays: 218363
+artist: Drake song: Asthma Team Freestyle plays: 482563
+artist: Eminem song: One Last Timeencore F Dr Dre 50 Cent plays: 770171
+artist: Drake song: More Life Note plays: 360060
+artist: Eminem song: Remind Me Intro plays: 816024
+artist: Madonna song: 4 Minutes Tracy Young House Mix plays: 622038
+artist: Madonna song: Gimme All Your Luvin plays: 783751
+artist: Madonna song: Aint No Big Deal plays: 200190
+artist: Eminem song: Lock It Up plays: 528227
+artist: Michael Jackson song: One More Chance plays: 680238
+artist: Eminem song: Rabbit Run plays: 707137
+artist: Madonna song: Little Girl plays: 687755
+artist: Madonna song: Imagine plays: 302576
+artist: Aerosmith song: Major Barbara plays: 603822
+artist: Eminem song: Radio plays: 390029
+artist: Lady Gaga song: The Fame plays: 513601
+artist: Michael Jackson song: Fall Again plays: 728854
+artist: Michael Jackson song: Is It Scarythrillerghostsomebodyas Watching Methreatened Immortal Version plays: 757733
+artist: Eminem song: Em Calls Paul Skit plays: 475663
+artist: Aerosmith song: Seasons Of Wither plays: 678976
+artist: Aerosmith song: Jesus Is On The Main Line plays: 675882
+artist: Eminem song: Infinite plays: 547366
+artist: Drake song: Rollin plays: 444003
+artist: Drake song: Hotline Bling Cha Cha Remix plays: 671561
+artist: Dua Lipa song: Boys Will Be Boys plays: 274937
+artist: Drake song: Baby Come With Me plays: 475361
+artist: Michael Jackson song: I Cant Help It plays: 666001
+artist: Queen song: Mustapha plays: 844101
+artist: Eminem song: My Darling plays: 809011
+artist: Queen song: One Vision plays: 230033
+artist: Eminem song: Bgs In Tha Fast Lane plays: 825432
+artist: Queen song: She Blows Hot Cold plays: 458652
+artist: Lady Gaga song: Paparazzi plays: 783338
+artist: Eminem song: Stay Wide Awake plays: 205521
+artist: Queen song: Spread Your Wings plays: 693496
+artist: Queen song: Death On Two Legs plays: 309095
+artist: Queen song: Crazy Little Thing Called Love 2011 Remaster plays: 493620
+artist: Madonna song: Express Yourself plays: 155025
+artist: Eminem song: Fack Explicit plays: 690538
+artist: Cher song: Happy Was The Day We Met plays: 123303
+artist: Drake song: The Last Hope plays: 447020
+artist: Aerosmith song: Crash plays: 651138
+artist: Queen song: Under Preasure plays: 819889
+artist: Aerosmith song: Dude Looks Like A Lady plays: 739235
+artist: Eminem song: B Rabbit V Papa Doc plays: 823398
+artist: Michael Jackson song: Much Too Soon plays: 205926
+artist: Queen song: Going Back plays: 377936
+artist: Madonna song: Give Me All Your Luvin Remix plays: 743021
+artist: Queen song: Big Bad Caused A Mighty Fine Sensation plays: 325312
+artist: Cher song: The Shoop Shoop Songits In His Kiss plays: 446205
+artist: Aerosmith song: Jailbait plays: 489979
+artist: Lady Gaga song: Before I Cry plays: 342964
+artist: Queen song: Flash plays: 814202
+artist: Queen song: My Fairy King plays: 115919
+artist: Queen song: Crazy Little Thing Called Love plays: 527850
+artist: Cher song: You Know It plays: 863823
+artist: Eminem song: Turn Me Loose With Limp Bizkit plays: 267845
+artist: Eminem song: Freestyle Dissin The Source plays: 481398
+artist: Madonna song: On This Night Of A Thousand Stars plays: 335013
+artist: Aerosmith song: Sweet Ado plays: 497160
+artist: Lady Gaga song: You And I plays: 492151
+artist: Madonna song: Bitch Im Madonna plays: 832463
+artist: Eminem song: Rhyme Or Reason plays: 610401
+artist: Michael Jackson song: To Make My Father Proud plays: 757359
+artist: Eminem song: Alfred Interlude plays: 782364
+artist: Aerosmith song: Draw The Line plays: 614036
+artist: Beyonce song: Ego Remix plays: 389960
+artist: Drake song: Talk Up plays: 692744
+artist: Lady Gaga song: Million Reasons Andrelli Remix plays: 385108
+artist: Drake song: Karaoke plays: 151543
+artist: Madonna song: Susan Macleodinto The Groove plays: 222034
+artist: Eminem song: Hot Metal plays: 866241
+artist: Drake song: Celebration plays: 523121
+artist: Madonna song: Future Lovers plays: 203943
+artist: Beyonce song: Top Off plays: 111081
+artist: Eminem song: Rap Game plays: 679179
+artist: Drake song: Iam Ready For You plays: 763782
+artist: Aerosmith song: Janies Got A Gun plays: 667245
+artist: Beyonce song: Get Me Bodied plays: 477714
+artist: Michael Jackson song: Just A Little Bit Of You plays: 370916
+artist: Eminem song: Trapped plays: 257347
+artist: Eminem song: Tonight plays: 561231
+artist: Queen song: Ayoh Live Aid plays: 485311
+artist: Michael Jackson song: They Dont Care About Us plays: 676202
+artist: Lady Gaga song: I Want Your Love plays: 863268
+artist: Madonna song: Nobodys Perfect plays: 467778
+artist: Lady Gaga song: Retro Dance Freak plays: 359314
+artist: Eminem song: Fight Music plays: 624364
+artist: Queen song: Made In Heaven plays: 221331
+artist: Eminem song: Off The Wall plays: 542501
+artist: Aerosmith song: Sick As A Don plays: 576517
+artist: Lady Gaga song: Fairy plays: 116038
+artist: Eminem song: Cry Now Shady Remix plays: 125785
+artist: Aerosmith song: Falling Off plays: 651455
+artist: Madonna song: Messiah plays: 440635
+artist: Michael Jackson song: Privacy plays: 257539
+artist: Madonna song: And The Money Kept Rolling In And Out plays: 373348
+artist: Queen song: Battle Themes plays: 807084
+artist: Drake song: November 18Th plays: 811060
+artist: Beyonce song: Deja Vu plays: 660221
+artist: Madonna song: 4 Minutes Junkie Xl Remix plays: 467939
+artist: Madonna song: I Deserve It plays: 571941
+artist: Michael Jackson song: Get Around plays: 849252
+artist: Michael Jackson song: No Friend Of Mine plays: 499644
+artist: Michael Jackson song: Maybe Tomorrow plays: 593568
+artist: Madonna song: Give Me All Your Luvina Lmfao Remix plays: 526185
+artist: Michael Jackson song: Shout plays: 765317
+artist: Drake song: Share plays: 641249
+artist: Queen song: You And I plays: 660835
+artist: Eminem song: Drwest plays: 253248
+artist: Beyonce song: Drunk In Love Remix plays: 485695
+artist: Drake song: After Dark plays: 703589
+artist: Drake song: Plastic Bags plays: 253581
+artist: Madonna song: Cant Stop plays: 750707
+artist: Drake song: Same Mistakes plays: 532977
+artist: Aerosmith song: Cheese Cake plays: 215961
+artist: Lady Gaga song: Boys Boys Boys plays: 440353
+artist: Michael Jackson song: Weve Got Forever plays: 797803
+artist: Cher song: Will You Wait For Me plays: 880518
+artist: Drake song: Controlla plays: 378961
+artist: Cher song: The Fall Kurts Blues plays: 733789
+artist: Beyonce song: Shining Thank You plays: 199024
+artist: Eminem song: Sweet Home Alabama plays: 672451
+artist: Aerosmith song: The Grind plays: 752200
+artist: Madonna song: Spanish Lesson plays: 140959
+artist: Cher song: Give Our Love A Fighting Chance plays: 593291
+artist: Lady Gaga song: Shut Up plays: 107147
+artist: Aerosmith song: Lord Of The Thighs plays: 478950
+artist: Eminem song: Fuckin Crazy plays: 755673
+artist: Eminem song: Lunch Truck Freestyle plays: 219147
+artist: Beyonce song: Ave Maria plays: 218971
+artist: Lady Gaga song: Sour Candy plays: 763418
+artist: Cher song: Hell Never Know plays: 397465
+artist: Drake song: Tuscan Leather plays: 296627
+artist: Aerosmith song: Kiss Your Past Goodbye plays: 629515
+artist: Drake song: The Ride plays: 475204
+artist: Drake song: Portland Explicit plays: 823253
+artist: Michael Jackson song: I Want You Back plays: 560962
+artist: Eminem song: Calm Down plays: 410059
+artist: Michael Jackson song: Unbreakable plays: 775610
+artist: Aerosmith song: Same Old Song And Dance plays: 483876
+artist: Cher song: I Go To Sleep plays: 262438
+artist: Eminem song: The Art Of Rap Freestyle plays: 176494
+artist: Drake song: Madonna plays: 301002
+artist: Aerosmith song: Mama Kin plays: 261889
+artist: Drake song: No Tellin plays: 415472
+artist: Beyonce song: Haunted plays: 271799
+artist: Queen song: Im In Love With My Car plays: 342126
+artist: Eminem song: Brabbit Vs Lycketysplyt plays: 186839
+artist: Dua Lipa song: Garden plays: 524604
+artist: Queen song: Keep Yourself Alive Live At The Rainbow plays: 311095
+artist: Michael Jackson song: Greatest Show On Earth plays: 716373
+artist: Queen song: Mother Love plays: 581890
+artist: Aerosmith song: Back Back Train plays: 602661
+artist: Madonna song: I Dont Search I Find Honey Dijon Remix plays: 173025
+artist: Eminem song: Not Affraid plays: 412123
+artist: Michael Jackson song: Lonely Teardrops plays: 313948
+artist: Michael Jackson song: They Donat Care About Us Immortal Version plays: 684248
+artist: Queen song: These Are The Days Of Our Lives plays: 147622
+artist: Cher song: Whenever Youre Near plays: 711918
+artist: Madonna song: I Dont Search I Find Offer Nissim Remix plays: 367695
+artist: Madonna song: Love Spent plays: 688117
+artist: Cher song: What About The Moonlight plays: 848548
+artist: Madonna song: Rainbow High plays: 246344
+artist: Drake song: Summer Sixteen Krne Remix plays: 806087
+artist: Madonna song: True Blue Live plays: 277575
+artist: Eminem song: Ken Kaniff plays: 727094
+artist: Madonna song: Buenos Aires plays: 458290
+artist: Cher song: The Name Of The Game plays: 214601
+artist: Drake song: July plays: 672262
+artist: Madonna song: Holy Water plays: 498590
+artist: Madonna song: On The Street plays: 322397
+artist: Madonna song: I Dont Give A plays: 152312
+artist: Beyonce song: Countdown plays: 481505
+artist: Madonna song: Addicted The One That Got Away plays: 886507
+artist: Michael Jackson song: You Cant Win plays: 158351
+artist: Eminem song: Invasion plays: 879006
+artist: Madonna song: Everybody plays: 223986
+artist: Madonna song: Im Going Bananas plays: 326679
+artist: Lady Gaga song: Super Lover plays: 356990
+artist: Drake song: Lookin plays: 434748
+artist: Queen song: Doing Alright plays: 199656
+artist: Eminem song: As The World Turns plays: 290401
+artist: Drake song: Skepta Interlude Explicit plays: 367735
+artist: Queen song: Machines Back To Humans plays: 182765
+artist: Drake song: Big Rings plays: 359416
+artist: Eminem song: Get Money Freestyle plays: 528513
+artist: Drake song: God Plan plays: 623341
+artist: Drake song: When We Come Around plays: 742938
+artist: Beyonce song: Before I Let Go Homecoming Live Bonus Track plays: 267829
+artist: Michael Jackson song: Dont Be Messin Around plays: 621357
+artist: Beyonce song: I Been On plays: 827071
+artist: Madonna song: Illuminati plays: 683359
+artist: Queen song: Tutti Frutti plays: 746823
+artist: Queen song: We Will Rock You plays: 395055
+artist: Eminem song: Guts Over Fear plays: 772700
+artist: Lady Gaga song: Edge Of Glory plays: 228673
+artist: Lady Gaga song: Electric Kiss plays: 420620
+artist: Eminem song: My Fault plays: 835221
+artist: Beyonce song: Formation plays: 893959
+artist: Michael Jackson song: Dapper Dan plays: 433204
+artist: Eminem song: Forgive Me plays: 436026
+artist: Lady Gaga song: Jewels Drugs plays: 578464
+artist: Queen song: Was It All Worth It plays: 613609
+artist: Aerosmith song: South Station Blues plays: 335844
+artist: Queen song: Impromptu plays: 303877
+artist: Michael Jackson song: 25 Miles plays: 835104
+artist: Eminem song: My Mom plays: 733559
+artist: Lady Gaga song: Someone To Watch Over Me plays: 883021
+artist: Michael Jackson song: Immortal Megamix Can You Feel Itdonat Stop Til You Get Enoughbillie Jeanblack Or White Immortal Version plays: 733441
+artist: Aerosmith song: Let It Slide plays: 533634
+artist: Michael Jackson song: Another Day plays: 721005
+artist: Eminem song: Make Some Noise plays: 365179
+artist: Cher song: Just Enough To Keep Me Hangin On plays: 165951
+artist: Madonna song: Trust No Bitch plays: 138591
+artist: Lady Gaga song: Always Remember Us This Way plays: 467796
+artist: Eminem song: Pac Man Mgk Diss Part 2 plays: 371518
+artist: Lady Gaga song: Venus plays: 877192
+artist: Michael Jackson song: Be A Lion plays: 848113
+artist: Queen song: Shizi plays: 818481
+artist: Lady Gaga song: Vinyl plays: 265605
+artist: Madonna song: Love Tried To Welcome Me plays: 771744
+artist: Cher song: Spring plays: 603659
+artist: Lady Gaga song: Grigio Girls plays: 674833
+artist: Aerosmith song: Im Not Talking plays: 840375
+artist: Madonna song: Candy Shop Live plays: 330990
+artist: Eminem song: All She Wrote plays: 606500
+artist: Eminem song: Black Juice plays: 425984
+artist: Lady Gaga song: Kandy Life plays: 638990
+artist: Eminem song: Paul Skit plays: 346966
+artist: Lady Gaga song: I Wish You Were Here plays: 127725
+artist: Lady Gaga song: Lush Life plays: 149021
+artist: Beyonce song: Listen plays: 375616
+artist: Drake song: 0 To 100 plays: 466096
+artist: Lady Gaga song: The Cat The Fame Remix plays: 622668
+artist: Madonna song: Runaway Lover plays: 753369
+artist: Drake song: Kmt plays: 320486
+artist: Dua Lipa song: Levitating plays: 113066
+artist: Lady Gaga song: Ui plays: 899939
+artist: Lady Gaga song: Again Again plays: 737915
+artist: Drake song: Latitude plays: 535690
+artist: Michael Jackson song: People Make The World Go Round plays: 799889
+artist: Madonna song: Let Down Your Guard plays: 471172
+artist: Eminem song: Take From Me plays: 554843
+artist: Eminem song: Cleaning Out My Closet plays: 520556
+artist: Eminem song: Drama Setter plays: 655808
+artist: Michael Jackson song: Up Again plays: 331543
+artist: Lady Gaga song: Bewitched Bothered And Bewildered plays: 291977
+artist: Eminem song: Hellbound plays: 218746
+artist: Madonna song: Inside Of Me plays: 715066
+artist: Queen song: The Kiss Aura Resurrects Flash plays: 622491
+artist: Drake song: Uptown plays: 544111
+artist: Aerosmith song: Bolivian Ragamuffin plays: 793638
+artist: Queen song: Crash Dive On Mingo City plays: 248912
+artist: Eminem song: Untitled plays: 652066
+artist: Madonna song: This Used To Be My Playground plays: 550286
+artist: Eminem song: Can I Bitch plays: 640428
+artist: Eminem song: Big Weenie plays: 521923
+artist: Queen song: White Queen As It Began Live At The Hammersmith Odeon plays: 760502
+artist: Lady Gaga song: Love Games plays: 241517
+artist: Lady Gaga song: Guy Girl Under You plays: 466862
+artist: Cher song: Holdin Out For Love plays: 517159
+artist: Queen song: Jealousy plays: 415970
+artist: Lady Gaga song: La Vie En Rose plays: 582126
+artist: Drake song: Not You Too plays: 283659
+artist: Aerosmith song: Take It Easy plays: 472985
+artist: Eminem song: Here We Go plays: 581997
+artist: Aerosmith song: The Movie plays: 123310
+artist: Cher song: Behind The Door plays: 402755
+artist: Aerosmith song: Hole In My Sole plays: 233764
+artist: Madonna song: Hey You plays: 747355
+artist: Michael Jackson song: You Are There plays: 254118
+artist: Eminem song: Throw It Up plays: 484616
+artist: Queen song: Somebody To Love Live At The Montreal Forum November 1981 plays: 585589
+artist: Lady Gaga song: Dope plays: 761803
+artist: Aerosmith song: Monkey On My Back plays: 471297
+artist: Drake song: Energy plays: 740293
+artist: Lady Gaga song: Goody Goody plays: 192197
+artist: Beyonce song: Say My Name plays: 357696
+artist: Queen song: Mr Bad Guy plays: 504286
+artist: Lady Gaga song: Road To Love plays: 117668
+artist: Michael Jackson song: Rockin Robin The Jackson 5 plays: 113067
+artist: Drake song: Feel Love plays: 407121
+artist: Eminem song: 1 Shot 2 Shot plays: 676449
+artist: Michael Jackson song: On My Anger plays: 670171
+artist: Eminem song: Poo Butt Day plays: 135395
+artist: Drake song: Lose You plays: 723562
+artist: Madonna song: God Control plays: 873661
+artist: Madonna song: Masterpiece plays: 712276
+artist: Queen song: I Was Born To Love You plays: 116734
+artist: Drake song: Thats How You Feel plays: 477430
+artist: Eminem song: Scary Movies plays: 312978
+artist: Madonna song: Burning Up 12 Version plays: 871866
+artist: Cher song: Apples Dont Fall Far From The Tree plays: 553449
+artist: Cher song: Hey Joe plays: 432374
+artist: Eminem song: Busa Rhyme plays: 819536
+artist: Michael Jackson song: Ill Be There plays: 585770
+artist: Eminem song: Go To Sleep Bitch Die plays: 452537
+artist: Beyonce song: Broken Hearted Girl plays: 575470
+artist: Madonna song: Fighting Spirit plays: 531942
+artist: Aerosmith song: Just Push Play Radio Remix plays: 632435
+artist: Madonna song: Latin Chant plays: 536851
+artist: Drake song: All Of The Lights plays: 684323
+artist: Eminem song: Rap God plays: 625534
+artist: Drake song: Dreams Money Can Buy plays: 405694
+artist: Lady Gaga song: Sexxx Dreams plays: 750687
+artist: Drake song: Rich Boy plays: 114555
+artist: Eminem song: Slim Shade Ep plays: 459372
+artist: Queen song: Life Is Real Song For Lennon plays: 665832
+artist: Madonna song: Body Shop Live plays: 282624
+artist: Queen song: Another One Bites The Dust 2011 Remaster plays: 220713
+artist: Lady Gaga song: Chromatica I plays: 692878
+artist: Eminem song: Pills plays: 415393
+artist: Drake song: Its Over plays: 789765
+artist: Lady Gaga song: Born This Way Zedd Remix plays: 385276
+artist: Beyonce song: I Care plays: 136769
+artist: Michael Jackson song: Bad Music Video Lyrics plays: 194718
+artist: Aerosmith song: Rattkesnake Shake plays: 417505
+artist: Lady Gaga song: Out Of Control plays: 427995
+artist: Michael Jackson song: Will You Be There Single Version plays: 829878
+artist: Michael Jackson song: Heal The World plays: 511213
+artist: Drake song: Tuesday plays: 544202
+artist: Aerosmith song: Think About It plays: 253875
+artist: Drake song: You With Me plays: 160847
+artist: Drake song: Overdoes On Life plays: 389788
+artist: Madonna song: Scheherazade plays: 566644
+artist: Queen song: Too Much Love Will Kill You plays: 413055
+artist: Drake song: The Real Her plays: 803185
+artist: Drake song: They Know plays: 555660
+artist: Queen song: No One But You Only The Good Die Young plays: 466526
+artist: Eminem song: Oh No plays: 243164
+artist: Lady Gaga song: Living On The Radio plays: 195462
+artist: Cher song: Rain plays: 258229
+artist: Madonna song: Incredible plays: 664378
+artist: Lady Gaga song: Far From Me plays: 419345
+artist: Michael Jackson song: Shake Your Body Down To The Ground plays: 575730
+artist: Cher song: Believe plays: 420118
+artist: Michael Jackson song: Lovely One plays: 416527
+artist: Madonna song: Voices plays: 587380
+artist: Drake song: Intro plays: 441619
+artist: Eminem song: The Reup plays: 839026
+artist: Queen song: Forever plays: 690332
+artist: Michael Jackson song: Loving You plays: 727966
+artist: Madonna song: Like A Virgin plays: 519770
+artist: Eminem song: Fuck You Lab Rat Remix plays: 824532
+artist: Aerosmith song: Uncle Salty plays: 170699
+artist: Eminem song: Like Toy Soldiers plays: 735748
+artist: Eminem song: Revival Interlude plays: 245424
+artist: Cher song: A World Without Heroes plays: 301967
+artist: Cher song: Our Last Show plays: 130102
+artist: Drake song: Own It plays: 217223
+artist: Queen song: Innuendo plays: 650217
+artist: Madonna song: The Actress Hasnt Learned The Lines Youd Like To Hear plays: 519496
+artist: Cher song: Who You Gonna Believe plays: 502224
+artist: Madonna song: Love Wont Wait plays: 296663
+artist: Eminem song: If I Get Locked Up Tonite plays: 301543
+artist: Queen song: The Ring Hypnotic Seduction Of Dale plays: 644378
+artist: Aerosmith song: Fever plays: 553175
+artist: Eminem song: One Shot 8 Mile Sundtrack plays: 127467
+artist: Eminem song: Tim Westwood Freestyle plays: 860645
+artist: Cher song: Needles Pins plays: 471399
+artist: Eminem song: On You plays: 141659
+artist: Madonna song: Latte plays: 189941
+artist: Michael Jackson song: Victory plays: 533674
+artist: Madonna song: Ciao Bella plays: 186612
+artist: Madonna song: Oh Father plays: 436289
+artist: Beyonce song: Danger Young Simba Young Nala Interlude plays: 113053
+artist: Eminem song: Paul plays: 776734
+artist: Cher song: By Myself plays: 319533
+artist: Michael Jackson song: Earth Song Hanis Club Experience plays: 233150
+artist: Lady Gaga song: Enigma plays: 561363
+artist: Eminem song: Come On In plays: 401041
+artist: Beyonce song: Partition Remix plays: 752285
+artist: Lady Gaga song: Million Reasons Kvr Remix plays: 391654
+artist: Madonna song: Fuana plays: 303014
+artist: Michael Jackson song: Working Day And Night Immortal Version plays: 151281
+artist: Queen song: Some Things That Glitter plays: 575008
+artist: Michael Jackson song: This Place Hotelsmooth Criminaldangerous Immortal Version plays: 753459
+artist: Aerosmith song: Line Up plays: 899460
+artist: Aerosmith song: Scream In Pain plays: 790155
+artist: Cher song: Dont Try To Close A Rose plays: 641921
+artist: Queen song: Barcelona plays: 217662
+artist: Cher song: Loving On Borrowed Time plays: 751495
+artist: Lady Gaga song: Do What U Want Remix plays: 868496
+artist: Madonna song: Dont Stop plays: 327381
+artist: Eminem song: Armload Of Awards plays: 177470
+artist: Drake song: Fire In The Booth plays: 754080
+artist: Eminem song: Rap Game Bump Heads plays: 371018
+artist: Eminem song: Letter To Detroit plays: 531470
+artist: Michael Jackson song: Childhood Immortal Version plays: 100244
+artist: Drake song: Want You To Say plays: 886795
+artist: Eminem song: Say What You Say plays: 631066
+artist: Michael Jackson song: Scream Louder Flyte Tyme Remix plays: 254244
+artist: Aerosmith song: I Dont Wanna To Miss A Thing plays: 534189
+artist: Queen song: Its A Beautiful Day plays: 662703
+artist: Madonna song: Words plays: 361026
+artist: Michael Jackson song: The Way You Love Me plays: 146148
+artist: Drake song: Too Good plays: 416331
+artist: Eminem song: Just Lose It Video plays: 217182
+artist: Cher song: After All plays: 520686
+artist: Beyonce song: Girl plays: 650994
+artist: Drake song: Toosie Slide plays: 835393
+artist: Beyonce song: Till The End Of Time plays: 795489
+artist: Drake song: Made plays: 214828
+artist: Eminem song: Fast Lane plays: 525467
+artist: Cher song: I Hate To Sleep Alone plays: 369842
+artist: Drake song: 4Pm In Calabasas plays: 242109
+artist: Drake song: Hyfr plays: 636623
+artist: Eminem song: Remember Me plays: 147153
+artist: Drake song: 305 To My City plays: 482239
+artist: Beyonce song: Single Ladies Put A Ring On It plays: 150346
+artist: Cher song: When Lovers Become Strangers plays: 401919
+artist: Beyonce song: Inevitably plays: 596981
+artist: Beyonce song: Remember Mufasa Interlude plays: 594482
+artist: Aerosmith song: Circle Jerk plays: 422801
+artist: Drake song: Im On 1 plays: 422137
+artist: Drake song: Survival plays: 515854
+artist: Lady Gaga song: Someone Save Me plays: 715054
+artist: Eminem song: Part Ii plays: 672895
+artist: Eminem song: Venom plays: 610142
+artist: Queen song: Youre My Best Friend plays: 202008
+artist: Drake song: Deuces Remix plays: 501948
+artist: Madonna song: Deeper And Deeper Live plays: 487205
+artist: Eminem song: Ass Like That plays: 189483
+artist: Eminem song: Guilty Conscience plays: 777518
+artist: Drake song: Jumpman plays: 208787
+artist: Queen song: Face It Alone plays: 518288
+artist: Beyonce song: Video Phone plays: 179493
+artist: Michael Jackson song: A Place With No Name plays: 718367
+artist: Michael Jackson song: Wanna Be Startina Somethina Immortal Version plays: 231909
+artist: Drake song: Do It All plays: 334154
+artist: Eminem song: Threesixfive plays: 827020
+artist: Michael Jackson song: I Like The Way You Love Me plays: 203246
+artist: Madonna song: Candy Parfume Girl plays: 430177
+artist: Madonna song: Future plays: 887337
+artist: Cher song: Im Blowin Away plays: 588476
+artist: Eminem song: Classic Shit plays: 663438
+artist: Drake song: Two On plays: 700913
+artist: Queen song: Small plays: 458442
+artist: Cher song: Why Was I Born plays: 866129
+artist: Drake song: Real Bad Karma plays: 192595
+artist: Aerosmith song: Back In The Saddle plays: 674505
+artist: Beyonce song: Blue plays: 495402
+artist: Madonna song: Killers Who Are Partying plays: 179367
+artist: Cher song: Say Whats On Your Mind plays: 655300
+artist: Beyonce song: Dont Hurt Yourself plays: 441969
+artist: Drake song: Lets Call It Off plays: 338966
+artist: Eminem song: Fubba U Cubba Cubba plays: 404905
+artist: Eminem song: Street Lights plays: 534348
+artist: Aerosmith song: Cryin plays: 426872
+artist: Cher song: Happy Was The Day We Met And Git Down Guitar Groupie plays: 524581
+artist: Eminem song: Farewell plays: 630793
+artist: Drake song: Im Ready For You plays: 185060
+artist: Eminem song: Dudey plays: 829896
+artist: Eminem song: Rap Poets plays: 161440
+artist: Madonna song: Eva And Magaldi Eva Beware Of The City plays: 128411
+artist: Drake song: Cant Have Everything Explicit plays: 693962
+artist: Drake song: Try Harder plays: 664939
+artist: Drake song: Wednesday Night Interlude plays: 356203
+artist: Queen song: Sail Away Sweet Sister To The Sister I Never Had plays: 679326
+artist: Lady Gaga song: I Cant Give You Anything But Love plays: 661723
+artist: Madonna song: Borderline plays: 698653
+artist: Madonna song: Like It Or Not plays: 334540
+artist: Drake song: Gyalchester plays: 443245
+artist: Eminem song: Almost Famous plays: 664524
+artist: Eminem song: Split Shine plays: 871337
+artist: Lady Gaga song: Red Flame plays: 136827
+artist: Eminem song: Earthquake Remix plays: 282201
+artist: Queen song: Great King Rat plays: 604969
+artist: Queen song: Still Burning plays: 896833
+artist: Cher song: Its A Mans Mans Mans World plays: 127718
+artist: Drake song: With You plays: 157813
+artist: Lady Gaga song: Filthy Pop plays: 194076
+artist: Beyonce song: Rather Die Young plays: 216123
+artist: Drake song: Unstoppable Remix plays: 313500
+artist: Michael Jackson song: Human Nature Single Version plays: 791392
+artist: Michael Jackson song: This Place Hotel Aka Heartbreak Hotel plays: 315610
+artist: Lady Gaga song: Unicorn plays: 860273
+artist: Queen song: Gimme Some Lovin plays: 780016
+artist: Aerosmith song: Lovin You plays: 381553
+artist: Eminem song: Stimulate plays: 227042
+artist: Lady Gaga song: Highway Unicorn plays: 255721
+artist: Aerosmith song: Rock In A Hard Place plays: 429240
+artist: Cher song: Heart Of Stone plays: 725032
+artist: Cher song: Whenerver Youre Near plays: 305301
+artist: Lady Gaga song: The Anthem Of Little Monsters plays: 787386
+artist: Eminem song: Kick Off plays: 374696
+artist: Madonna song: Into The Groove plays: 825961
+artist: Cher song: How Can You Mend A Broken Heart plays: 785195
+artist: Dua Lipa song: Electricity plays: 814789
+artist: Eminem song: Just Lose It Instrumental plays: 889053
+artist: Drake song: 3Peat plays: 527399
+artist: Michael Jackson song: Jam plays: 445790
+artist: Madonna song: Angel plays: 393512
+artist: Cher song: Rhythm Of Your Heartbeat plays: 567613
+artist: Drake song: Plastic Bag plays: 322240
+artist: Beyonce song: Follow Me Rafiki Interlude plays: 642863
+artist: Lady Gaga song: Hooker On A Church Corner plays: 349455
+artist: Beyonce song: So Amazing plays: 397625
+artist: Drake song: Teach You A Lesson Remix plays: 122724
+artist: Lady Gaga song: Plastic Doll plays: 176631
+artist: Eminem song: Run Rabbit Run plays: 147335
+artist: Eminem song: Our House plays: 316052
+artist: Lady Gaga song: Funny Man plays: 600316
+artist: Cher song: Never Been To Spain plays: 391893
+artist: Drake song: In My Feelings plays: 749591
+artist: Beyonce song: Sorry plays: 727211
+artist: Michael Jackson song: Butterflies Remix plays: 578949
+artist: Beyonce song: Flawless plays: 897332
+artist: Madonna song: I Donat Give A plays: 784348
+artist: Lady Gaga song: Disco Death plays: 305386
+artist: Madonna song: Let Down Your Guard Rough Mix Edit plays: 785101
+artist: Drake song: Do It Now plays: 746446
+artist: Drake song: Get Over It plays: 293527
+artist: Lady Gaga song: Teeth plays: 116605
+artist: Drake song: Deceiving plays: 267471
+artist: Beyonce song: Apathy plays: 278283
+artist: Eminem song: Goat plays: 154207
+artist: Eminem song: Eminem Freestyle plays: 203093
+artist: Madonna song: Id Be Surprisingly Good For You plays: 693161
+artist: Queen song: Love Of My Life plays: 845991
+artist: Eminem song: Tylenol Island plays: 169854
+artist: Drake song: Days In The East plays: 666304
+artist: Eminem song: Soap Skit plays: 714960
+artist: Eminem song: Shadyxv plays: 303345
+artist: Queen song: In The Lap Of The Gods Revisited 2011 Remaster plays: 256454
+artist: Madonna song: Lament plays: 684691
+artist: Eminem song: How Come plays: 686786
+artist: Madonna song: Shake plays: 414976
+artist: Michael Jackson song: Forever Came Today Frankie Knuckles Late Night Antics Remix plays: 270304
+artist: Madonna song: Take Me plays: 806146
+artist: Drake song: Elevate plays: 601269
+artist: Cher song: Gypsys Tramps And Thieves plays: 586078
+artist: Queen song: Tenement Funster plays: 484238
+artist: Madonna song: Get Together plays: 415330
+artist: Eminem song: Classy Nigg plays: 150421
+artist: Drake song: Erotica Revolution plays: 761428
+artist: Drake song: Money 2 Blow plays: 319099
+artist: Michael Jackson song: You Really Got A Hold On Me plays: 671803
+artist: Queen song: Track 13 plays: 576791
+artist: Cher song: Good Times plays: 123238
+artist: Michael Jackson song: Billy Jean plays: 320876
+artist: Eminem song: Chloraseptic plays: 465699
+artist: Queen song: We Will We Will Rock You plays: 457338
+artist: Cher song: Shape Of Things To Come plays: 355288
+artist: Aerosmith song: Prelude To Joanie plays: 625246
+artist: Cher song: Love Hurts plays: 206662
+artist: Michael Jackson song: Gone Too Soon plays: 277740
+artist: Madonna song: Get Together Album Version plays: 118241
+artist: Queen song: Rock It plays: 566992
+artist: Aerosmith song: Get It Up plays: 262785
+artist: Eminem song: Jealousy Woes plays: 120418
+artist: Queen song: Sleeping On The Sidewalk plays: 760763
+artist: Madonna song: Be Careful With My Heart plays: 572239
+artist: Michael Jackson song: Joy To The World plays: 147085
+artist: Eminem song: Bagpipes From Baghdad plays: 537156
+artist: Aerosmith song: I Dont Want To Miss A Thing Spanish plays: 288690
+artist: Aerosmith song: Milkcow Blues plays: 548742
+artist: Michael Jackson song: Hollywood Tonight plays: 120983
+artist: Queen song: I Can Hear Music plays: 701004
+artist: Aerosmith song: Rocking Pneumonia And The Boogie Woogie Flu plays: 413833
+artist: Aerosmith song: Amazing plays: 731872
+artist: Lady Gaga song: Jewels Nr Drugs plays: 128990
+artist: Drake song: Brias Interlude plays: 458817
+artist: Queen song: We Are The Champions Raw Sessions Version plays: 587354
+artist: Madonna song: Love Makes The World Go Round plays: 866041
+artist: Beyonce song: Welcome plays: 194257
+artist: Drake song: Like Im Supposed To plays: 460648
+artist: Queen song: Father To Son plays: 336417
+artist: Madonna song: Give Me All Your Luvina plays: 782256
+artist: Eminem song: One Shot 2 Shot plays: 461418
+artist: Madonna song: Veni Vedi Vici plays: 882657
+artist: Lady Gaga song: Radio plays: 485925
+artist: Lady Gaga song: You Are All My Little Monsters plays: 313444
+artist: Michael Jackson song: The Lost Children plays: 640959
+artist: Michael Jackson song: Maria You Were The Only One plays: 364562
+artist: Beyonce song: God Made You Beautiful plays: 256877
+artist: Madonna song: Girl Gone Wild Dave Aude Remix plays: 343261
+artist: Madonna song: Burning Up Live plays: 203389
+artist: Michael Jackson song: Im In Love Again plays: 811104
+artist: Cher song: Jolson Medley plays: 314631
+artist: Eminem song: No Ones Iller Then Me plays: 163440
+artist: Drake song: Views plays: 110677
+artist: Madonna song: Heartbeat plays: 115826
+artist: Drake song: Talk Is Cheap plays: 886556
+artist: Cher song: Takin Back My Heart plays: 680844
+artist: Michael Jackson song: I Wanna Be Where You Are plays: 630026
+artist: Lady Gaga song: Money Honey plays: 558294
+artist: Madonna song: Promise To Try plays: 649133
+artist: Eminem song: Puke plays: 715233
+artist: Drake song: Hyfr Hell Ya Fucking Right plays: 184771
+artist: Queen song: Delilah plays: 822716
+artist: Drake song: Find Your Love plays: 287197
+artist: Drake song: Ceces Interlude plays: 128381
+artist: Lady Gaga song: Sedated plays: 350412
+artist: Drake song: Passionfruit plays: 843651
+artist: Eminem song: The Gay I Am Way I Am Skit plays: 202799
+artist: Madonna song: Easy Ride plays: 792426
+artist: Queen song: Marriage Of Dale And Ming And Flash Approaching plays: 325080
+artist: Drake song: Versace All Star Remix plays: 860726
+artist: Madonna song: Candy Store plays: 134820
+artist: Lady Gaga song: Aura plays: 271251
+artist: Madonna song: Freedom plays: 512385
+artist: Beyonce song: Work It Out New Radio Edit plays: 585983
+artist: Eminem song: Change It All Back plays: 360660
+artist: Queen song: Regret For A Lifetime plays: 597960
+artist: Aerosmith song: Permanent Vacation plays: 558337
+artist: Lady Gaga song: Ratchet plays: 728665
+artist: Eminem song: Never 2 Far plays: 723378
+artist: Drake song: Preach plays: 381733
+artist: Cher song: Ive Got The Answer plays: 694883
+artist: Queen song: Now Im Here Live At The Hammersmith Odeon plays: 173546
+artist: Drake song: Landed plays: 419404
+artist: Aerosmith song: Critical Mass plays: 698360
+artist: Drake song: I Am Toronto plays: 147536
+artist: Madonna song: Dress You Up Into The Groove Live plays: 528694
+artist: Madonna song: Bad Girl plays: 469994
+artist: Madonna song: Madonna Vs Avicii Girl Gone Wild Aviciis Umf Mix plays: 719638
+artist: Aerosmith song: Im Ready plays: 271393
+artist: Drake song: Loving You No More Remix plays: 551814
+artist: Madonna song: Spotlight plays: 502971
+artist: Drake song: Beyond This plays: 268853
+artist: Eminem song: My Name Is Bootleg Version plays: 419219
+artist: Lady Gaga song: Anything Goes plays: 770093
+artist: Cher song: Fit To Fly plays: 777323
+artist: Cher song: Back On The Street Again plays: 406938
+artist: Drake song: Peak plays: 497621
+artist: Eminem song: Ricky Ticky Toc plays: 849482
+artist: Aerosmith song: Somebody plays: 327178
+artist: Queen song: Let Me In Your Heart Again plays: 368836
+artist: Drake song: Do Not Disturb Explicit plays: 790556
+artist: Beyonce song: Crazy In Love Remix plays: 385055
+artist: Eminem song: Kill You plays: 263168
+artist: Michael Jackson song: Maybe Tomorrow Sturken Rogers Remix plays: 487674
+artist: Queen song: Crazy Little Thing Called Love Remastered 2011 plays: 556047
+artist: Madonna song: If You Forget Me plays: 195617
+artist: Eminem song: Kim plays: 799115
+artist: Drake song: Sacrifices Explicit plays: 677578
+artist: Beyonce song: Bug A Boo Roll Call Interlude plays: 868501
+artist: Eminem song: The Peoples Champ plays: 143132
+artist: Madonna song: The Ladys Got Potential plays: 164555
+artist: Michael Jackson song: Critical plays: 591106
+artist: Cher song: The Beat Goes On plays: 441298
+artist: Drake song: Sweeterman Remix plays: 336824
+artist: Queen song: Dont Stop Me Now Remastered plays: 769247
+artist: Cher song: Runaway plays: 582925
+artist: Eminem song: Never Enough plays: 324692
+artist: Michael Jackson song: Love Is Here And Now Youre Gone plays: 207549
+artist: Dua Lipa song: Be The One plays: 600977
+artist: Beyonce song: Cherry plays: 413443
+artist: Michael Jackson song: P Y T Pretty Young Thing plays: 551230
+artist: Drake song: Sneakin plays: 836773
+artist: Queen song: Hammer To Fall plays: 514209
+artist: Queen song: We Are The Champions Remastered 2011 plays: 686974
+artist: Drake song: Signs Lost Version plays: 444383
+artist: Queen song: Somebody To Love plays: 899642
+artist: Eminem song: Untouchable plays: 629354
+artist: Drake song: Paris Morton Music Ii plays: 159763
+artist: Lady Gaga song: No Way plays: 303993
+artist: Cher song: Band Of Thieves Chastitys Song plays: 425170
+artist: Aerosmith song: Let The Music Do The Talking plays: 390817
+artist: Queen song: In The Lap Of The Gods Revisited Remastered 2011 plays: 660374
+artist: Eminem song: Lose Yourself Soundtrack Version plays: 640094
+artist: Eminem song: Old Times Sake plays: 154690
+artist: Lady Gaga song: Scream Loud plays: 403593
+artist: Queen song: Back Chat plays: 633346
+artist: Madonna song: Living For Love Live plays: 137058
+artist: Lady Gaga song: Dreams plays: 549588
+artist: Eminem song: If I Had plays: 708872
+artist: Eminem song: Asshole plays: 596262
+artist: Madonna song: Queen plays: 150446
+artist: Lady Gaga song: Cake plays: 799371
+artist: Eminem song: Bad Influence plays: 588665
+artist: Aerosmith song: Black Cherry plays: 502200
+artist: Madonna song: Back That Up plays: 277075
+artist: Lady Gaga song: White Christmas plays: 701404
+artist: Eminem song: 25 To Life plays: 654976
+artist: Madonna song: Mother And Father plays: 653891
+artist: Cher song: Where Do You Go plays: 723126
+artist: Drake song: Houstatlantavegas plays: 358948
+artist: Eminem song: Curtains Close Skit plays: 840083
+artist: Aerosmith song: Shame Shame Shame plays: 818573
+artist: Michael Jackson song: Aint No Sunshine plays: 533662
+artist: Madonna song: Love On Fire plays: 646684
+artist: Drake song: Hold On Were Going Home Remix plays: 388144
+artist: Eminem song: Im Back plays: 775240
+artist: Drake song: Shot For Me plays: 217281
+artist: Madonna song: Whys It So Hard plays: 686665
+artist: Madonna song: The Beat Goes On plays: 492848
+artist: Drake song: Yes Indeed Knxwledge Remix plays: 297701
+artist: Madonna song: Little Star plays: 778003
+artist: Drake song: Brand New plays: 188055
+artist: Eminem song: Talkin 2 Myself plays: 435573
+artist: Michael Jackson song: Intro Medley plays: 770723
+artist: Drake song: D4L plays: 583305
+artist: Drake song: Paris Morton plays: 452044
+artist: Madonna song: Rainbow Tour plays: 500312
+artist: Beyonce song: Partition Beyoncac plays: 723167
+artist: Cher song: Trail Of Broken Hearts plays: 888313
+artist: Drake song: I Do Remix plays: 316380
+artist: Madonna song: Back That Up Do It plays: 482642
+artist: Aerosmith song: Theme From Spider Man plays: 808501
+artist: Eminem song: On Fire plays: 417161
+artist: Madonna song: The Beat Is So Crazy plays: 257751
+artist: Drake song: I Want This Forver Remix plays: 830812
+artist: Beyonce song: Standing On The Sun plays: 559531
+artist: Eminem song: Phenomenal From Southpaw plays: 264588
+artist: Drake song: I Get Lonely plays: 611305
+artist: Aerosmith song: Movin Out plays: 710220
+artist: Dua Lipa song: No Lie plays: 768834
+artist: Dua Lipa song: Room For 2 plays: 661786
+artist: Eminem song: D12 Project plays: 751888
+artist: Eminem song: Early Years plays: 366434
+artist: Madonna song: Gone Gone Gone plays: 544832
+artist: Madonna song: Cyberraga plays: 565200
+artist: Queen song: Get Down Make Love plays: 292703
+artist: Lady Gaga song: Hair plays: 431951
+artist: Eminem song: Session One plays: 533596
+artist: Aerosmith song: Temperature plays: 212487
+artist: Eminem song: Bump Heads plays: 475834
+artist: Michael Jackson song: The Filling That We Have plays: 395173
+artist: Michael Jackson song: With A Childs Heart plays: 341287
+artist: Madonna song: A Cinema In Buenos Aires 26 July 1952 plays: 740708
+artist: Aerosmith song: Remember Walking In The Sand plays: 298476
+artist: Michael Jackson song: Dancing Machine Steve Aoki Remix plays: 651005
+artist: Madonna song: Another Suitcase In Another Hall plays: 889375
+artist: Drake song: Outside plays: 531100
+artist: Drake song: View From The 6 plays: 307619
+artist: Queen song: In The Lap Of The Gods plays: 552564
+artist: Queen song: Step On Me plays: 378441
+artist: Drake song: 5 Am In Toronto plays: 656210
+artist: Beyonce song: You Dont Love Me No No No plays: 816646
+artist: Michael Jackson song: Bad plays: 892833
+artist: Aerosmith song: Fall Together plays: 313645
+artist: Cher song: Cheryls Going Home plays: 575907
+artist: Madonna song: Rebel Heart Tour Intro plays: 118657
+artist: Eminem song: Stan Explicit plays: 357493
+artist: Aerosmith song: Milk Cow Blues plays: 760601
+artist: Queen song: Modern Times Rock N Rock plays: 610321
+artist: Madonna song: Im Addicted plays: 529998
+artist: Eminem song: The Anthem plays: 803045
+artist: Eminem song: Celebrity plays: 730165
+artist: Queen song: Bijou plays: 709857
+artist: Aerosmith song: Love In An Elevator plays: 501029
+artist: Eminem song: Freestyle Radio 1 plays: 122087
+artist: Madonna song: Behind Me plays: 155746
+artist: Beyonce song: Im Home Mufasa Sarabi Simba Interlude plays: 149966
+artist: Queen song: We Are The Champions plays: 433282
+artist: Michael Jackson song: Melodie plays: 128643
+artist: Drake song: Best I Ever Had plays: 812110
+artist: Drake song: Jaded plays: 890269
+artist: Eminem song: Comin Out My Closet Parody plays: 167221
+artist: Lady Gaga song: Footsteps In The Snow plays: 376598
+artist: Drake song: Yours Sincerely plays: 878479
+artist: Madonna song: Frozen plays: 285602
+artist: Madonna song: Act Of Contrition plays: 501957
+artist: Queen song: One By One plays: 584142
+artist: Cher song: Whatll I Do plays: 560055
+artist: Lady Gaga song: Speechless plays: 410854
+artist: Queen song: Doing All Right Revisited plays: 665936
+artist: Madonna song: Eye Wide Open plays: 281519
+artist: Eminem song: Im Spacebound plays: 210386
+artist: Eminem song: Rhymin Wordz Freestyle plays: 169221
+artist: Madonna song: Sky Fits Heaven plays: 456278
+artist: Madonna song: Love Profusion plays: 272829
+artist: Queen song: Seaside Rendezvous plays: 360927
+artist: Aerosmith song: Luv Xxx plays: 687805
+artist: Queen song: Killer Queen plays: 571665
+artist: Dua Lipa song: Idgaf Explicit plays: 180621
+artist: Madonna song: Revelation plays: 279017
+artist: Queen song: Dog With A Bone plays: 611002
+artist: Drake song: 2 Pistols plays: 527557
+artist: Michael Jackson song: Best Of Joy plays: 673679
+artist: Lady Gaga song: Everything Has Changed plays: 269699
+artist: Drake song: To My City plays: 470157
+artist: Drake song: Hype plays: 681666
+artist: Michael Jackson song: Money plays: 236514
+artist: Eminem song: Hailie And Me plays: 757085
+artist: Drake song: You The 6 plays: 744934
+artist: Queen song: Jailhouse Rockstupid Cupidbe Bopalula plays: 202412
+artist: Lady Gaga song: Government Hooker plays: 775326
+artist: Aerosmith song: Jesus Is On The Mainline plays: 405206
+artist: Lady Gaga song: Nothin On But The Radio plays: 631312
+artist: Eminem song: My Name Is Radiovideo Edit plays: 569797
+artist: Eminem song: Killshot plays: 493392
+artist: Madonna song: American Life Headcleaner Rock Mix plays: 831664
+artist: Drake song: My New Shit plays: 890986
+artist: Cher song: Super Trouper plays: 381476
+artist: Madonna song: Gimme All Your Luvina plays: 603248
+artist: Queen song: Football Fight plays: 364158
+artist: Madonna song: Now Im Following You plays: 816121
+artist: Drake song: Up All Night plays: 474439
+artist: Lady Gaga song: I Hear Them plays: 869934
+artist: Michael Jackson song: Dreams plays: 852807
+artist: Aerosmith song: Young Lust plays: 301965
+artist: Madonna song: Heartbreakcity Live plays: 236911
+artist: Drake song: Take You Down Freestyle plays: 126440
+artist: Michael Jackson song: Stay plays: 643356
+artist: Eminem song: No Love plays: 165921
+artist: Michael Jackson song: I Hear A Symphony plays: 137734
+artist: Aerosmith song: Cant Stop Loving You plays: 184209
+artist: Michael Jackson song: Youre The Best My Friend My Love plays: 320430
+artist: Drake song: Since Way Back plays: 773397
+artist: Queen song: April Lady plays: 193224
+artist: Beyonce song: Come Home Nala Interlude plays: 370333
+artist: Michael Jackson song: All I Need plays: 851661
+artist: Cher song: The First Time plays: 395585
+artist: Madonna song: Music Live plays: 495407
+artist: Eminem song: Ballin Uncontrollably plays: 111581
+artist: Cher song: Born With The Hunger plays: 207190
+artist: Cher song: Paradise Is Here plays: 866803
+artist: Cher song: One Small Step plays: 340627
+artist: Aerosmith song: Magic Touch plays: 342743
+artist: Eminem song: Right For Me plays: 485734
+artist: Michael Jackson song: Superfly Sister plays: 601519
+artist: Drake song: Say Something plays: 418612
+artist: Michael Jackson song: Another Part Of Me plays: 265823
+artist: Cher song: Hard Enough Getting Over You plays: 300145
+artist: Michael Jackson song: Room 2 Breathe plays: 218560
+artist: Queen song: Fight From The Inside plays: 780937
+artist: Aerosmith song: Gypsy Boots plays: 545364
+artist: Lady Gaga song: Alice plays: 276733
+artist: Lady Gaga song: Why Did You Do That plays: 263806
+artist: Drake song: Weston Road Flows plays: 658483
+artist: Cher song: Geronimos Cadillac plays: 356980
+artist: Beyonce song: Balance Mufasa Interlude plays: 786445
+artist: Beyonce song: Run Away Scar Young Simba Interlude plays: 883867
+artist: Queen song: Who Wants To Live Forever Remastered 2011 plays: 578832
+artist: Lady Gaga song: Perfect plays: 454507
+artist: Lady Gaga song: Eh Eh Nothing Else I Can Say plays: 699960
+artist: Queen song: Nevermore plays: 593684
+artist: Lady Gaga song: Pokerface plays: 377213
+artist: Queen song: More Of That Jazz plays: 580941
+artist: Aerosmith song: Sweet Emotion plays: 464626
+artist: Michael Jackson song: Rock With Youoff The Walldont Stop Til You Get plays: 589695
+artist: Michael Jackson song: Get On The Floor plays: 557163
+artist: Lady Gaga song: Reloaded plays: 115098
+artist: Eminem song: Fly Away Remix plays: 337878
+artist: Madonna song: 4 Minutes Rebirth Remix plays: 157156
+artist: Eminem song: Murder Murder plays: 447234
+artist: Drake song: I Want This Forever plays: 210058
+artist: Queen song: Patience plays: 235924
+artist: Eminem song: Throw That plays: 141733
+artist: Madonna song: Till Death Do Us Apart plays: 223892
+artist: Madonna song: Rebel Heart Live plays: 486457
+artist: Eminem song: Nice Guy plays: 405166
+artist: Madonna song: Turn Up The Radio R3Hab Remix plays: 144799
+artist: Cher song: All Or Nothing plays: 799315
+artist: Drake song: Furthest Thing plays: 130908
+artist: Queen song: Bohemian Rhapsody Live plays: 793399
+artist: Lady Gaga song: Freakshow plays: 102365
+artist: Queen song: In The Death Cell Love Theme Reprise plays: 309782
+artist: Eminem song: Biterphobia plays: 490707
+artist: Aerosmith song: Toys In The Attic Live plays: 256445
+artist: Cher song: Pain In My Heart Love And Pain plays: 367571
+artist: Aerosmith song: Rocket 88 plays: 529294
+artist: Michael Jackson song: Weve Had Enough plays: 639978
+artist: Drake song: Take Care plays: 337928
+artist: Lady Gaga song: So Happy I Could Die plays: 789879
+artist: Queen song: Love Of My Life Live At Rock In Rio plays: 521026
+artist: Madonna song: Virgin Mary plays: 139716
+artist: Drake song: Ignorant Shit plays: 187210
+artist: Madonna song: We Are The Gods plays: 863849
+artist: Queen song: Death On Two Legs Dedicated To plays: 500144
+artist: Beyonce song: Yonce plays: 782828
+artist: Lady Gaga song: Angel Down Work Tape plays: 403455
+artist: Queen song: Let Me Live plays: 333892
+artist: Madonna song: Holiday Live plays: 855324
+artist: Madonna song: Back In Business plays: 862748
+artist: Eminem song: Not Afraid Live plays: 620557
+artist: Eminem song: Despicable plays: 682233
+artist: Cher song: I Got It Bad That Aint Good plays: 163956
+artist: Michael Jackson song: 2 Bad plays: 843729
+artist: Eminem song: Hard plays: 733284
+artist: Madonna song: Stay plays: 560868
+artist: Queen song: Party plays: 587668
+artist: Cher song: Perfection plays: 310413
+artist: Queen song: Dont Stop Me Now plays: 175043
+artist: Michael Jackson song: Goin Back To Alabama plays: 326612
+artist: Drake song: Hell Ya Fuin Right plays: 170139
+artist: Michael Jackson song: Dirty Diana plays: 755893
+artist: Eminem song: Fack plays: 464811
+artist: Queen song: Chinese Torture plays: 230138
+artist: Michael Jackson song: History plays: 859796
+artist: Queen song: Scandal plays: 384972
+artist: Queen song: Killerkiller Remastered 2011 plays: 575276
+artist: Madonna song: Miss You plays: 694748
+artist: Lady Gaga song: Rose Thorns plays: 860852
+artist: Cher song: Milord plays: 191370
+artist: Cher song: Podunk plays: 773556
+artist: Beyonce song: My Power plays: 891325
+artist: Michael Jackson song: Abc The Jackson 5 plays: 325114
+artist: Cher song: Rudy plays: 777843
+artist: Drake song: Nonstop plays: 283274
+artist: Madonna song: Rebel Heart Tour Intro Live plays: 531873
+artist: Madonna song: Love Dont Live Here Anymore plays: 204234
+artist: Aerosmith song: Simoriah plays: 724018
+artist: Cher song: A Different Kind Of Love Song plays: 842019
+artist: Michael Jackson song: Butterflies plays: 661351
+artist: Queen song: Im Going Slightly Mad plays: 746773
+artist: Eminem song: The Last Hit plays: 432540
+artist: Cher song: Love Me With Greg Allman plays: 667113
+artist: Queen song: Killer Live plays: 452404
+artist: Eminem song: Muurder plays: 617184
+artist: Beyonce song: 12 Roses plays: 409937
+artist: Madonna song: Hung Up Album Version plays: 833764
+artist: Queen song: Love Of My Life Live At Rock In Rio Festival plays: 795343
+artist: Madonna song: La Petite Jeune Fille plays: 845434
+artist: Lady Gaga song: Eh Eh Nothing Else I Can Say Random Soul Synthetic plays: 465305
+artist: Drake song: Over My Dead Body plays: 739888
+artist: Cher song: Miss Subway Of 1952 plays: 735073
+artist: Eminem song: Lighters plays: 433854
+artist: Michael Jackson song: Beat It plays: 415473
+artist: Drake song: Faith plays: 273429
+artist: Queen song: Reaching Out plays: 308280
+artist: Madonna song: Revenge plays: 793928
+artist: Lady Gaga song: Cake Like Lady Gaga plays: 832476
+artist: Madonna song: Candy Shop plays: 768859
+artist: Eminem song: City Of Gold plays: 483377
+artist: Queen song: Escape From The Swamp plays: 251306
+artist: Beyonce song: Pray You Catch Me plays: 193654
+artist: Madonna song: Id Rather Be Your Lover plays: 242830
+artist: Eminem song: Drips plays: 595842
+artist: Aerosmith song: Full Circle plays: 476062
+artist: Aerosmith song: Shes On Fire plays: 768566
+artist: Eminem song: Like Toy Soldiers Explicit plays: 213922
+artist: Queen song: Bicycle Race plays: 875995
+artist: Michael Jackson song: What Goes Around Comes Around plays: 773525
+artist: Lady Gaga song: Second Time Around plays: 777624
+artist: Eminem song: Nowhere Fast plays: 681684
+artist: Drake song: Forever plays: 397667
+artist: Lady Gaga song: Fancy Pants plays: 548484
+artist: Eminem song: One Shot plays: 725972
+artist: Drake song: Lord Knows plays: 221804
+artist: Eminem song: These Drugs plays: 492322
+artist: Drake song: Closer plays: 104703
+artist: Aerosmith song: Up On A Mountain plays: 116558
+artist: Cher song: Prisoner plays: 225091
+artist: Eminem song: Open Mic plays: 194273
+artist: Drake song: Cant Take A Joke plays: 838977
+artist: Cher song: When The Love Is Gone plays: 263989
+artist: Queen song: Execution Of Flash plays: 221768
+artist: Madonna song: Youll See plays: 547271
+artist: Madonna song: Skin plays: 593355
+artist: Aerosmith song: Krawitham plays: 863831
+artist: Aerosmith song: Fine plays: 790300
+artist: Drake song: At Your Best plays: 363847
+artist: Cher song: Human plays: 833774
+artist: Drake song: Skepta Interlude plays: 756957
+artist: Madonna song: Never Let You Go Demo plays: 548549
+artist: Michael Jackson song: You Are So Beautiful plays: 154757
+artist: Lady Gaga song: Judas plays: 690318
+artist: Cher song: Just What Ive Been Lookin For plays: 297348
+artist: Drake song: Bollywood Flow plays: 426890
+artist: Lady Gaga song: Perfect Illusion plays: 454767
+artist: Madonna song: Dear Jessie plays: 643896
+artist: Michael Jackson song: Jackson 5 Medley I Want You Backthe Love You plays: 687622
+artist: Cher song: Working Girl plays: 339100
+artist: Madonna song: Evas Final Broadcast plays: 384160
+artist: Queen song: Stop All The Fighting plays: 310703
+artist: Drake song: Bar Mitzvah In 1999 plays: 462852
+artist: Drake song: Unforgettable plays: 298749
+artist: Eminem song: Royce Da 59 plays: 572859
+artist: Madonna song: Revolution plays: 846997
+artist: Queen song: You Are The Champions In Support Of The Covid plays: 820919
+artist: Eminem song: Rabbit Vs Papa Doc Freestyle From 8 Mile plays: 625157
+artist: Michael Jackson song: 2 Bad Refugee Camp Mix plays: 231678
+artist: Drake song: Practice plays: 534420
+artist: Dua Lipa song: Good Times Jamie Xx Rework plays: 146967
+artist: Cher song: Carousel Man plays: 309028
+artist: Lady Gaga song: Your Song plays: 789950
+artist: Lady Gaga song: Ink plays: 702424
+artist: Madonna song: More plays: 592103
+artist: Cher song: If I Knew Then plays: 786344
+artist: Michael Jackson song: Call plays: 114642
+artist: Beyonce song: All Night plays: 770000
+artist: Michael Jackson song: You Are Not Alone Radio Edit plays: 864368
+artist: Lady Gaga song: Scheibe plays: 534498
+artist: Madonna song: Like A Prayer plays: 229523
+artist: Queen song: A Human Body plays: 496036
+artist: Eminem song: Tragic Endings plays: 827882
+artist: Michael Jackson song: Dear Michael plays: 838454
+artist: Michael Jackson song: Twelve Oclockdo You Know Where Your Children Are plays: 316823
+artist: Eminem song: Schooling plays: 688526
+artist: Eminem song: So Bad plays: 717829
+artist: Michael Jackson song: Hey Santa plays: 851553
+artist: Eminem song: Love The Way You Lie Part Ii plays: 861600
+artist: Lady Gaga song: Cheek To Cheek plays: 256637
+artist: Madonna song: Where Life Begins plays: 356326
+artist: Lady Gaga song: Eh Eh Nothing Else I Can Say Electric Piano And Human plays: 485985
+artist: Madonna song: Give Me All Your Lovin plays: 184838
+artist: Lady Gaga song: I Wanna Be With You plays: 275050
+artist: Dua Lipa song: Dont Start Now plays: 533867
+artist: Drake song: Notice Me plays: 145102
+artist: Lady Gaga song: Shiza plays: 289387
+artist: Beyonce song: Mood 4 Eva plays: 727972
+artist: Aerosmith song: I Dont Want To Miss A Thing plays: 808127
+artist: Eminem song: Soap plays: 634837
+artist: Madonna song: Requiem For Evita plays: 235311
+artist: Drake song: Back To Back Freestyle plays: 460787
+artist: Madonna song: Jump plays: 540695
+artist: Eminem song: My Band plays: 595889
+artist: Eminem song: The Apple plays: 538899
+artist: Queen song: Shove It plays: 804487
+artist: Eminem song: Hell Breaks Loose plays: 510288
+artist: Lady Gaga song: Born This Way Remix plays: 761695
+artist: Eminem song: My 1St Single plays: 294878
+artist: Queen song: Bohemian Rhapsody Live Aid plays: 118802
+artist: Lady Gaga song: No Floods plays: 859931
+artist: Aerosmith song: Rats In The Cellar plays: 387660
+artist: Beyonce song: Daddy Lessons plays: 340182
+artist: Eminem song: Shady Narcotics Intro plays: 400596
+artist: Eminem song: Legacy plays: 880318
+artist: Beyonce song: Forgiveness plays: 356230
+artist: Eminem song: Down plays: 596621
+artist: Aerosmith song: Sunshine plays: 693963
+artist: Cher song: The Greatest Song I Ever Heard plays: 655083
+artist: Eminem song: 8 Mile Freestyle Ptii Vs plays: 407351
+artist: Michael Jackson song: In Our Small Way plays: 738273
+artist: Eminem song: Under The Influence plays: 261650
+artist: Michael Jackson song: Euphoria plays: 142761
+artist: Eminem song: Letter To Myself plays: 481005
+artist: Eminem song: Purple Pills plays: 617641
+artist: Madonna song: Nothing Fails plays: 319271
+artist: Michael Jackson song: Burn The Disco Out plays: 662905
+artist: Beyonce song: Xo plays: 263195
+artist: Michael Jackson song: On The Line plays: 773214
+artist: Madonna song: Animal plays: 242550
+artist: Drake song: Fire In The Booth Freestyle plays: 317317
+artist: Queen song: Dont Lose Your Head plays: 727422
+artist: Eminem song: Public Enemy 1 plays: 899787
+artist: Michael Jackson song: Morphine plays: 485015
+artist: Drake song: Zone plays: 755707
+artist: Michael Jackson song: Keep Your Head Up plays: 559985
+artist: Cher song: Fernando Originally By Abba plays: 177944
+artist: Madonna song: What Can You Loose plays: 773315
+artist: Michael Jackson song: Men In Black plays: 675779
+artist: Michael Jackson song: Call On Me plays: 419278
+artist: Lady Gaga song: Eh Eh plays: 808589
+artist: Drake song: Special plays: 812100
+artist: Madonna song: Erotic Candy Shop plays: 253230
+artist: Eminem song: Forgot About Dre plays: 415566
+artist: Queen song: Say Its Not True plays: 214252
+artist: Drake song: To The Max plays: 104488
+artist: Queen song: Play The Game plays: 648539
+artist: Queen song: We Will Rock You Remastered plays: 100391
+artist: Michael Jackson song: Thats What Love Is Made Of plays: 416616
+artist: Cher song: Mamma Mia plays: 393151
+artist: Aerosmith song: Road Runner plays: 249757
+artist: Madonna song: Hold Tight plays: 168301
+artist: Dua Lipa song: Blow Your Mind plays: 503251
+artist: Michael Jackson song: Mamacita plays: 691965
+artist: Drake song: Diplomatic Immunity plays: 459598
+artist: Michael Jackson song: Earth Song Radio Edit plays: 828174
+artist: Lady Gaga song: Monster plays: 271686
+artist: Michael Jackson song: Happy Birthday Lisa plays: 570433
+artist: Beyonce song: Back To Black plays: 780206
+artist: Lady Gaga song: Runaway plays: 108017
+artist: Drake song: I Get Lonely Too plays: 429264
+artist: Eminem song: Nail In Your Coffin Part 1 plays: 471010
+artist: Cher song: After All Love Theme From Chances Are plays: 659897
+artist: Eminem song: Hello Good Morning Remix plays: 606281
+artist: Lady Gaga song: Black Jesus Amen Fashion plays: 175583
+artist: Drake song: From Time plays: 123873
+artist: Drake song: The Language plays: 629386
+artist: Eminem song: Monkey See Monkey Do plays: 852272
+artist: Cher song: Oh No Not My Baby plays: 462728
+artist: Drake song: Not Nice plays: 119823
+artist: Queen song: The Hitman plays: 409644
+artist: Michael Jackson song: I Cant Make It Another Day plays: 798588
+artist: Madonna song: Devil Pray plays: 623616
+artist: Eminem song: Drug Ballad plays: 832380
+artist: Lady Gaga song: Love Game Remix plays: 551560
+artist: Eminem song: Shots Fired plays: 284689
+artist: Aerosmith song: Aint Enough plays: 228911
+artist: Lady Gaga song: Tribute To Sound Of Music plays: 229067
+artist: Drake song: Paris Morton Music plays: 619415
+artist: Queen song: Cosmos Rockin plays: 296392
+artist: Madonna song: Wheres The Party plays: 852143
+artist: Lady Gaga song: Shades Of Grey plays: 714425
+artist: Queen song: Noone But You plays: 899931
+artist: Eminem song: Darkness plays: 225087
+artist: Eminem song: Dont Front plays: 566966
+artist: Eminem song: Like Toy Soilders plays: 797420
+artist: Lady Gaga song: Applause plays: 637811
+artist: Eminem song: Get Money plays: 493666
+artist: Michael Jackson song: Whos Lookin For A Lover plays: 193252
+artist: Eminem song: Lounge plays: 650503
+artist: Aerosmith song: Come Together plays: 606541
+artist: Queen song: Stealin plays: 890801
+artist: Cher song: I Still Havent Found What Im Looking For plays: 690631
+artist: Michael Jackson song: You Are My Life plays: 794608
+artist: Eminem song: Intro Curtain Call The Hits plays: 236570
+artist: Drake song: The Catch Up Yomaneskos Mix plays: 348890
+artist: Eminem song: Public Service Announcement plays: 438910
+artist: Drake song: Im Ready For Ya plays: 512443
+artist: Queen song: Killer Queen 2011 Remaster plays: 679763
+artist: Michael Jackson song: Ifn I Was God plays: 132405
+artist: Queen song: Lost Opportunity plays: 501585
+artist: Drake song: Go Out Tonight plays: 501878
+artist: Eminem song: Jingle Bells plays: 643481
+artist: Dua Lipa song: New Rules Initial Talk Remix plays: 523487
+artist: Eminem song: Devils Night Intro plays: 396052
+artist: Lady Gaga song: Alejandro plays: 872276
+artist: Eminem song: If I Get Locked Up Tonight With Drdre plays: 844302
+artist: Drake song: Company plays: 342933
+artist: Michael Jackson song: Burn This Disco Out plays: 216735
+artist: Eminem song: Devils Grave Goat Machine Gun Kelly Diss plays: 540559
+artist: Michael Jackson song: Maria plays: 621990
+artist: Eminem song: Unrealistically Graphic plays: 124015
+artist: Cher song: Mamawhen My Dollies Have Babies plays: 576340
+artist: Cher song: Love Understanding plays: 852006
+artist: Beyonce song: Shining plays: 756858
+artist: Madonna song: Take A Bow plays: 211658
+artist: Aerosmith song: I Wanna Know Why plays: 154854
+artist: Drake song: Good Ones plays: 562877
+artist: Eminem song: Just Lose It plays: 338919
+artist: Drake song: Connect plays: 548398
+artist: Drake song: Crew Love plays: 673409
+artist: Eminem song: 8 Mile Freestyle Ptiii Vs plays: 194182
+artist: Drake song: Blue Tint plays: 843722
+artist: Eminem song: Psychopath Killer plays: 102513
+artist: Lady Gaga song: The Edge Of Glory Remix plays: 874369
+artist: Drake song: Thank Me Now plays: 414132
+artist: Michael Jackson song: Scared plays: 802324
+artist: Cher song: Fire Rain plays: 113094
+artist: Eminem song: Remind Me plays: 333870
+artist: Eminem song: Little Engine plays: 521693
+artist: Aerosmith song: Lover A Lot plays: 111752
+artist: Lady Gaga song: Diggin My Grave plays: 435991
+artist: Eminem song: My Name Is Real Dirty plays: 156348
+artist: Michael Jackson song: State Of Shock plays: 199703
+artist: Cher song: Fires Of Eden plays: 801798
+artist: Queen song: Killer Remastered 2011 plays: 693437
+artist: Queen song: The March Of The Black Queen plays: 475680
+artist: Eminem song: Goina Crazy plays: 378197
+artist: Eminem song: Shady Xv Cypher plays: 360718
+artist: Michael Jackson song: Thriller Video Version plays: 582487
+artist: Michael Jackson song: Belong 2 plays: 179029
+artist: Eminem song: Evil Deeds plays: 263822
+artist: Eminem song: Eminem Part 1 plays: 306731
+artist: Queen song: Is This The World We Created plays: 445907
+artist: Cher song: The Book Of Love plays: 165293
+artist: Queen song: Let Me In Your Heart Again Remastered 2014 plays: 304448
+artist: Drake song: Its Never Enough plays: 617579
+artist: Drake song: Omerta plays: 347305
+artist: Beyonce song: Nile plays: 335153
+artist: Aerosmith song: Another Last Goodbye plays: 699436
+artist: Drake song: Drake Speaks plays: 266439
+artist: Drake song: Right On Time plays: 476122
+artist: Cher song: Unchained Melody plays: 398097
+artist: Drake song: You The Six plays: 248765
+artist: Michael Jackson song: She Was Lovin Me plays: 129752
+artist: Eminem song: Lose Yourself Dirty plays: 886517
+artist: Michael Jackson song: Rockin Robin plays: 354068
+artist: Aerosmith song: Face plays: 126524
+artist: Queen song: Let Me Entertain You plays: 837790
+artist: Beyonce song: Who Run The World plays: 299884
+artist: Madonna song: Shes Not Me plays: 671855
+artist: Drake song: Ignant Shit plays: 469936
+artist: Aerosmith song: Attitude Adjustment plays: 351597
+artist: Queen song: Who Wants To Live Forever plays: 757656
+artist: Michael Jackson song: Cheater plays: 148706
+artist: Aerosmith song: Sight For Sore Eyes plays: 867584
+artist: Queen song: Doin Alright plays: 231403
+artist: Cher song: You Havenat Seen The Last Of Me plays: 647382
+artist: Lady Gaga song: Heal Me plays: 763949
+artist: Beyonce song: Love Drought plays: 612090
+artist: Drake song: She Will Peril P plays: 834655
+artist: Lady Gaga song: Reel Cool plays: 615536
+artist: Queen song: Dont Stop Me Now Remastered 2011 plays: 414232
+artist: Michael Jackson song: Dangerous plays: 845201
+artist: Drake song: 6Pm In New York plays: 484836
+artist: Drake song: Versace plays: 335114
+artist: Aerosmith song: Draw The Line Remix plays: 631989
+artist: Michael Jackson song: I Can plays: 411683
+artist: Beyonce song: Smash Into You plays: 804788
+artist: Drake song: Interlude plays: 437318
+artist: Michael Jackson song: Speed Demon 2012 Remaster plays: 243612
+artist: Drake song: Say Whats Real plays: 105591
+artist: Madonna song: Santa Evita plays: 100581
+artist: Dua Lipa song: Blow Your Mind Mwah Explicit plays: 865255
+artist: Madonna song: Hard Candy plays: 376707
+artist: Madonna song: To Have And Not To Hold plays: 145078
+artist: Queen song: Bohemian Rhapsody plays: 605368
+artist: Drake song: Jorja Interlude Explicit plays: 856316
+artist: Drake song: Know Yourself plays: 338568
+artist: Aerosmith song: Pandoras Box plays: 583588
+artist: Lady Gaga song: Love Game Poker Face Medley plays: 411319
+artist: Drake song: 8Am In London plays: 460864
+artist: Aerosmith song: Dream On plays: 830472
+artist: Aerosmith song: Chip Away The Stone plays: 847682
+artist: Aerosmith song: Helter Skelter plays: 415383
+artist: Lady Gaga song: Americano Remix plays: 728316
+artist: Aerosmith song: The Hop plays: 102519
+artist: Cher song: Runnin plays: 785043
+artist: Madonna song: Paradise Not For Me plays: 432461
+artist: Eminem song: It Was Just A Dream plays: 549250
+artist: Michael Jackson song: Just Good Friends 2012 Remaster plays: 734059
+artist: Aerosmith song: Round And Round plays: 452420
+artist: Eminem song: Encore plays: 392586
+artist: Eminem song: Ae plays: 761462
+artist: Michael Jackson song: Smooth Criminal Live plays: 810723
+artist: Cher song: Gypsys Tramps Thieves plays: 773188
+artist: Lady Gaga song: Fever Demo plays: 592808
+artist: Lady Gaga song: Dont Wait Too Long plays: 364220
+artist: Madonna song: Ray Of Light plays: 505570
+artist: Drake song: All Night Long plays: 589329
+artist: Queen song: Fat Bottomed Girls Single Version plays: 751372
+artist: Eminem song: Superman plays: 496762
+artist: Queen song: Lets Turn It On plays: 845519
+artist: Cher song: Cryin Shame plays: 846570
+artist: Aerosmith song: My Fist Your Face plays: 388294
+artist: Queen song: Love Lies Bleeding She Was A Wicked Wily Waitress plays: 482312
+artist: Michael Jackson song: Xscape Documentary Outtakes plays: 187523
+artist: Madonna song: And The Money Kept Rolling In plays: 863800
+artist: Michael Jackson song: The Girl Is Mine 2008 plays: 115532
+artist: Eminem song: Final Thought Skit plays: 408324
+artist: Dua Lipa song: Hallucinate plays: 225884
+artist: Aerosmith song: Dude plays: 642289
+artist: Beyonce song: 711 Remix plays: 880441
+artist: Cher song: Magic In The Air plays: 892754
+artist: Cher song: The Same Mistake plays: 201635
+artist: Michael Jackson song: Never Can Say Goodbye plays: 564361
+artist: Michael Jackson song: The Pain plays: 208140
+artist: Drake song: Lust For Life plays: 176516
+artist: Cher song: Gimme Gimme Gimme A Man After Midnight plays: 431046
+artist: Michael Jackson song: Human Nature plays: 205025
+artist: Aerosmith song: Outro plays: 124922
+artist: Aerosmith song: Lizard Love plays: 603618
+artist: Eminem song: Role Model plays: 668422
+artist: Queen song: Under Pressure Rah Mix plays: 737769
+artist: Madonna song: Erotica Live Remastered plays: 326891
+artist: Drake song: Summer Sixteen plays: 805553
+artist: Beyonce song: Standing On The Sun Remix plays: 404769
+artist: Queen song: Need Your Loving Tonight plays: 647071
+artist: Queen song: Hello Mary Lou plays: 112333
+artist: Eminem song: Need A Doctor plays: 830593
+artist: Eminem song: Any Man plays: 838600
+artist: Beyonce song: Immortal plays: 824780
+artist: Drake song: What If I Kissed You plays: 654602
+artist: Cher song: Dream Baby plays: 500157
+artist: Michael Jackson song: We Be Ballin plays: 874558
+artist: Aerosmith song: Make It plays: 662046
+artist: Queen song: Love Of My Life Remastered 2011 plays: 453208
+artist: Drake song: When To Say When plays: 154312
+artist: Beyonce song: Drunk In Love Tiesto Remix plays: 536670
+artist: Aerosmith song: I Dont Wanna Close My Eyes plays: 524228
+artist: Drake song: Hotline Bling plays: 190791
+artist: Aerosmith song: Living On The Edge plays: 403373
+artist: Queen song: Warboys plays: 597555
+artist: Michael Jackson song: Blue Gangsta plays: 245985
+artist: Michael Jackson song: Wings Of My Love plays: 679465
+artist: Cher song: Fire Down Below plays: 894103
+artist: Beyonce song: Die With You plays: 287894
+artist: Madonna song: Isaac plays: 170635
+artist: Eminem song: Im On Everything plays: 684705
+artist: Eminem song: The Bong Song plays: 601803
+artist: Michael Jackson song: You Are Not Alone plays: 398026
+artist: Lady Gaga song: Chromatica plays: 596559
+artist: Eminem song: The Night Before Christmas plays: 853947
+artist: Drake song: Glow plays: 705720
+artist: Drake song: God Snippet plays: 885434
+artist: Madonna song: Give It To Me plays: 681741
+artist: Madonna song: Justify My Love plays: 310871
+artist: Eminem song: Intro Slim Shady plays: 727576
+artist: Eminem song: Insane plays: 595647
+artist: Lady Gaga song: Marry The Night plays: 260127
+artist: Madonna song: Beautiful Scars plays: 895229
+artist: Cher song: Couldve Been You plays: 263435
+artist: Madonna song: I Fucked Up plays: 550149
+artist: Eminem song: Eye Of The Tiger plays: 162379
+artist: Cher song: Song Called Children plays: 248209
+artist: Eminem song: Soldier plays: 417732
+artist: Queen song: Polar Bear plays: 431315
+artist: Queen song: Arboria Planet Of The Tree Men plays: 858937
+artist: Queen song: Heaven For Everyone plays: 117332
+artist: Eminem song: Brain Damage plays: 820107
+artist: Drake song: King Leon plays: 791437
+artist: Lady Gaga song: Swine plays: 441483
+artist: Michael Jackson song: Cinderella Stay Awhile plays: 439149
+artist: Dua Lipa song: Break My Heart Jax Jones Midnight Snack Remix plays: 779210
+artist: Beyonce song: Move Your Body Lets Move Campaign plays: 792337
+artist: Drake song: Shut It Down plays: 644766
+artist: Madonna song: Over And Over plays: 152091
+artist: Cher song: Move Me plays: 593160
+artist: Michael Jackson song: Behind The Mask plays: 576047
+artist: Aerosmith song: On The Road Again plays: 485293
+artist: Drake song: Come Real plays: 228691
+artist: Madonna song: Beautiful Killer plays: 476085
+artist: Madonna song: Lets Go Dancing plays: 168021
+artist: Beyonce song: Flawless Remix plays: 456605
+artist: Lady Gaga song: Imagine plays: 251532
+artist: Drake song: Over plays: 666949
+artist: Madonna song: Im A Sinner plays: 818486
+artist: Eminem song: Smack That Remix plays: 740724
+artist: Eminem song: Careful What You Wish For plays: 890953
+artist: Madonna song: Keep It Together plays: 460707
+artist: Michael Jackson song: One Day In Your Life plays: 201074
+artist: Dua Lipa song: Break My Heart Joris Voorn Remix plays: 502307
+artist: Drake song: Trophies plays: 542939
+artist: Lady Gaga song: Dirty Ice Cream plays: 515584
+artist: Drake song: Jersey plays: 671350
+artist: Queen song: Sweet Lady plays: 720894
+artist: Michael Jackson song: Girlfriend plays: 872176
+artist: Michael Jackson song: You Are Not Alone Single Version plays: 242686
+artist: Drake song: 4422 plays: 278203
+artist: Eminem song: Survival plays: 283776
+artist: Beyonce song: Love On Top Homecoming Live plays: 879935
+artist: Queen song: In Only Seven Days plays: 205198
+artist: Madonna song: I Rise Tracy Youngs Pride Extended Remix plays: 169156
+artist: Michael Jackson song: The Future plays: 636328
+artist: Dua Lipa song: Want To plays: 858574
+artist: Madonna song: Confessions plays: 831613
+artist: Eminem song: Brabbit Vs Papa Doc Freestyle From 8 Mile plays: 586697
+artist: Drake song: Marvins Room Buried Alive Interlude plays: 127672
+artist: Aerosmith song: Attitude Adjusment plays: 809810
+artist: Michael Jackson song: Off The Wall plays: 641206
+artist: Eminem song: Parking Lot plays: 559085
+artist: Drake song: Diamonds Dancing plays: 714524
+artist: Aerosmith song: Downtown Charlie plays: 330442
+artist: Drake song: The Search plays: 660137
+artist: Drake song: Slow Down plays: 159523
+artist: Madonna song: Im In Love With Love plays: 743569
+artist: Michael Jackson song: Man In The Mirror plays: 266893
+artist: Michael Jackson song: Wannabe Startin plays: 525803
+artist: Cher song: Hell On Wheels plays: 687098
+artist: Cher song: Chiquitita plays: 537676
+artist: Drake song: Used To Remix plays: 179118
+artist: Lady Gaga song: Telephone plays: 746867
+artist: Dua Lipa song: Dreams plays: 753811
+artist: Drake song: Trust Issues plays: 544948
+artist: Eminem song: Atlanta On Fire plays: 304793
+artist: Drake song: Pop Rose plays: 129282
+artist: Lady Gaga song: Partynauseous plays: 810164
+artist: Drake song: Final Fantasy plays: 841917
+artist: Eminem song: Everyone Has Been Shot plays: 220357
+artist: Drake song: Hold On Were Going Home plays: 146773
+artist: Michael Jackson song: Happy Love Theme From plays: 552796
+artist: Michael Jackson song: This Place Hotel plays: 650500
+artist: Madonna song: Sex plays: 715752
+artist: Madonna song: Has To Be plays: 876432
+artist: Eminem song: Curtains Down plays: 291842
+artist: Eminem song: Berzerk plays: 568850
+artist: Lady Gaga song: Hooker plays: 626420
+artist: Queen song: We Are The Champions Live Aid plays: 170985
+artist: Drake song: If Only Yall New plays: 423520
+artist: Madonna song: White Heat plays: 218739
+artist: Lady Gaga song: Love Me Right plays: 159607
+artist: Michael Jackson song: Shake Your Bodydont Stop Til You Get Enough plays: 797033
+artist: Drake song: Ransom plays: 860297
+artist: Madonna song: Beautiful Stranger Calderone Mix plays: 384840
+artist: Eminem song: People Make Me plays: 664114
+artist: Beyonce song: No Angel plays: 247773
+artist: Beyonce song: Sweet Dreams plays: 141036
+artist: Drake song: From Florida With Love plays: 100668
+artist: Queen song: I Want To Break Free Live At Wembley Stadium July 1986 plays: 827471
+artist: Cher song: Alive Again plays: 128759
+artist: Eminem song: Pistol Pistol Remix Obie Trice plays: 561183
+artist: Aerosmith song: Somethings Gotta Give plays: 714158
+artist: Michael Jackson song: Just Friends plays: 562033
+artist: Eminem song: Encorecurtains Down plays: 192693
+artist: Cher song: Say The Word plays: 393782
+artist: Aerosmith song: Fly Away From Here plays: 564037
+artist: Drake song: Pound Cake plays: 427606
+artist: Aerosmith song: Outta Your Head plays: 163023
+artist: Cher song: Give Our Love A Fightin Chance plays: 561146
+artist: Queen song: Fat Bottom Girls plays: 266218
+artist: Drake song: Where Were You plays: 156714
+artist: Michael Jackson song: Smooth Criminal Radio Edit plays: 662619
+artist: Aerosmith song: Just Push Play plays: 232867
+artist: Drake song: Tell Your Friends Remix plays: 133969
+artist: Madonna song: Swim plays: 824659
+artist: Eminem song: Tour Aftermath plays: 498410
+artist: Queen song: Youre So Square Baby I Dont Care plays: 450352
+artist: Lady Gaga song: 1000 Doves Piano Demo plays: 508316
+artist: Drake song: Made Men plays: 253677
+artist: Beyonce song: Heaven Beyoncac plays: 697484
+artist: Aerosmith song: Street Jesus plays: 807970
+artist: Eminem song: Stronger Than I Was plays: 300631
+artist: Dua Lipa song: Dont Start Now Dom Dolla Remix plays: 851414
+artist: Drake song: Cant Have Everything plays: 582633
+artist: Aerosmith song: All Your Love plays: 510378
+artist: Cher song: You Havent Seen The Last Of Me plays: 896272
+artist: Madonna song: Rain plays: 661318
+artist: Lady Gaga song: Just Another Day plays: 593925
+artist: Michael Jackson song: There Must Be More To Life Than This plays: 670946
+artist: Beyonce song: Grown Woman plays: 214690
+artist: Michael Jackson song: Whatever Happens plays: 708774
+artist: Beyonce song: Xo Monsieur Adi Remix plays: 168384
+artist: Eminem song: Jealousy Woes Ii plays: 467369
+artist: Madonna song: Future Loversi Feel Love plays: 779570
+artist: Drake song: Money In The Grave plays: 294405
+artist: Madonna song: Mer Girl plays: 295310
+artist: Aerosmith song: Three Mile Smilereefer Head Woman plays: 296011
+artist: Eminem song: My Name Is plays: 307517
+artist: Eminem song: Crack A Bottle plays: 605318
+artist: Eminem song: Headlights plays: 387121
+artist: Eminem song: Kamikaze plays: 544093
+artist: Eminem song: I Love You More Kim2 plays: 825664
+artist: Beyonce song: Schoolin Life plays: 441408
+artist: Queen song: Who Wants To Live Forever Live At Wembley Stadium July plays: 773201
+artist: Michael Jackson song: Too Young plays: 885137
+artist: Aerosmith song: I Live In Connecticut plays: 539433
+artist: Michael Jackson song: Xscape plays: 630950
+artist: Dua Lipa song: Dont Start Now Kungs Remix plays: 221042
+artist: Drake song: Girls Love Beyonce Sbtrkt Remix plays: 332420
+artist: Lady Gaga song: Wonderful plays: 371168
+artist: Michael Jackson song: Dancing Machine Polow Remix plays: 180435
+artist: Eminem song: The Way I Am Explicit plays: 219020
+artist: Michael Jackson song: Shoo Be Doo Be Doo Da Day plays: 618395
+artist: Eminem song: 8 Mile Chapter 7 Parking Lot Battle B Rabbit plays: 718227
+artist: Drake song: One Man Show plays: 477281
+artist: Cher song: Were Gonna Make It plays: 573548
+artist: Drake song: Tell Your Friends plays: 157118
+artist: Queen song: Body Language plays: 721638
+artist: Madonna song: Joan Of Arc plays: 834681
+artist: Cher song: When You Find Out Where Youre Goinlet Me Know plays: 195204
+artist: Cher song: Love Enough plays: 356459
+artist: Queen song: Bohemian Rhapsody Spanish plays: 450305
+artist: Aerosmith song: Sedona Sunrise plays: 402483
+artist: Cher song: Dova Lamore plays: 646139
+artist: Michael Jackson song: Will You Be There plays: 549271
+artist: Eminem song: Alfred Outro plays: 663015
+artist: Eminem song: Square Dance plays: 714085
+artist: Queen song: Bohemian Rhapsody 2011 Remaster plays: 264443
+artist: Cher song: I Found You Love With Greg Allman plays: 778107
+artist: Eminem song: Steve Berman plays: 824623
+artist: Cher song: Girl Dont Come plays: 750989
+artist: Madonna song: If You Go Away plays: 647099
+artist: Drake song: Ice Melts plays: 884416
+artist: Madonna song: Something To Remember plays: 569674
+artist: Eminem song: Billion Bucks plays: 482350
+artist: Eminem song: Love The Way You Lie plays: 425585
+artist: Madonna song: Let It Will Be plays: 322026
+artist: Michael Jackson song: Love Never Felt So Good plays: 370113
+artist: Michael Jackson song: Hot Street plays: 261475
+artist: Cher song: The Greatest Thing plays: 182409
+artist: Cher song: United We Stand plays: 857503
+artist: Madonna song: Supernatural Original Arms House Mix plays: 292583
+artist: Queen song: Some Day One Day plays: 257888
+artist: Lady Gaga song: Manicure plays: 809874
+artist: Cher song: Real Love plays: 707375
+artist: Queen song: Its Late plays: 657143
+artist: Eminem song: Marsh plays: 367716
+artist: Madonna song: Bedtime Story plays: 688022
+artist: Lady Gaga song: Stupid Love Vitaclub Warehouse Mix plays: 505096
+artist: Drake song: These Days plays: 899770
+artist: Queen song: Mad The Swine plays: 735604
+artist: Drake song: Time Flies plays: 187127
+artist: Aerosmith song: Trip Hoppin plays: 567995
+artist: Madonna song: Falling Free plays: 730542
+artist: Madonna song: La Isla Bonita Live plays: 473380
+artist: Beyonce song: Black Parade plays: 269414
+artist: Cher song: I Got You Babe plays: 307241
+artist: Eminem song: Just Lose It Explicit plays: 141190
+artist: Drake song: Hype Remix plays: 765991
+artist: Michael Jackson song: Blame It On The Boogie The Jacksons plays: 879618
+artist: Dua Lipa song: Lost In Your Light plays: 783522
+artist: Queen song: Procession plays: 853566
+artist: Eminem song: Buffalo Bill plays: 541890
+artist: Queen song: Exercises In Free Love plays: 166230
+artist: Drake song: On A Wave plays: 516468
+artist: Michael Jackson song: Dirty Diana 2012 Remaster plays: 171270
+artist: Madonna song: Erotic plays: 287349
+artist: Dua Lipa song: Between A Bullet A Heartbreak plays: 613460
+artist: Eminem song: Echo plays: 163581
+artist: Cher song: Take It Like A Man plays: 388585
+artist: Eminem song: Patiently Waiting plays: 256090
+artist: Madonna song: Trust plays: 603800
+artist: Madonna song: Laugh To Keep From Crying plays: 878996
+artist: Madonna song: Bitch Im Madonna Live plays: 373757
+artist: Eminem song: Grammy Awards plays: 337901
+artist: Cher song: You Dont Love Me plays: 849567
+artist: Aerosmith song: Avant Garden plays: 279553
+artist: Madonna song: Turn It Up plays: 576492
+artist: Queen song: Thank God Its Christmas 2011 Remaster plays: 744992
+artist: Aerosmith song: When I Needed You plays: 728708
+artist: Lady Gaga song: Is That Alright plays: 166913
+artist: Eminem song: Get Ready plays: 881037
+artist: Aerosmith song: Sos plays: 150439
+artist: Michael Jackson song: Youre The One plays: 416406
+artist: Michael Jackson song: Rock With You plays: 517363
+artist: Lady Gaga song: Fashion plays: 108141
+artist: Eminem song: Say Goodbye Hollywood plays: 112911
+artist: Madonna song: La Isla Bonita plays: 250509
+artist: Michael Jackson song: Dangerous Live Version plays: 680710
+artist: Cher song: Not Enough Love In The World plays: 609810
+artist: Queen song: She Makes Me plays: 650104
+artist: Queen song: Dear Friends plays: 182665
+artist: Lady Gaga song: Sinners Prayer plays: 509830
+artist: Beyonce song: Lose My Breath plays: 425173
+artist: Cher song: Does Anybody Really Fall In Love Anymore plays: 263893
+artist: Drake song: Side Pieces plays: 327337
+artist: Eminem song: The Cypher plays: 732417
+artist: Drake song: One Dance plays: 608662
+artist: Eminem song: Offended plays: 300540
+artist: Eminem song: Hello plays: 536362
+artist: Drake song: Jorja Interlude plays: 132751
+artist: Madonna song: I Dont Search I Find plays: 373509
+artist: Michael Jackson song: Come Together plays: 742294
+artist: Aerosmith song: Cry Me A River plays: 760893
+artist: Drake song: Fake Love plays: 538415
+artist: Queen song: Friends Will Be Friends plays: 235031
+artist: Queen song: Dont Stop Me Now 2011 Mix plays: 436218
+artist: Queen song: A Kind Of Magic plays: 736448
+artist: Eminem song: Rabbit Vs Lickilty Split 8 Mile Freestlye plays: 137254
+artist: Michael Jackson song: You Rock My World plays: 219159
+artist: Madonna song: She Is A Diamond plays: 186679
+artist: Aerosmith song: Dime Store Lover plays: 710072
+artist: Michael Jackson song: Whors Loving You plays: 708781
+artist: Drake song: Dial Tone plays: 793836
+artist: Drake song: Deep Pockets plays: 423980
+artist: Eminem song: Brainless plays: 129549
+artist: Eminem song: Public Service Announcement 2000 plays: 883611
+artist: Drake song: Portland plays: 592543
+artist: Beyonce song: Spirit plays: 821607
+artist: Michael Jackson song: Tell Me Im Not Dreamin plays: 565320
+artist: Eminem song: Love Me plays: 355418
+artist: Queen song: Save Me plays: 654072
+artist: Queen song: In The Lap Of The Godsu2026 Revisited plays: 779109
+artist: Drake song: Do Not Disturb plays: 805354
+artist: Eminem song: 97 Bonnie And Clyde plays: 102593
+artist: Queen song: Dont Try Suicide plays: 298670
+artist: Eminem song: Duet plays: 392850
+artist: Lady Gaga song: Ill Never Love Again Film Version plays: 275664
+artist: Madonna song: Now Im Following You Pt2 plays: 705808
+artist: Madonna song: Crazy For You plays: 254943
+artist: Queen song: Fat Bottomed Girls Remastered 2011 plays: 155908
+artist: Cher song: Cry Myself To Sleep plays: 739553
+artist: Michael Jackson song: Why You Wanna Trip On Me plays: 555054
+artist: Eminem song: Eminem No Love Explixit Version plays: 387953
+artist: Aerosmith song: Jig Is Up plays: 518135
+artist: Madonna song: I Dont Search I Find Kue Remix plays: 105429
+artist: Drake song: Brand New Remix plays: 142178
+artist: Madonna song: 4 Minutes Peter Saves Paris Mix plays: 750469
+artist: Eminem song: Paul Rosenberg Skit plays: 701551
+artist: Eminem song: Lose Ya Self plays: 673438
+artist: Aerosmith song: Last Child plays: 169017
+artist: Drake song: What Im Thinking Now plays: 829231
+artist: Cher song: It Might As Well Stay Monday plays: 519673
+artist: Madonna song: Faz Gostoso plays: 895184
+artist: Queen song: Love Of My Life Live At Wembley Stadium July 1986 plays: 456639
+artist: Queen song: Let Me In Your Heart Again William Orbit Mix plays: 261682
+artist: Lady Gaga song: Sheisse plays: 706648
+artist: Drake song: Greatness plays: 327471
+artist: Drake song: Snl Mashup Hold On Were Going Home And From Time plays: 673898
+artist: Cher song: Disaster Cake plays: 177275
+artist: Michael Jackson song: Hold My Hand Remix plays: 539190
+artist: Drake song: 9 Am In Dallas plays: 899090
+artist: Aerosmith song: Kings And Queens plays: 111328
+artist: Queen song: Baby I Dont Care plays: 642631
+artist: Lady Gaga song: The Heart Interlude plays: 881471
+artist: Michael Jackson song: I Want You Backthe Love You Saveill Be There plays: 623258
+artist: Michael Jackson song: Torture plays: 560227
+artist: Queen song: In My Defence plays: 489340
+artist: Drake song: Stunt On You plays: 435659
+artist: Eminem song: Insult To Injury plays: 644315
+artist: Eminem song: Dont Push Me plays: 570781
+artist: Madonna song: Like A Virgin Live plays: 318009
+artist: Lady Gaga song: Sophisticated Lady plays: 413140
+artist: Lady Gaga song: Red And Blue plays: 666529
+artist: Eminem song: Airplanes Part 2 plays: 314829
+artist: Cher song: Our Lady Of San Francisco plays: 762455
+artist: Eminem song: Richard plays: 401995
+artist: Eminem song: The Sauce plays: 294290
+artist: Beyonce song: Freedom plays: 880670
+artist: Aerosmith song: Dont Stop plays: 501178
+artist: Michael Jackson song: Alright plays: 411526
+artist: Eminem song: Baby plays: 617774
+artist: Eminem song: Facebook Qa plays: 206659
+artist: Madonna song: Arioso plays: 887222
+artist: Michael Jackson song: Breakup 2 Makeup plays: 800746
+artist: Cher song: Dont Come Cryin To Me Previously Unreleased plays: 569593
+artist: Madonna song: Unapologetic Bitch plays: 888615
+artist: Drake song: Blinded plays: 406999
+artist: Drake song: Hold On Werre Going Home plays: 880239
+artist: Beyonce song: Rocket Remix plays: 556146
+artist: Eminem song: Jimmy Crack Corn Remix plays: 134761
+artist: Drake song: Enough Said plays: 326887
+artist: Queen song: Pain Is So Close To Pleasure plays: 258007
+artist: Cher song: Do I Ever Cross Your Mind plays: 843682
+artist: Madonna song: Ghv2 Megamix plays: 121984
+artist: Cher song: Mama Was A Rock And Roll Singer Papa Used To Write All Her Songs plays: 171154
+artist: Cher song: I Donrt Have To Sleep To Dream plays: 551197
+artist: Dua Lipa song: Physical plays: 883760
+artist: Cher song: Shoop Shoop plays: 385825
+artist: Lady Gaga song: Ayo plays: 802308
+artist: Madonna song: Crave Dan De Leon Anthony Griego Remix plays: 609830
+artist: Queen song: Another One Bites The Dust Remastered 2011 plays: 400998
+artist: Cher song: Love So High plays: 127450
+artist: Eminem song: Get Low plays: 804720
+artist: Madonna song: Unapologetic Bitch Live plays: 217788
+artist: Madonna song: To Love You plays: 263963
+artist: Madonna song: Give Me All Your Luvin plays: 449752
+artist: Queen song: Contact plays: 293856
+artist: Cher song: You Better Sit Down Kids plays: 657163
+artist: Drake song: Beautiful Music plays: 142118
+artist: Aerosmith song: Bone To Bone plays: 123239
+artist: Michael Jackson song: Childhood plays: 269259
+artist: Eminem song: Back Stabber plays: 136726
+artist: Beyonce song: New Lesson Timon Pumbaa Young Simba Interlude plays: 381870
+artist: Drake song: Plug plays: 741045
+artist: Madonna song: Drowned World Substitute For Love plays: 565285
+artist: Drake song: Free Smoke plays: 146333
+artist: Madonna song: Sidewalk Talk Extended Dance Mix plays: 259812
+artist: Beyonce song: Best Thing I Never Had plays: 487731
+artist: Eminem song: Marshall Mathers Lp plays: 593011
+artist: Eminem song: Chloraseptic Remix plays: 739946
+artist: Madonna song: Heartbreak City plays: 533067
+artist: Michael Jackson song: Just Good Friends plays: 489752
+artist: Eminem song: Killshot Mgk Diss plays: 615329
+artist: Madonna song: Your Honesty plays: 300075
+artist: Cher song: Flashback plays: 278735
+artist: Madonna song: Papa Dont Preach plays: 587944
+artist: Queen song: Living On My Own plays: 309101
+artist: Madonna song: Material Girl Live plays: 541459
+artist: Drake song: Cameras plays: 186839
+artist: Aerosmith song: Bright Light Fright plays: 713953
+artist: Eminem song: Like Home plays: 594380
+artist: Aerosmith song: Luv Lies plays: 580528
+artist: Drake song: Pikachu plays: 100817
+artist: Aerosmith song: Aint That A Bitch plays: 113495
+artist: Drake song: Look What Youave Done plays: 362490
+artist: Michael Jackson song: Keep The Faith plays: 446213
+artist: Michael Jackson song: The Love You Save plays: 331103
+artist: Queen song: We Believe plays: 274111
+artist: Madonna song: Ill Rememberme From Quotwith Honors Quot plays: 244201
+artist: Drake song: Keep The Family Close plays: 305452
+artist: Queen song: The Wedding March plays: 875228
+artist: Drake song: Hate Sleeping Alone plays: 310246
+artist: Cher song: Classified 1A plays: 353623
+artist: Drake song: Take You Down plays: 750466
+artist: Eminem song: Same Song Dance plays: 447904
+artist: Aerosmith song: Falling In Love Is Hard On The Knees plays: 634184
+artist: Queen song: Dragon Attack plays: 378772
+artist: Lady Gaga song: Hello Hello plays: 892648
+artist: Drake song: No New Friends plays: 663505
+artist: Queen song: Voodoo plays: 252421
+artist: Drake song: Miss Me plays: 416048
+artist: Drake song: Glow Explicit plays: 501005
+artist: Queen song: In The Lap Of The Gods Revisited plays: 672787
+artist: Dua Lipa song: Running plays: 602115
+artist: Lady Gaga song: Orange Colored Sky plays: 386869
+artist: Aerosmith song: Milk Cow Bulls plays: 491904
+artist: Cher song: Its Too Late To Love Me Now plays: 482336
+artist: Madonna song: American Pie plays: 219243
+artist: Drake song: Killer plays: 618061
+artist: Madonna song: Oh My plays: 559939
+artist: Queen song: One Year Of Love plays: 874253
+artist: Beyonce song: Upgrade U plays: 868868
+artist: Aerosmith song: Girl Keeps Coming Apart plays: 605380
+artist: Queen song: A Winters Tale plays: 724249
+artist: Michael Jackson song: Give In To Me plays: 518369
+artist: Michael Jackson song: Fight Over Skit plays: 164633
+artist: Queen song: Another One Bites The Dust Remix plays: 506946
+artist: Beyonce song: Heaven plays: 464726
+artist: Aerosmith song: No More No More plays: 738370
+artist: Lady Gaga song: Let Love Down plays: 232219
+artist: Drake song: Runnin Thru Da 6Ix plays: 221939
+artist: Madonna song: Ill Remember Theme From With Honors 1994 plays: 139295
+artist: Michael Jackson song: Dangerous Album Version plays: 564220
+artist: Aerosmith song: Jaded plays: 363589
+artist: Eminem song: Stir Crazy plays: 480868
+artist: Lady Gaga song: Dancin In Circles plays: 683713
+artist: Aerosmith song: I Aint Got You plays: 563767
+artist: Dua Lipa song: No Goodbyes plays: 702977
+artist: Cher song: Let This Be A Lesson To You plays: 761842
+artist: Dua Lipa song: One Kiss plays: 896966
+artist: Queen song: Tear It Up plays: 802974
+artist: Eminem song: All About It plays: 885270
+artist: Madonna song: Aint No Big Deal 97 Edit plays: 863208
+artist: Beyonce song: The Stars Mufasa Interlude plays: 170627
+artist: Eminem song: Groundhog Day plays: 783327
+artist: Michael Jackson song: I Like You The Way You Are plays: 748612
+artist: Queen song: White Queen As It Began plays: 364757
+artist: Cher song: Just This One Time plays: 529348
+artist: Lady Gaga song: Freezerburn plays: 743489
+artist: Aerosmith song: We Wont Let You Down plays: 787317
+artist: Cher song: With Or Without You plays: 484205
+artist: Madonna song: Lo Que Siente La Mujer plays: 499733
+artist: Aerosmith song: Wham Bam plays: 364780
+artist: Queen song: Fat Bottomed Girls Live In Paris plays: 374995
+artist: Lady Gaga song: Words plays: 227763
+artist: Eminem song: Iam On Everything plays: 240738
+artist: Eminem song: Mtv Awards plays: 747561
+artist: Queen song: Sail Away Sweet Sister plays: 815935
+artist: Eminem song: Fall plays: 828924
+artist: Michael Jackson song: Man In The Mirror 2012 Remaster plays: 621853
+artist: Madonna song: Waltz For Eva And Che plays: 584542
+artist: Aerosmith song: My Girl plays: 196127
+artist: Lady Gaga song: I Like It Rough plays: 514631
+artist: Beyonce song: Never Let You Go plays: 765582
+artist: Eminem song: Taking My Ball plays: 544196
+artist: Aerosmith song: Love Me Two Times plays: 702280
+artist: Beyonce song: Lift Every Voice And Sing Blues Version plays: 142712
+artist: Eminem song: Go To Sleep plays: 880246
+artist: Queen song: Radio Ga Ga plays: 305243
+artist: Beyonce song: Blow Monsieur Adi Remix plays: 354484
+artist: Queen song: Is This The World We Created Live At Wembley Stadium July plays: 784116
+artist: Dua Lipa song: Be The One Netsky Remix plays: 777804
+artist: Aerosmith song: Hollywood plays: 293994
+artist: Beyonce song: Forward plays: 660675
+artist: Lady Gaga song: Poker Face Space Cowboy Remix plays: 792727
+artist: Drake song: Wutang Forever plays: 658823
+artist: Lady Gaga song: Christmas Treedemo plays: 695816
+artist: Eminem song: I Love You More plays: 819946
+artist: Cher song: Still In Love With You plays: 577484
+artist: Eminem song: Eminem Exclusive Freestyle plays: 657310
+artist: Queen song: Hammer To Fall Live Aid plays: 198013
+artist: Beyonce song: Lift Every Voice And Sing plays: 353041
+artist: Eminem song: Twisted plays: 478735
+artist: Queen song: Teo Torriate Let Us Cling Together Translation plays: 639568
+artist: Eminem song: Drugs Got A Hold Of Me plays: 168414
+artist: Aerosmith song: Bitchs Brew plays: 348830
+artist: Aerosmith song: Oasis plays: 325673
+artist: Drake song: Messages From You plays: 645552
+artist: Drake song: Friends With Money plays: 479191
+artist: Cher song: By Love I Mean plays: 740238
+artist: Michael Jackson song: Liberian Girl plays: 457907
+artist: Queen song: My Baby Does Me plays: 851596
+artist: Eminem song: Nobodys Perfect plays: 754060
+artist: Eminem song: Everything Is Shady plays: 201786
+artist: Michael Jackson song: Man In The Mirror Encore plays: 105663
+artist: Madonna song: Music plays: 482577
+artist: Madonna song: Autotune Baby plays: 193299
+artist: Madonna song: Veras Youll See plays: 250103
+artist: Madonna song: Shine A Light plays: 854792
+artist: Drake song: Passionfruit Explicit plays: 218903
+artist: Madonna song: La Isla Bonita Banter Live Remastered plays: 399852
+artist: Madonna song: I Know It plays: 554158
+artist: Eminem song: Outlet plays: 532983
+artist: Aerosmith song: Baby Please Dont Go plays: 364285
+artist: Drake song: Star67 plays: 761399
+artist: Eminem song: Moms Spaghetti plays: 450568
+artist: Eminem song: Searchin plays: 785394
+artist: Eminem song: The Presentation plays: 881248
+artist: Drake song: Sandras Rose Ovo Sound Version plays: 417732
+artist: Madonna song: Detroit Speech plays: 818665
+artist: Drake song: Draft Day plays: 291060
+artist: Aerosmith song: Oh Yeah plays: 422097
+artist: Drake song: Worst Behaviour plays: 624282
+artist: Drake song: Im Going In plays: 318826
+artist: Madonna song: What It Feels Like For A Girl plays: 584501
+artist: Drake song: Tony Montana Freestyle Peril P plays: 665622
+artist: Cher song: Please Dont Tell Me plays: 496157
+artist: Michael Jackson song: All The Things You Are Are Mine plays: 675317
+artist: Beyonce song: One Plus One plays: 128798
+artist: Michael Jackson song: Sunset Driver Demo plays: 805704
+artist: Aerosmith song: Three Mile Smile plays: 401042
+artist: Dua Lipa song: Cool plays: 370029
+artist: Queen song: Radio Ga Ga Remastered plays: 376231
+artist: Cher song: The Look plays: 516196
+artist: Cher song: Song For You plays: 337616
+artist: Lady Gaga song: Retrosexual plays: 598526
+artist: Queen song: The Show Must Go On Remastered 2011 plays: 461256
+artist: Aerosmith song: Push Comes To Shove plays: 378561
+artist: Madonna song: I Love New York plays: 670130
+artist: Drake song: Pistols plays: 305947
+artist: Eminem song: Guilty Conscience Directors Cut plays: 143216
+artist: Eminem song: Vengers A Big Fat Bitch plays: 264931
+artist: Drake song: So Far Gone plays: 343801
+artist: Dua Lipa song: New Love plays: 569403
+artist: Michael Jackson song: 2000 Watts plays: 309708
+artist: Cher song: A Song For The Lonely plays: 554561
+artist: Madonna song: Material Girl plays: 821867
+artist: Cher song: Strong Enough plays: 599821
+artist: Drake song: Stay Schemin plays: 258379
+artist: Michael Jackson song: Rock With You Single Version plays: 212959
+artist: Queen song: I Want To Break Free Single Remix plays: 863467
+artist: Cher song: Christmas plays: 826903
+artist: Eminem song: Thug Luv plays: 496596
+artist: Eminem song: Dare To Dream plays: 521532
+artist: Michael Jackson song: Black Or White plays: 605270
+artist: Drake song: Dont Love You Like I Do Sango Right Hand Remix plays: 831358
+artist: Aerosmith song: Write Me A Letter plays: 290328
+artist: Eminem song: 8 Mile Road plays: 887949
+artist: Lady Gaga song: Were Doing A Sequel plays: 665626
+artist: Beyonce song: I Miss You plays: 566924
+artist: Madonna song: Survival plays: 228959
+artist: Queen song: Khashoggis Ship plays: 605252
+artist: Cher song: Tougher Than The Rest plays: 370362
+artist: Lady Gaga song: Mary Jane Holland plays: 309895
+artist: Lady Gaga song: Cake Like plays: 266692
+artist: Drake song: Call On Me plays: 295461
+artist: Queen song: You Dont Fool Me plays: 381847
+artist: Beyonce song: Denial plays: 480181
+artist: Eminem song: Doa Rai Me plays: 589532
+artist: Aerosmith song: Animal Crackers plays: 675493
+artist: Madonna song: Addicted plays: 100971
+artist: Madonna song: Each Time You Break My Heart plays: 248622
+artist: Eminem song: 8 Mile Freestyle Vs Lickty Spilt plays: 378915
+artist: Aerosmith song: Adams Apple plays: 614012
+artist: Eminem song: Classy Nigg A plays: 224625
+artist: Dua Lipa song: Kinda Like That plays: 492460
+artist: Beyonce song: 1 1 plays: 665342
+artist: Madonna song: Borderlineopen Your Heart plays: 516942
+artist: Aerosmith song: Shakey Ground plays: 210589
+artist: Madonna song: True Blue plays: 146516
+artist: Lady Gaga song: Ribbons plays: 520388
+artist: Queen song: Calling You plays: 422584
+artist: Lady Gaga song: Optimist plays: 491056
+artist: Eminem song: Christopher Reeve plays: 171633
+artist: Lady Gaga song: The Greatest Thing plays: 577819
+artist: Drake song: Right Above It plays: 547685
+artist: Queen song: I Go Crazy plays: 478693
+artist: Madonna song: Ring My Bell plays: 248059
+artist: Lady Gaga song: Free Woman plays: 748073
+artist: Queen song: Drum Solo plays: 467215
+artist: Eminem song: Shake Thatfet Nate Dog plays: 186311
+artist: Lady Gaga song: Strangers plays: 132032
+artist: Eminem song: She A Lie plays: 804975
+artist: Michael Jackson song: Things I Do For You plays: 313780
+artist: Madonna song: Jimmy Jimmy plays: 791328
+artist: Eminem song: Dead Wrong plays: 845984
+artist: Beyonce song: School Life plays: 834047
+artist: Michael Jackson song: Trouble plays: 327252
+artist: Michael Jackson song: Its The Falling In Love plays: 297557
+artist: Michael Jackson song: Tabloid Junkie plays: 501131
+artist: Madonna song: Beautiful Game plays: 887848
+artist: Aerosmith song: Love Three Times A Day plays: 740139
+artist: Drake song: Good Riddance plays: 236655
+artist: Drake song: Headlines plays: 154420
+artist: Michael Jackson song: Nite Line plays: 153535
+artist: Drake song: Untitled plays: 251267
+artist: Madonna song: Whos That Girl Extended Version plays: 369757
+artist: Madonna song: The Beat Goes One plays: 733019
+artist: Lady Gaga song: Bad Romance plays: 823631
+artist: Madonna song: Girls Gone Wild plays: 119356
+artist: Queen song: Las Palabras De Amour plays: 705844
+artist: Beyonce song: Hold Up plays: 411109
+artist: Eminem song: Detroit Vs Everybody Remix plays: 689194
+artist: Madonna song: Waiting plays: 283775
+artist: Drake song: I Get Paper plays: 834717
+artist: Aerosmith song: We All Fall Down plays: 550194
+artist: Lady Gaga song: Burqa plays: 225715
+artist: Lady Gaga song: Brown Eyes plays: 693489
+artist: Madonna song: Ill Remember plays: 312460
+artist: Michael Jackson song: Take Me Back plays: 237221
+artist: Eminem song: Just The Two Of Us plays: 328118
+artist: Drake song: Hotline plays: 378552
+artist: Queen song: 20Th Century Fox Fanfare plays: 210770
+artist: Drake song: You Know You Know plays: 268472
+artist: Queen song: The Show Must Go On 2011 Remaster plays: 619668
+artist: Drake song: The Palace Of Auburn Hills Freestyle Live plays: 893429
+artist: Drake song: Still Fly plays: 598229
+artist: Cher song: Chiquitita Spanish Version plays: 306112
+artist: Michael Jackson song: Ghosts plays: 666652
+artist: Michael Jackson song: Dancing Machineblame It On The Boogie Immortal Version plays: 119988
+artist: Madonna song: Partido Feminista plays: 875453
+artist: Cher song: I Love Making Love To You plays: 228535
+artist: Beyonce song: I Been On Remix plays: 455214
+artist: Madonna song: Iconic plays: 100819
+artist: Aerosmith song: What Could Have Been Love plays: 263853
+artist: Lady Gaga song: Retro Physical Mastered Version plays: 499023
+artist: Madonna song: Crave Mnek Remix plays: 262446
+artist: Queen song: Staying Power plays: 490733
+artist: Michael Jackson song: Got To Be There The Jackson 5 plays: 312061
+artist: Madonna song: Spanish Eyes plays: 800728
+artist: Queen song: I Was Born To Love You Vocals Piano Version plays: 834022
+artist: Cher song: All Because Of You plays: 392036
+artist: Cher song: Elusive Butterfly plays: 221188
+artist: Cher song: He Aint Heavy Hes My Brother plays: 524740
+artist: Eminem song: Shake That Remix plays: 618966
+artist: Beyonce song: Bow Down plays: 585275
+artist: Madonna song: Bittersweet plays: 582113
+artist: Cher song: The Winner Takes It All plays: 465856
+artist: Eminem song: Cleanin Out My Closet plays: 473533
+artist: Aerosmith song: Nobodys Fault plays: 631714
+artist: Lady Gaga song: Somewhere Over The Rainbow Dialogue plays: 676265
+artist: Aerosmith song: Under My Skin plays: 309011
+artist: Michael Jackson song: Scared Of The Moon plays: 435920
+artist: Michael Jackson song: This Christmas plays: 511960
+artist: Queen song: Sheer Heart Attack plays: 351674
+artist: Eminem song: Jimmy Crack Corn plays: 675379
+artist: Michael Jackson song: Baby Be Mine plays: 255318
+artist: Eminem song: One Last Time plays: 799559
+artist: Aerosmith song: The Other Side plays: 650339
+artist: Eminem song: Stepdad Intro plays: 775215
+artist: Cher song: Rainrain plays: 739739
+artist: Eminem song: Good Guy plays: 199806
+artist: Drake song: Hyfr Hell Ya Fuin Right plays: 658924
+artist: Madonna song: Now Im Following You Part Ii plays: 201083
+artist: Aerosmith song: What Kind Of Love Are You On plays: 879538
+artist: Drake song: The Winner plays: 687444
+artist: Eminem song: No Ones Iller Than Me plays: 874660
+artist: Eminem song: Over Freestyle plays: 227032
+artist: Lady Gaga song: Captivated plays: 723036
+artist: Madonna song: Like A Flower plays: 473519
+artist: Drake song: Well Be Fine plays: 263389
+artist: Lady Gaga song: Vanity plays: 420943
+artist: Michael Jackson song: In The Closet plays: 715522
+artist: Drake song: Stunt Hard plays: 575404
+artist: Cher song: Angels Running plays: 810310
+artist: Drake song: Pain 1993 plays: 538080
+artist: Aerosmith song: Yo Mamma plays: 261556
+artist: Lady Gaga song: Sexy Ugly plays: 360933
+artist: Aerosmith song: Joanies Butterfly plays: 644780
+artist: Lady Gaga song: Dance In The Dark plays: 276350
+artist: Michael Jackson song: The Love You Save The Jackson 5 plays: 557178
+artist: Eminem song: Elevator plays: 147116
+artist: Madonna song: Love Consumes All plays: 317086
+artist: Beyonce song: Daddy Lessons Remix plays: 512379
+artist: Drake song: A Little Favour plays: 816207
+artist: Drake song: Ratchet Happy Birthday plays: 710215
+artist: Eminem song: This Is Fucking Bullshit plays: 135920
+artist: Lady Gaga song: Rob My Bank plays: 317242
+artist: Aerosmith song: Hangman Jury plays: 392796
+artist: Lady Gaga song: Second Time Around Mastered Version plays: 318048
+artist: Beyonce song: Move Your Body plays: 364943
+artist: Cher song: Love Pain plays: 322255
+artist: Drake song: 0 To 100The Catch Up plays: 226652
+artist: Michael Jackson song: Speed Demon plays: 667316
+artist: Eminem song: 50 Ways plays: 333481
+artist: Cher song: Mama plays: 731672
+artist: Drake song: Back On Road plays: 362650
+artist: Cher song: Can You Fool With Greg Allman plays: 402739
+artist: Michael Jackson song: Girl Dont Take Your Love From Me plays: 844521
+artist: Aerosmith song: Dont Get Mad Get Even plays: 757133
+artist: Drake song: Ovoxo Trust Issues Beast Mode plays: 674787
+artist: Michael Jackson song: I Am A Loser plays: 723912
+artist: Michael Jackson song: Say Say Say plays: 299244
+artist: Drake song: Losses plays: 437535
+artist: Michael Jackson song: Xscape Documentary plays: 373759
+artist: Madonna song: Time To Dance plays: 662850
+artist: Eminem song: Rock Bottom plays: 426336
+artist: Lady Gaga song: The Queen plays: 858748
+artist: Madonna song: Fallen Free plays: 859164
+artist: Eminem song: Never Love Again plays: 385849
+artist: Madonna song: Your Little Bodys Slowly Breaking Down plays: 594157
+artist: Drake song: Emotionless plays: 291705
+artist: Madonna song: Dark Ballet plays: 451644
+artist: Beyonce song: Bigger plays: 533289
+artist: Drake song: Sandras Rose Alternate Version plays: 700959
+artist: Eminem song: Detroit Vs Everybody plays: 227266
+artist: Drake song: The Language Chris Rishard Remix plays: 465913
+artist: Queen song: Good Old Fashioned Lover Boy plays: 522762
+artist: Eminem song: Rap God French Version plays: 258883
+artist: Queen song: The Prophets Song plays: 150057
+artist: Cher song: This God Forsaken Day plays: 672640
+artist: Queen song: Big Spender plays: 870137
+artist: Queen song: Back To The Light plays: 397360
+artist: Eminem song: Kings Never Die plays: 747458
+artist: Madonna song: The Power Of Goodbye plays: 324267
+artist: Aerosmith song: Just Feel Better plays: 523321
+artist: Michael Jackson song: Dancing Machine plays: 225492
+artist: Cher song: Bang Bang plays: 513351
+artist: Eminem song: Rapcity Freestyle plays: 597315
+artist: Madonna song: Thunderpuss Ghv2 Megamix plays: 245329
+artist: Michael Jackson song: Smooth Criminal plays: 401689
+artist: Aerosmith song: Oasis In The Night plays: 754690
+artist: Eminem song: Like Thatedited Version plays: 891134
+artist: Queen song: Son And Daughter plays: 113715
+artist: Eminem song: No Favors plays: 795356
+artist: Drake song: Wutang Forever Remix plays: 727116
+artist: Drake song: Get My Paper Peril P plays: 146667
+artist: Drake song: 30 For 30 Freestyle plays: 782805
+artist: Eminem song: Beautiful Pain plays: 481135
+artist: Lady Gaga song: Kaboom plays: 702752
+artist: Cher song: Young And Pretty plays: 519050
+artist: Beyonce song: Diva plays: 607244
+artist: Drake song: Ice Melts Explicit plays: 736347
+artist: Queen song: Is Everybody Happy plays: 838325
+artist: Michael Jackson song: Its Too Late To Change The Time plays: 805036
+artist: Eminem song: Monster plays: 645393
+artist: Queen song: Breakthru plays: 410552
+artist: Queen song: Thank God Its Christmas plays: 509473
+artist: Michael Jackson song: Everybodys Somebodys Fool plays: 513373
+artist: Eminem song: All She Wrote Featti plays: 572004
+artist: Lady Gaga song: Video Phone plays: 297770
+artist: Beyonce song: I Care Remix plays: 463554
+artist: Cher song: This Is A Song For The Lonely plays: 849840
+artist: Lady Gaga song: Ditd Jeppes That Lady Is A Tramp plays: 769680
+artist: Michael Jackson song: Carry On plays: 111001
+artist: Drake song: Man Of The Year plays: 109646
+artist: Eminem song: I Need A Doctor plays: 872612
+artist: Beyonce song: Can You Feel The Love Tonight plays: 130678
+artist: Michael Jackson song: I Have This Dream plays: 445521
+artist: Lady Gaga song: The Edge Of Glory Remix Ned Shepard plays: 632291
+artist: Eminem song: The Real Slim Shady plays: 297077
+artist: Cher song: Let Me Down Easy plays: 744166
+artist: Madonna song: Take A Bow Say Goodbye plays: 425869
+artist: Queen song: Driven By You plays: 350357
+artist: Aerosmith song: Theme To Waynes World plays: 599668
+artist: Lady Gaga song: One plays: 593185
+artist: Beyonce song: Take My Hand Precious Lord plays: 682930
+artist: Queen song: Hello Mary Lou Goodbye Heart plays: 371538
+artist: Aerosmith song: Rag Doll plays: 486296
+artist: Cher song: When You Walk Away plays: 588836
+artist: Madonna song: Medellin Offer Nissim Madame X In The Sphinx plays: 331740
+artist: Madonna song: Come Alive plays: 143791
+artist: Drake song: Back To Back plays: 883811
+artist: Drake song: Turned This To A Organization plays: 198228
+artist: Queen song: Now Im Here plays: 467105
+artist: Michael Jackson song: Someone In The Dark plays: 619039
+artist: Madonna song: Little Thang plays: 206071
+artist: Eminem song: Amityville plays: 607379
+artist: Cher song: Crystal Clearmuddy Water plays: 194149
+artist: Beyonce song: Find Your Way Back plays: 833393
+artist: Lady Gaga song: Come To Mama plays: 522713
+artist: Drake song: 6 God plays: 426482
+artist: Beyonce song: Run The World Girls plays: 834427
+artist: Drake song: Kick Push Remix plays: 603523
+artist: Drake song: Off That plays: 187309
+artist: Madonna song: Get Over plays: 534836
+artist: Michael Jackson song: We Are Here To Change The World plays: 796023
+artist: Madonna song: Cosmic Climb plays: 379053
+artist: Queen song: Liar plays: 768151
+artist: Drake song: Sacrifices plays: 673725
+artist: Lady Gaga song: Stupid Love Vitaclub Warehouse Remix plays: 268774
+artist: Madonna song: Causing A Commotion plays: 899838
+artist: Cher song: A Cowboys Work Is Never Done plays: 108110
+artist: Madonna song: A New Argentina plays: 795755
+artist: Madonna song: Bang Bang plays: 780345
+artist: Madonna song: Wash All Over Me plays: 529754
+artist: Lady Gaga song: Lets Face The Music And Dance plays: 868222
+artist: Drake song: Kylie Kendall plays: 874787
+artist: Madonna song: Intervention plays: 345410
+artist: Eminem song: 8 Mile plays: 453709
+artist: Michael Jackson song: Screamlittle Susie Immortal Version plays: 288507
+artist: Aerosmith song: No Surprize plays: 265447
+artist: Queen song: Keep Yourself Alive plays: 275067
+artist: Beyonce song: Water plays: 629786
+artist: Queen song: Tie Your Mother Down plays: 241025
+artist: Lady Gaga song: Alejandro Remastered Demo Edition plays: 105981
+artist: Eminem song: Psycho plays: 727585
+artist: Lady Gaga song: They All Laughed plays: 677754
+artist: Eminem song: Fine Line plays: 668299
+artist: Queen song: Surfs Upschools Out plays: 677164
+artist: Michael Jackson song: Carousel plays: 610898
+artist: Eminem song: It Must Be The Ganja plays: 303459
+artist: Michael Jackson song: Hum Along Dance David Morales Remix plays: 326891
+artist: Queen song: Long Away plays: 238342
+artist: Drake song: U With Me plays: 502019
+artist: Eminem song: Aint Nuttin But Music plays: 221964
+artist: Cher song: Many Rivers To Cross Live From The Mirage plays: 428402
+artist: Cher song: Thunderstorm plays: 278555
+artist: Drake song: All Me plays: 447609
+artist: Lady Gaga song: Blackout plays: 153912
+artist: Queen song: Good Company plays: 421507
+artist: Queen song: Coming Soon plays: 547395
+artist: Lady Gaga song: Then You Love Me plays: 434285
+artist: Cher song: Love Is The Groove plays: 279889
+artist: Lady Gaga song: Another Time plays: 223643
+artist: Eminem song: 14 Amityville plays: 452011
+artist: Aerosmith song: Up On The Mountain plays: 585176
+artist: Lady Gaga song: Sometimes plays: 499478
+artist: Madonna song: One More Chance plays: 521537
+artist: Dua Lipa song: Idgaf plays: 245220
+artist: Lady Gaga song: Bloody Mary plays: 264750
+artist: Michael Jackson song: U Say I Say plays: 160490
+artist: Madonna song: Bitch Im plays: 726773
+artist: Aerosmith song: The Reason A Dog plays: 244138
+artist: Eminem song: Intro Explicit plays: 394914
+artist: Beyonce song: Start Over plays: 785009
+artist: Queen song: There Must Be More To Life Than This William Orbit Mix plays: 889255
+artist: Lady Gaga song: Music To My Eyes plays: 563187
+artist: Queen song: Stone Cold Crazy plays: 494783
+artist: Eminem song: Girls plays: 254254
+artist: Queen song: Brighton Rock Solo plays: 581089
+artist: Queen song: I Want It All plays: 359444
+artist: Madonna song: If We Took A Holiday plays: 862184
+artist: Aerosmith song: Fallen Angels plays: 131993
+artist: Lady Gaga song: Bad Romance Skrillex Remix plays: 320704
+artist: Cher song: Until Its Time For You To Go plays: 595601
+artist: Cher song: Dead Ringer For Love plays: 590036
+artist: Eminem song: I Can Be plays: 417813
+artist: Beyonce song: Already plays: 582393
+artist: Lady Gaga song: Fun Tonight plays: 418374
+artist: Michael Jackson song: Circus Girl plays: 260323
+artist: Drake song: 10 Bands plays: 241990
+artist: Madonna song: Nothing Really Matters plays: 274248
+artist: Drake song: Its Been A Pleasure plays: 825499
+artist: Cher song: The Way Of Love plays: 434918
+artist: Aerosmith song: Gotta Love It plays: 622575
+artist: Drake song: Signs plays: 806122
+artist: Lady Gaga song: Giorgio Girls plays: 663773
+artist: Michael Jackson song: Thriller plays: 310781
+artist: Queen song: The Night Comes Down plays: 808757
+artist: Drake song: The Motto plays: 731027
+artist: Michael Jackson song: The Lady In My Life plays: 791460
+artist: Eminem song: Quitter plays: 609640
+artist: Drake song: Tell Me Lies plays: 282835
+artist: Cher song: Hold You Tighter plays: 546835
+artist: Lady Gaga song: Firefly plays: 525131
+artist: Drake song: Can I plays: 322386
+artist: Michael Jackson song: Enjoy Yourself The Jacksons plays: 282615
+artist: Cher song: The Sun Aint Gonna Shine Anymore plays: 710328
+artist: Madonna song: Dont Tell Me plays: 226975
+artist: Drake song: Sooner Than Later plays: 557700
+artist: Eminem song: I Remember plays: 178319
+artist: Madonna song: Love Is On Fire plays: 478189
+artist: Cher song: Lie To Me plays: 676457
+artist: Michael Jackson song: Water plays: 836671
+artist: Drake song: Going In For Life plays: 192304
+artist: Lady Gaga song: Something Crazy plays: 257409
+artist: Cher song: Love One Another plays: 432041
+artist: Eminem song: Bitch Please Iii plays: 698149
+artist: Beyonce song: Otherside plays: 739596
+artist: Lady Gaga song: Heavy Metal Lovers plays: 894163
+artist: Beyonce song: Flawless Feeling Myself plays: 326991
+artist: Michael Jackson song: Dont Stop Til You Get Enough plays: 470627
+artist: Eminem song: Medicine Ball plays: 370829
+artist: Michael Jackson song: The Way You Make Me Feel plays: 296410
+artist: Drake song: A Millie Freestyle plays: 709081
+artist: Madonna song: Devil Wouldnt Recognize You plays: 143543
+artist: Queen song: My Melancoly Blues plays: 773518
+artist: Eminem song: Armageddon Freestyle plays: 198812
+artist: Cher song: Sisters Of Mercy plays: 144067
+artist: Cher song: But I Cant Love You More plays: 640271
+artist: Drake song: Over Remix plays: 842901
+artist: Beyonce song: Partition plays: 518458
+artist: Aerosmith song: Mother Popcorn plays: 890891
+artist: Queen song: Cool Cat plays: 707172
+artist: Madonna song: Living For Love plays: 879667
+artist: Eminem song: Halies Song plays: 352541
+artist: Beyonce song: Run The World plays: 164625
+artist: Drake song: Good Ones Go plays: 107208
+artist: Aerosmith song: Walk On Water plays: 679115
+artist: Queen song: I Cant Live With You plays: 279986
+artist: Aerosmith song: Soul Saver plays: 557627
+artist: Eminem song: Itas Been Real plays: 422072
+artist: Madonna song: Physical Attraction plays: 528073
+artist: Queen song: The Loser In The End plays: 309703
+artist: Aerosmith song: Once Is Enough plays: 520605
+artist: Drake song: Moment 4 Life plays: 328122
+artist: Lady Gaga song: Born This Way En Espaaol Naca De Esta Manera plays: 140341
+artist: Drake song: Paris Morton Music 2 plays: 552818
+artist: Cher song: Holy Smoke plays: 382806
+artist: Lady Gaga song: Leather Jacket plays: 103804
+artist: Michael Jackson song: Diamonds Are Invincible plays: 268953
+artist: Drake song: Chicago Freestyle plays: 252731
+artist: Drake song: Overdose plays: 534142
+artist: Eminem song: Hell Breaks Lose plays: 544661
+artist: Madonna song: Hes A Man plays: 497375
+artist: Eminem song: Love You More plays: 862099
+artist: Aerosmith song: Angel plays: 814583
+artist: Aerosmith song: Amazing Orchestral Edit plays: 219969
+artist: Madonna song: Just Like A Prayer plays: 404238
+artist: Michael Jackson song: Heartbreak Hotel plays: 412926
+artist: Eminem song: Crimirnal plays: 560439
+artist: Drake song: Baddest Girl Around plays: 607614
+artist: Madonna song: On The Balcony Of The Casa Rosada 2 plays: 656794
+artist: Cher song: Touch Go plays: 247309
+artist: Lady Gaga song: Wunderland plays: 311942
+artist: Madonna song: Crap plays: 503466
+artist: Aerosmith song: Beyond Beautiful plays: 830399
+artist: Queen song: Hijack My Heart plays: 219184
+artist: Eminem song: Best Rapper Alive plays: 754066
+artist: Michael Jackson song: Weve Got A Good Thing Going plays: 366001
+artist: Cher song: My Song plays: 438291
+artist: Eminem song: Nut Up plays: 177969
+artist: Madonna song: Broken plays: 607762
+artist: Queen song: Crazy Little Thing Called Love Live At Wembley Stadium plays: 513600
+artist: Madonna song: Get Together Jacques Lu Cont Vocal Remix plays: 762601
+artist: Queen song: Follin Around plays: 464173
+artist: Aerosmith song: Stop Messin Around plays: 502777
+artist: Beyonce song: Ring Off plays: 435738
+artist: Eminem song: Relapse plays: 404700
+artist: Eminem song: Eminems Future plays: 530178
+artist: Eminem song: 313 plays: 273226
+artist: Drake song: War plays: 238465
+artist: Eminem song: Fuck Off plays: 630383
+artist: Aerosmith song: Head First plays: 180199
+artist: Drake song: Rock Me plays: 893994
+artist: Aerosmith song: Lightning Strikes plays: 427106
+artist: Cher song: Sos plays: 599724
+artist: Cher song: Take It From The Boys plays: 867184
+artist: Lady Gaga song: Judas Remix plays: 513619
+artist: Lady Gaga song: Glitter Grease plays: 757645
+artist: Madonna song: Oh What A Circus plays: 409719
+artist: Madonna song: Across The Sky plays: 373840
+artist: Drake song: Make Me Proud plays: 411449
+artist: Drake song: Fireworks plays: 610000
+artist: Cher song: The Power plays: 677044
+artist: Drake song: 9 plays: 604081
+artist: Drake song: Six God plays: 467067
+artist: Queen song: Dead On Time plays: 665843
+artist: Eminem song: Moking Bird plays: 209887
+artist: Drake song: Houstatlantavegas Remix plays: 366435
+artist: Queen song: Soon Its Round Your Street Im Creeping plays: 171896
+artist: Madonna song: Goodbye To Innocence plays: 150303
+artist: Cher song: I Found Someone plays: 783526
+artist: Eminem song: Leaving Heaven plays: 796503
+artist: Eminem song: If I Had Radio Edit plays: 477549
+artist: Beyonce song: Rise Up plays: 284634
+artist: Eminem song: 8 Mile Freestyle plays: 323303
+artist: Cher song: Walking In Memphis plays: 208932
+artist: Michael Jackson song: Pictures plays: 847313
+artist: Drake song: Teenage Fever plays: 689111
+artist: Drake song: We Made It Freestyle plays: 770953
+artist: Drake song: Aston Martin Music plays: 831386
+artist: Michael Jackson song: Invincible plays: 132164
+artist: Drake song: Runaway Girl plays: 686079
+artist: Michael Jackson song: Gone Too Soon Immortal Version plays: 650605
+artist: Michael Jackson song: Beat It Mobys Sub Mix plays: 590555
+artist: Cher song: Somebody plays: 213839
+artist: Beyonce song: 6 Inch plays: 385931
+artist: Eminem song: Deja Vu plays: 351087
+artist: Drake song: Hold On Were Going Home French Version plays: 741234
+artist: Queen song: Bet Your Bottom Dollar Bill Youre A Playboy plays: 790637
+artist: The Bad The Queen song: Herculean The Good plays: 808185
+artist: Beyonce song: Sandcastles plays: 269766
+artist: Michael Jackson song: Dont Let It Get You Down plays: 831688
+artist: Lady Gaga song: Oh Well plays: 321228
+artist: Queen song: Rock It Prime Jive plays: 436423
+artist: Eminem song: The Kiss Skit plays: 288122
+artist: Eminem song: Till Hell Freezes Over plays: 852800
+artist: Eminem song: No Apologies plays: 408022
+artist: Aerosmith song: Crazy plays: 179036
+artist: Lady Gaga song: Youre All My Little Monsters plays: 616408
+artist: Madonna song: La Vie En Rose Live plays: 410988
+artist: Lady Gaga song: City Streets plays: 622336
+artist: Queen song: Love Of My Live plays: 299418
+artist: Aerosmith song: Train Kept A Rollinu2019 plays: 838803
+artist: Eminem song: Bad Meets Evil plays: 305689
+artist: Michael Jackson song: The Christmas Song plays: 333379
+artist: Drake song: Faded plays: 293401
+artist: Queen song: Guitar Solo plays: 582079
+artist: Queen song: Under Pressure Live At The Montreal Forum November 1981 plays: 492698
+artist: Aerosmith song: You See Me Crying plays: 112864
+artist: Cher song: Dark Lady plays: 732996
+artist: Lady Gaga song: Stache plays: 736243
+artist: Michael Jackson song: Thriller Steve Aoki Midnight Hour Remix plays: 783218
+artist: Queen song: Love Of My Life Live Wembley Stadium July 1986 plays: 743205
+artist: Michael Jackson song: Stranger In Moscow plays: 873920
+artist: Dua Lipa song: Break My Heart plays: 459188
+artist: Drake song: Independent Queen plays: 249575
+artist: Cher song: Davids Song plays: 871380
+artist: Cher song: One Honest Man plays: 254290
+artist: Aerosmith song: Rock In A Hard Place Cheshire Cat plays: 617886
+artist: Michael Jackson song: Bad 2012 Remaster plays: 379313
+artist: Drake song: Cha Cha Remix plays: 228199
+artist: Lady Gaga song: Starstruck plays: 636385
+artist: Michael Jackson song: Planet Earth plays: 408032
+artist: Queen song: Las Palabras De Amor The Words Of Love plays: 492932
+artist: Eminem song: Doe Ray Me plays: 236268
+artist: Queen song: Radio Ga Ga Live Aid plays: 538799
+artist: Eminem song: Soldier The Goat Remix 1St Verse plays: 338294
+artist: Michael Jackson song: You Are Not Alonei Just Canat Stop Loving You Immortal Version plays: 595785
+artist: Aerosmith song: Tell Me plays: 298085
+artist: Madonna song: Amazing plays: 337541
+artist: Drake song: To The Floor plays: 342614
+artist: Lady Gaga song: Perfect Illusion Ugoboy Remix plays: 345889
+artist: Eminem song: Criminal plays: 396656
+artist: Eminem song: Bane plays: 491103
+artist: Eminem song: I Think My Dads Gone Crazy plays: 796877
+artist: Michael Jackson song: This Time Around plays: 614968
+artist: Drake song: All White plays: 231529
+artist: Eminem song: Cry Now Remix plays: 638467
+artist: Queen song: The Fairy Fellers Masterstroke plays: 138025
+artist: Eminem song: My Balls plays: 666868
+artist: Eminem song: 911 plays: 505726
+artist: Queen song: Love Kills plays: 433023
+artist: Queen song: The Miracle plays: 727574
+artist: Cher song: Pirate plays: 161670
+artist: Queen song: Brighton Rock plays: 660861
+artist: Drake song: Duppy Freestyle plays: 229975
+artist: Cher song: Love The Devil Out Of Ya plays: 583672
+artist: Drake song: Im Goin In plays: 681620
+artist: Eminem song: Recovery plays: 662331
+artist: Michael Jackson song: Whatzupwitu plays: 499342
+artist: Drake song: Nice For What plays: 272493
+artist: Queen song: In The Space Capsule The Love Theme plays: 485831
+artist: Lady Gaga song: Tea plays: 784567
+artist: Eminem song: The Eminem Show plays: 190887
+artist: Cher song: Piu Che Puoi With Eros Ramazzotti plays: 155259
+artist: Aerosmith song: Combination plays: 677576
+artist: Queen song: Lazing On A Sunday Afternoon plays: 495614
+artist: Aerosmith song: Lick And A Promise plays: 461850
+artist: Eminem song: Kids plays: 534017
+artist: Drake song: Come Winter plays: 807705
+artist: Queen song: We Will Rock You Live In Budapest 1986 plays: 126524
+artist: Madonna song: Gang Bang plays: 700267
+artist: Michael Jackson song: Fly Away plays: 420204
+artist: Lady Gaga song: Hey Girl plays: 401411
+artist: Eminem song: Rain Man plays: 270072
+artist: Michael Jackson song: Cant Let Her Get Away plays: 727796
+artist: Queen song: Another One Bites The Dust plays: 465437
+artist: Drake song: Tell Me plays: 643404
+artist: Michael Jackson song: The Girl Is Mine plays: 310256
+artist: Eminem song: In Too Deep plays: 532574
+artist: Queen song: Thank God Its Christmas Nonalbum Single plays: 547409
+artist: Madonna song: 4 Minutes Junkie Xl Dirty Dub plays: 525238
+artist: Madonna song: Candy Perfume Girl plays: 384361
+artist: Eminem song: Wego Interlude plays: 270409
+artist: Madonna song: Gone plays: 890128
+artist: Lady Gaga song: Electric Chapel plays: 859232
+artist: Drake song: Doing It Wrong plays: 153474
+artist: Queen song: Bite The Dust plays: 714949
+artist: Eminem song: Love Game plays: 856623
+artist: Michael Jackson song: Tease Me plays: 583087
+artist: Madonna song: Ghosttown plays: 641050
+artist: Madonna song: Secret Garden plays: 632149
+artist: Queen song: Blag plays: 392715
+artist: Eminem song: Low Down Dirty plays: 854298
+artist: Queen song: Lily Of The Valley plays: 768395
+artist: Madonna song: Dont You Know plays: 111784
+artist: Eminem song: Dear Marshall plays: 860873
+artist: Madonna song: Whos That Girl plays: 326463
+artist: Michael Jackson song: Is It Scary plays: 521655
+artist: Drake song: Girls Love Beyonce plays: 782575
+artist: Madonna song: Vogue plays: 229830
+artist: Drake song: Scholarships plays: 780016
+artist: Drake song: How Bout Now plays: 507816
+artist: Michael Jackson song: Al Capone plays: 696005
+artist: Aerosmith song: Walk This Way plays: 701080
+artist: Drake song: Since Way Back Explicit plays: 375627
+artist: Queen song: Its A Hard Life plays: 243378
+artist: Lady Gaga song: Artpop plays: 879855
+artist: Drake song: Jodeci Freestyle plays: 338278
+artist: Drake song: Behind Barz plays: 522213
+artist: Eminem song: Artificial Flavor plays: 410906
+artist: Drake song: Poppin Bottles plays: 738866
+artist: Drake song: Used To plays: 571090
+artist: Madonna song: Push plays: 192378
+artist: Drake song: Under Ground Kings plays: 307419
+artist: Drake song: The Calm plays: 107407
+artist: Cher song: All I Really Want To Do plays: 409853
+artist: Drake song: Would U Love Me plays: 456467
+artist: Lady Gaga song: Gypsy plays: 199933
+artist: Madonna song: Best Friend plays: 715498
+artist: Michael Jackson song: Make Tonight All Mine plays: 399065
+artist: Michael Jackson song: Is It Scaryimmortal plays: 400378
+artist: Michael Jackson song: This Is It plays: 190855
+artist: Madonna song: Bye Bye Baby plays: 878276
+artist: Madonna song: Celebrate plays: 685507
+artist: Madonna song: Sorry plays: 154194
+artist: Drake song: On My Way plays: 252753
+artist: Lady Gaga song: Going Gone plays: 801903
+artist: Eminem song: Mosh plays: 764588
+artist: Eminem song: Ridaz plays: 147100
+artist: Madonna song: Art Of Freedom plays: 251700
+artist: Drake song: Forever Remix plays: 729091
+artist: Michael Jackson song: Love Is Here You Are Gone plays: 411121
+artist: Cher song: The Early Morning Strangers plays: 479918
+artist: Lady Gaga song: Bad Kids plays: 381031
+artist: Michael Jackson song: If You Dont Love Me plays: 293772
+artist: Cher song: Lovers Forever plays: 235455
+artist: Drake song: 0 To 100 The Catch Up plays: 106755
+artist: Aerosmith song: Eat The Rich plays: 629066
+artist: Lady Gaga song: Babylon plays: 807218
+artist: Eminem song: Untitled Freestyle plays: 586802
+artist: Madonna song: Cry Baby plays: 637775
+artist: Madonna song: Make The Devil Pray plays: 213939
+artist: Dua Lipa song: Dont Start Now Regard Remix plays: 108988
+artist: Madonna song: Tragic Girl plays: 691860
+artist: Cher song: Shadow Dream Song plays: 628379
+artist: Cher song: Alfie plays: 544249
+artist: Madonna song: How High plays: 122560
+artist: Beyonce song: Ja Ara E plays: 469961
+artist: Michael Jackson song: Wanna Be Startin Somethin plays: 177858
+artist: Michael Jackson song: Can You Feel It plays: 553590
+artist: Queen song: Ogre Battle plays: 794628
+artist: Madonna song: Shoobeedoo plays: 220543
+artist: Madonna song: High Flying Adored plays: 249529
+artist: Eminem song: Bitch plays: 520424
+artist: Beyonce song: Bow Down Remix plays: 452193
+artist: Cher song: Living In A House Divided plays: 612869
+artist: Eminem song: Bitch Please Ii plays: 524311
+artist: Eminem song: Lose Yourself plays: 734402
+artist: Michael Jackson song: Leave Me Alone plays: 247834
+artist: Michael Jackson song: Human Naturespeechless Immortal Version plays: 382323
+artist: Lady Gaga song: Sexxx Dreams Original plays: 257732
+artist: Drake song: Whatcha Say plays: 183339
+artist: Aerosmith song: Cant Stop Messin plays: 331237
+artist: Drake song: Signs Remix plays: 308350
+artist: Eminem song: Bea plays: 311051
+artist: Lady Gaga song: Sine From Above plays: 398921
+artist: Eminem song: 8 Mile Runnin plays: 857719
+artist: Lady Gaga song: Born This Way Remix Twin Shadow plays: 694482
+artist: Eminem song: Em Calls Paul Skit 2018 plays: 717844
+artist: Aerosmith song: Introduction plays: 529444
+artist: Eminem song: Not Alike plays: 810219
+artist: Madonna song: Superstar plays: 699161
+artist: Drake song: Light Up plays: 271756
+artist: Eminem song: Thats All She Wrote plays: 145822
+artist: Queen song: Bohemian Rhapsody Reprise plays: 568723
+artist: Madonna song: Iconic Live plays: 598685
+artist: Lady Gaga song: Posh Life plays: 631519
+artist: Madonna song: Die Another Day plays: 112918
+artist: Cher song: Ill Never Stop Loving You plays: 847037
+artist: Beyonce song: Check On It plays: 399598
+artist: Eminem song: Underground plays: 631926
+artist: Drake song: Message From You plays: 885366
+artist: Eminem song: Paul Skit 2018 plays: 259468
+artist: Madonna song: Give Me All Your Love plays: 404348
+artist: Cher song: When You Meet A Boy plays: 398073
+artist: Eminem song: The Show Down plays: 230521
+artist: Aerosmith song: Walk On Down plays: 177776
+artist: Drake song: Hurt plays: 817298
+artist: Drake song: A Night Off plays: 780783
+artist: Cher song: Trust Me plays: 874700
+artist: Queen song: My Life Has Been Saved plays: 525657
+artist: Cher song: The Man That Got Away plays: 396697
+artist: Eminem song: Sway In The Morning Freestyle plays: 526707
+artist: Cher song: I Hope You Find It plays: 792407
+artist: Queen song: Machines plays: 777088
+artist: Drake song: Hush Up The Silence plays: 329127
+artist: Beyonce song: Kitty Kat plays: 198570
+artist: Aerosmith song: Sos Too Bad plays: 419107
+artist: Cher song: Starting Over plays: 656343
+artist: Queen song: We Will Rock You Full Verion plays: 539268
+artist: Madonna song: Veni Vidi Vici plays: 864091
+artist: Beyonce song: Soldier plays: 480015
+artist: Eminem song: Stepping Stone plays: 439531
+artist: Michael Jackson song: Soon As I Get Home plays: 678793
+artist: Madonna song: Forbidden Love plays: 125317
+artist: Eminem song: Bad Husband plays: 817451
+artist: Michael Jackson song: Got To Be There plays: 401306
+artist: Madonna song: Crave plays: 871840
+artist: Madonna song: Graffiti Heart plays: 720808
+artist: Queen song: All Dead All Dead plays: 285090
+artist: Cher song: Just Like Jesse James plays: 891107
+artist: Eminem song: Stan plays: 344759
+artist: Queen song: The Invisible Man plays: 693159
+artist: Michael Jackson song: Monster plays: 109697
+artist: Lady Gaga song: Hair Body Face plays: 635431
+artist: Madonna song: Think Of Me plays: 318317
+artist: Eminem song: Business plays: 252274
+artist: Cher song: The Musics No Good Without You plays: 691404
+artist: Michael Jackson song: Burn Tonight plays: 816613
+artist: Michael Jackson song: The Immortal Megamix plays: 888614
+artist: Cher song: Girl From Ipanema plays: 701904
+artist: Queen song: Who Wants To Life Forever plays: 215447
+artist: Madonna song: Like A Prayer Live plays: 313028
+artist: Queen song: Mr Roboto plays: 764320
+artist: Madonna song: Girl Gone Wild Justin Cognito Remix plays: 711882
+artist: Cher song: Red plays: 572552
+artist: Aerosmith song: Shit House Shuffle plays: 316962
+artist: Cher song: Dangerous Times plays: 813816
+artist: Beyonce song: Resentment plays: 203910
+artist: Lady Gaga song: Here We Go Again plays: 226562
+artist: Drake song: Fake Love Explicit plays: 147613
+artist: Michael Jackson song: Speechless plays: 863375
+artist: Drake song: Unstoppable plays: 782773
+artist: Queen song: Through The Night plays: 297048
+artist: Eminem song: Symphony In H plays: 897965
+artist: Madonna song: On The Balcony Of The Casa Rosada 1 plays: 718311
+artist: Eminem song: A Kiss plays: 615356
+artist: Michael Jackson song: I Just Cant Stop Loving You plays: 383028
+artist: Lady Gaga song: Fooled Me Again plays: 744076
+artist: Michael Jackson song: Threatened plays: 880822
+artist: Michael Jackson song: Bad Groove The Band Jam Section plays: 193678
+artist: Madonna song: Fever Live Remastered plays: 105776
+artist: Madonna song: Live To Tell plays: 706880
+artist: Drake song: The Usual plays: 457221
+artist: Queen song: Jesus plays: 733081
+artist: Michael Jackson song: Earth Inconsolable Song plays: 246567
+artist: Madonna song: Lucky Star plays: 546966
+artist: Madonna song: Gambler plays: 705671
+artist: Eminem song: So Far plays: 536551
+artist: Eminem song: Its Ok plays: 395083
+artist: Beyonce song: Brown Skin Girl plays: 548309
+artist: Madonna song: Devil Pray Live plays: 879447
+artist: Drake song: Something plays: 871537
+artist: Madonna song: Into The Hollywood Groove The Passengerz Mix plays: 245074
+artist: Drake song: Grave plays: 624307
+artist: Eminem song: Must Be The Ganja plays: 808323
+artist: Queen song: White Man plays: 612882
+artist: Eminem song: Desperation plays: 334261
+artist: Lady Gaga song: Just Dance Remix plays: 134002
+artist: Michael Jackson song: Just Leave plays: 742961
+artist: Cher song: How Long Has This Been Going On plays: 166099
+artist: Drake song: Strange Clouds plays: 210287
+artist: Aerosmith song: Darkness plays: 248378
+artist: Aerosmith song: Riff And Roll plays: 354365
+artist: Michael Jackson song: Childhood Theme From Free Willy 2 plays: 725667
+artist: Eminem song: No Return plays: 809655
+artist: Madonna song: Shantiashtangi plays: 234164
+artist: Queen song: Who Needs You plays: 687372
+artist: Aerosmith song: Mia plays: 747393
+artist: Cher song: Body To Body Heart To Heart plays: 361202
+artist: Queen song: Killer plays: 210160
+artist: Eminem song: Lose Yourself From 8 Mile Soundtrack plays: 816110
+artist: Eminem song: Framed plays: 370576
+artist: Madonna song: Give It 2 Me Eddie Amador Club plays: 831986
+artist: Cher song: I Walk On Guilded Splinters plays: 473806
+artist: Aerosmith song: Get The Lead Out plays: 395560
+artist: Drake song: Digital Dash plays: 118683
+artist: Madonna song: Crimes Of Passion plays: 362195
+artist: Drake song: Gods Plan Emix plays: 319906
+artist: Michael Jackson song: Smile plays: 634697
+artist: Drake song: Round Of Applause plays: 546341
+artist: Queen song: We Will Rock You Live At Wembley Stadium July 1986 plays: 119923
+artist: Lady Gaga song: Nothing Else I Can Say plays: 750167
+artist: Lady Gaga song: Diamond Heart plays: 557447
+artist: Queen song: Queen Of Groucho plays: 874033
+artist: Aerosmith song: Dont Wanna Miss A Thing plays: 798668
+artist: Madonna song: Like A Virgin Waltz plays: 842190
+artist: Cher song: Dressed To Kill plays: 126158
+artist: Eminem song: Senate Hearings plays: 625271
+artist: Lady Gaga song: Fooled Me Again Honest Eyes plays: 366956
+artist: Michael Jackson song: They Dont Care About Us Live Version plays: 105092
+artist: Michael Jackson song: Beat It Single Version plays: 571129
+artist: Cher song: Its Gonna Rain plays: 601007
+artist: Beyonce song: Rocket plays: 425818
+artist: Cher song: If I Could Turn Back Time plays: 466514
+artist: Queen song: The Hero plays: 335445
+artist: Michael Jackson song: For All Time plays: 311443
+artist: Eminem song: Adrenline Rush plays: 562363
+artist: Michael Jackson song: Hold My Hand plays: 237770
+artist: Aerosmith song: Circle plays: 288127
+artist: Queen song: The Show Must Go On plays: 242856
+artist: Drake song: Wanna Know Remix plays: 172979
+artist: Cher song: The Greatest Show On Earth plays: 886034
+artist: Eminem song: Syllabes plays: 587936
+artist: Cher song: You Havent Seen The Last Of Me Remix plays: 747323
+artist: Lady Gaga song: Future Love plays: 379524
+artist: Drake song: London Freestyle plays: 511814
+artist: Eminem song: Just The Two Of Usradio Edit plays: 414757
+artist: Eminem song: Nuttin To Do plays: 253215
+artist: Drake song: The Games Infiltrator plays: 527418
+artist: Madonna song: Bitch Im Loca plays: 135431
+artist: Dua Lipa song: Bad Together plays: 587103
+artist: Eminem song: Steve Berman Skit plays: 160235
+artist: Eminem song: Back To The Music plays: 226069
+artist: Lady Gaga song: Lady Gaga White Christmas A Very Gaga Holiday plays: 800775
+artist: Lady Gaga song: It Hurts plays: 132941
+artist: Beyonce song: Ratchet plays: 492159
+artist: Eminem song: Intro plays: 855899
+artist: Eminem song: 3 Verses plays: 444491
+artist: Lady Gaga song: New York New York Cover plays: 842001
+artist: Cher song: Its Not Unusual plays: 104394
+artist: Queen song: 39 plays: 632482
+artist: Michael Jackson song: Why plays: 854551
+artist: Madonna song: Rebel Heart plays: 589736
+artist: Michael Jackson song: They Dont Care About Us Brazil Version plays: 371920
+artist: Madonna song: White Heat Lp Version plays: 771890
+artist: Eminem song: Till I Collapse Remix plays: 602450
+artist: Cher song: Monday plays: 865576
+artist: Drake song: Successful plays: 444484
+artist: Michael Jackson song: Baby plays: 753053
+artist: Queen song: Yeah plays: 253400
+artist: Lady Gaga song: Just Dance plays: 792455
+artist: Queen song: See What A Fool Ive Been plays: 808558
+artist: Eminem song: Mrmathers plays: 531675
+artist: Drake song: Heat Of The Moment plays: 234690
+artist: Madonna song: 4 Minutes To Save The World plays: 878781
+artist: Cher song: Halfbreed plays: 273930
+artist: Aerosmith song: Never Loved A Girl plays: 771190
+artist: Eminem song: Talkin All That plays: 856616
+artist: Michael Jackson song: I Want You Back The Jackson 5 plays: 280236
+artist: Eminem song: Die Alone plays: 764590
+artist: Drake song: Worst Behavior plays: 661852
+artist: Eminem song: Arose plays: 599158
+artist: Aerosmith song: Devils Got A New Disguise plays: 485592
+artist: Madonna song: God Is Love plays: 376264
+artist: Eminem song: Fly Away plays: 864425
+artist: Madonna song: Charity Concert The Art Of The Possible plays: 850309
+artist: Drake song: Grammys plays: 675871
+artist: Eminem song: Doe Rae Me plays: 138166
+artist: Queen song: If You Cant Beat Em plays: 624956
+artist: Cher song: Here Comes That Rainy Day Feeling Again plays: 370666
+artist: Michael Jackson song: Rain On Me plays: 841815
+artist: Michael Jackson song: Worlds Together plays: 432128
+artist: Lady Gaga song: The Cure plays: 136624
+artist: Aerosmith song: Shela plays: 759435
+artist: Eminem song: Say My Name plays: 863520
+artist: Queen song: I Want It All Single Version plays: 804473
+artist: Michael Jackson song: You Can Cry On My Shoulder plays: 598813
+artist: Queen song: Seven Seas Of Rhye Remix plays: 564600
+artist: Cher song: You Dont Have To Say You Love Me plays: 167875
+artist: Queen song: Gimme The Prize plays: 702410
+artist: Beyonce song: Dance For You plays: 542614
+artist: Lady Gaga song: Till It Happens To You plays: 805384
+artist: Cher song: I Walk Alone plays: 856620
+artist: Drake song: I Could Never plays: 483757
+artist: Cher song: Outrageous plays: 796061
+artist: Madonna song: Dress You Up plays: 147101
+artist: Michael Jackson song: Black Or White Single Version plays: 423924
+artist: Drake song: Summer Games plays: 559251
+artist: Eminem song: Im Sorry Mama Full Song plays: 430751
+artist: Eminem song: All Fall Down plays: 739931
+artist: Queen song: Rough Justice plays: 328542
+artist: Queen song: Flick Of The Wrist plays: 616076
+artist: Drake song: Juice plays: 131598
+artist: Queen song: Ride The Wild Wind plays: 428925
+artist: Aerosmith song: Light Inside plays: 591716
+artist: Eminem song: Bad Guys Always Die plays: 635191
+artist: Madonna song: Hung Up plays: 665349
+artist: Eminem song: Brabbit Vs Lotto 2Nd Battle From 8 Mile plays: 621040
+artist: Eminem song: Drop The Bomb On Em plays: 535945
+artist: Michael Jackson song: Streetwalker plays: 282010
+artist: Michael Jackson song: 2 Bad Ghosts Short Film Version plays: 230364
+artist: Michael Jackson song: Thriller Single Version plays: 378826
+artist: Queen song: Cowboys And Indians plays: 431151
+artist: Drake song: Good Ones Go Lyrics plays: 289786
+artist: Drake song: Kmt Explicit plays: 692786
+artist: Cher song: My Love plays: 861332
+artist: Dua Lipa song: For Julian plays: 754820
+artist: Lady Gaga song: Unfathomable plays: 795944
+artist: Eminem song: Bad Guy plays: 725680
+artist: Queen song: Love On A Tightrope Like An Animal plays: 382827
+artist: Michael Jackson song: Working Day And Night plays: 132681
+artist: Madonna song: Like A Virgin Hollywood Medley Live plays: 716859
+artist: Michael Jackson song: Planet Earth Poem plays: 843521
+artist: Drake song: Fire Desire plays: 642767
+artist: Cher song: Love On A Rooftop plays: 194736
+artist: Michael Jackson song: Let Me Go plays: 647826
+artist: Michael Jackson song: Love Theme From Lady Sings The Blues plays: 337736
+artist: Madonna song: The Beast Within plays: 568877
+artist: Madonna song: 4 Minutes Bob Sinclar Space Funk Remix plays: 423097
+artist: Beyonce song: Ego plays: 583356
+artist: Queen song: Misfire plays: 170481
+artist: Eminem song: Hailies Revenge plays: 611385
+artist: Queen song: Mings Theme In The Court Of Ming The Merciless plays: 731699
+artist: Queen song: Headlong plays: 462363
+artist: Aerosmith song: Spiderman Theme plays: 815170
+artist: Eminem song: Shake That plays: 243774
+artist: Lady Gaga song: Paper Gangsta plays: 794886
+artist: Madonna song: Goodnight And Thank You plays: 473603
+artist: Eminem song: Marshell Mathers plays: 776686
+artist: Drake song: Untitled Preview More Life plays: 886568
+artist: Cher song: Clinging To A Thread plays: 153249
+artist: Queen song: Bohemian Rhapsody 2011 Mix plays: 474360
+artist: Cher song: Gypsyy plays: 352788
+artist: Queen song: Love Of My Life 2011 Remaster plays: 106761
+artist: Aerosmith song: The Farm plays: 877400
+artist: Eminem song: Shit On You plays: 572564
+artist: Lady Gaga song: Rain On Me plays: 659386
+artist: Beyonce song: Beautiful Liar plays: 664236
+artist: Madonna song: Rescue Me plays: 465342
+artist: Madonna song: Run plays: 167246
+artist: Madonna song: Miles Away plays: 628987
+artist: Eminem song: Renegade plays: 449440
+artist: Michael Jackson song: Ds plays: 224328
+artist: Lady Gaga song: Feel It plays: 481735
+artist: Eminem song: Curtains Up Evil Deeds plays: 598753
+artist: Eminem song: Romanas Revenge plays: 599573
+artist: Eminem song: Crackers N Cheese plays: 379446
+artist: Drake song: Ready For You plays: 752399
+artist: Lady Gaga song: Popculture plays: 468143
+artist: Eminem song: The World Aint Ready For Me Yet plays: 405379
+artist: Cher song: Am I Blue plays: 786001
+artist: Queen song: Flashas Theme plays: 358191
+artist: Drake song: Thank Me Later plays: 218234
+artist: Madonna song: Hello And Goodbye plays: 712654
+artist: Aerosmith song: Drop Dead Gorgeous plays: 273836
+artist: Beyonce song: Donu0080U0099T Hurt Yourself plays: 511957
+artist: Queen song: If You Cant Beat Them plays: 495545
+artist: Madonna song: Erotica plays: 759909
+artist: Eminem song: Just Dont Give A Fuck plays: 181378
+artist: Eminem song: Normal plays: 872034
+artist: Aerosmith song: Train Kept A Rollin plays: 310305
+artist: Eminem song: Ski Mask Way Eminem Remix plays: 475710
+artist: Eminem song: Shady 20 Cypher plays: 416196
+artist: Madonna song: Get Stupid plays: 822542
+artist: Aerosmith song: Flesh plays: 765014
+artist: Beyonce song: Party plays: 660614
+artist: Eminem song: Lose Yourself Original Demo Version plays: 789050
+artist: Madonna song: Hanky Panky plays: 175371
+artist: Beyonce song: Scar plays: 812593
+artist: Eminem song: Bet Shady 20 Cypher plays: 609444
+artist: Queen song: You Are The Champions plays: 773950
+artist: Queen song: Bohemian Rhapsody Remastered 2011 plays: 671783
+artist: Eminem song: Curtains Up plays: 142563
+artist: Lady Gaga song: Ill Never Love Again Extended Version plays: 586443
+artist: Eminem song: Murder Murder Remix plays: 387924
+artist: Cher song: Take Me Home plays: 400521
+artist: Eminem song: Castle plays: 125121
+artist: Madonna song: Guilty By Association plays: 691733
+artist: Eminem song: Maxine plays: 198582
+artist: Drake song: Love Remix plays: 355237
+artist: Queen song: We Will Rock You Movie Mix plays: 166598
+artist: Eminem song: Heat plays: 644534
+artist: Michael Jackson song: Heaven Can Wait plays: 197652
+artist: Michael Jackson song: Loves Gone Bad plays: 565817
+artist: Beyonce song: End Of Time plays: 211851
+artist: Madonna song: Be Careful plays: 387812
+artist: Michael Jackson song: Morning Glow plays: 212385
+artist: Michael Jackson song: I Will Be There plays: 847753
+artist: Queen song: Bohemian Rhapsody Live At Wembley Stadium July 1986 plays: 576537
+artist: Lady Gaga song: Donatella Remix plays: 758727
+artist: Dua Lipa song: Dont Start Now Purple Disco Machine Remix plays: 243180
+artist: Michael Jackson song: Get It plays: 255375
+artist: Queen song: There Must Be More To Life Than This plays: 219671
+artist: Madonna song: Time Stood Still plays: 821335
+artist: Queen song: Earth plays: 386241
+artist: Lady Gaga song: Ready plays: 248518
+artist: Lady Gaga song: Shallow plays: 534339
+artist: Cher song: The Island With Greg Allman plays: 262275
+artist: Eminem song: Going Solo plays: 160400
+artist: Madonna song: Beautiful Stranger plays: 806730
+artist: Beyonce song: Crazy In Love 2014 Remix plays: 488097
+artist: Michael Jackson song: We Are The World plays: 553650
+artist: Michael Jackson song: Who Is It plays: 136129
+artist: Cher song: Come To Your Window plays: 189484
+artist: Lady Gaga song: Blueberry Kisses plays: 107645
+artist: Eminem song: Chonkyfire Freestyle Swag Juice plays: 311886
+artist: Drake song: Replacement Girl plays: 500731
+artist: Eminem song: Mommy plays: 712440
+artist: Lady Gaga song: Fashion Of His Love plays: 868829
+artist: Michael Jackson song: Skywriter Stargate Remix plays: 401058
+artist: Michael Jackson song: Youve Got A Friend plays: 308555
+artist: Michael Jackson song: Got The Hots plays: 239468
+artist: Michael Jackson song: Music Me plays: 878305
+artist: Madonna song: Vogue Live Remastered plays: 577919
+artist: Michael Jackson song: Chicago plays: 867095
+artist: Drake song: Lose You Explicit plays: 785447
+artist: Beyonce song: Wake Up plays: 594808
+artist: Drake song: Legend plays: 151151
+artist: Lady Gaga song: Shake Ur Kitty plays: 495499
+artist: Lady Gaga song: Bang Bang My Baby Shot Me Down plays: 772051
+artist: Drake song: Take My Place plays: 829033
+artist: Eminem song: Lucky You plays: 770009
+artist: Eminem song: Curtains Up Encore Version plays: 194626
+artist: Aerosmith song: St John plays: 536180
+artist: Aerosmith song: I Dont Wanna Miss A Thing plays: 267427
+artist: Queen song: Keep Passing The Open Windows plays: 205010
+artist: Michael Jackson song: Abc Salaam Remi Remix plays: 654633
+artist: Michael Jackson song: Todo Mi Amor Eres Tu plays: 597051
+artist: Lady Gaga song: Born This Way plays: 414903
+artist: Eminem song: Those Kinda Nights plays: 654713
+artist: Eminem song: Difficult plays: 249990
+artist: Queen song: Time plays: 738036
+artist: Aerosmith song: Deuces Are Wild plays: 159499
+artist: Michael Jackson song: Dont Say Goodbye Again plays: 584470
+artist: Cher song: Just A Name plays: 583677
+artist: Eminem song: 3 Am plays: 597523
+artist: Drake song: Im Upset plays: 840502
+artist: Lady Gaga song: Look What I Found plays: 137716
+artist: Queen song: Killer Queen Remastered 2011 plays: 872381
+artist: Eminem song: Sick And Tired plays: 187876
+artist: Michael Jackson song: Remember The Timebad Immortal Version plays: 878078
+artist: Cher song: One By One plays: 594101
+artist: Cher song: The Man I Love plays: 313980
+artist: Michael Jackson song: Can I Go On plays: 225145
+artist: Drake song: Hold On plays: 557499
+artist: Lady Gaga song: Lovegame plays: 379913
+artist: Cher song: When The Moneys Gone plays: 447537
+artist: Drake song: Something More plays: 446264
+artist: Beyonce song: Formation Homecoming Live plays: 701501
+artist: Drake song: Views From The 6 plays: 418730
+artist: Michael Jackson song: Twelve Oclock plays: 768944
+artist: Cher song: Still plays: 845674
+artist: Cher song: Boys Girls plays: 847034
+artist: Drake song: Ghetto University plays: 481485
+artist: Eminem song: I Just Dont Give A Fuck plays: 711003
+artist: Eminem song: No Ones Iller plays: 458357
+artist: Eminem song: Life After Death Mgk Diss Response plays: 367858
+artist: Madonna song: Till Death Do Us Part plays: 764633
+artist: Cher song: You Wouldnt Know Love plays: 424495
+artist: Eminem song: Carrington Pool plays: 392768
+artist: Eminem song: Syllables plays: 595661
+artist: Madonna song: Get Down plays: 286204
+artist: Drake song: Redemption plays: 134546
+artist: Beyonce song: I Was Here plays: 367263
+artist: Drake song: Give Ya plays: 127469
+artist: Michael Jackson song: Rock Wit U Awww Baby plays: 866812
+artist: Dua Lipa song: Pretty Please plays: 809943
+artist: Cher song: Train Of Thought plays: 802350
+artist: Madonna song: Two Steps Behind Me plays: 530927
+artist: Beyonce song: If I Were A Boy Girl plays: 556420
+artist: Cher song: Im Still Havent Found What Im Looking For Live plays: 523799
+artist: Madonna song: Super Pop plays: 214588
+artist: Michael Jackson song: Iall Be There Immortal Version plays: 497827
+artist: Lady Gaga song: Scheiae plays: 185723
+artist: Drake song: Charged Up plays: 388630
+artist: Lady Gaga song: Replay plays: 213465
+artist: Eminem song: Failed Destiny plays: 891596
+artist: Drake song: Childs Play Spintelect Remix plays: 202838
+artist: Eminem song: Smack That plays: 117966
+artist: Eminem song: Purple Hills plays: 622714
+artist: Michael Jackson song: Touch The One You Love plays: 235477
+artist: Aerosmith song: Rattlesnake Shake plays: 435242
+artist: Beyonce song: Dangerously In Love 2 plays: 191748
+artist: Drake song: March 14 plays: 568218
+artist: Michael Jackson song: Johnny Raven plays: 392428
+artist: Eminem song: Number One plays: 866346
+artist: Dua Lipa song: Homesick plays: 381849
+artist: Drake song: Faithful plays: 564820
+artist: Michael Jackson song: The Way You Make Me Feel 2012 Remaster plays: 437692
+artist: Cher song: Dov Lamore plays: 754309
+artist: Michael Jackson song: She Drives Me Wild plays: 501748
+artist: Lady Gaga song: Glamour Zombie plays: 441548
+artist: Michael Jackson song: Shes Out Of My Life plays: 251777
+artist: Lady Gaga song: Brooklyn Night plays: 366901
+artist: Eminem song: By My Side plays: 786496
+artist: Eminem song: The Kids plays: 704003
+artist: Drake song: Right Hand plays: 183824
+artist: Eminem song: I Got This Feelin plays: 433878
+artist: Eminem song: Sing For The Moment plays: 514506
+artist: Queen song: Teo Torriate Let Us Cling Together plays: 584856
+artist: Queen song: Bring Back That Leroy Brown plays: 258602
+artist: Michael Jackson song: Introduction plays: 522504
+artist: Eminem song: Not Afraid plays: 721565
+artist: Dua Lipa song: Thinking Bout You plays: 361835
+artist: Cher song: All I Ever Need Is You plays: 158988
+artist: Cher song: We All Sleep Alone plays: 235230
+artist: Queen song: Clebrity plays: 556336
+artist: Drake song: Fancy plays: 242606
+artist: Drake song: Im Still Fly plays: 225379
+artist: Michael Jackson song: You Rock My World Remix plays: 868567
+artist: Aerosmith song: Sudona Sunrise plays: 591925
+artist: Eminem song: Space Bound plays: 143711
+artist: Madonna song: Now Im Following You Part 2 plays: 149545
+artist: Lady Gaga song: Angel Down plays: 784953
+artist: Madonna song: You Must Love Me plays: 335679
+artist: Queen song: Play The Game Remastered 2014 plays: 632102
+artist: Dua Lipa song: Hallucinate Paul Woolford Remix plays: 253954
+artist: Queen song: I Want To Break Free plays: 871045
+artist: Queen song: Fat Bottomed Girls plays: 819473
+artist: Eminem song: Beautiful plays: 488831
+artist: Eminem song: Campaign Speech plays: 642365
+artist: Lady Gaga song: Do What You Want plays: 400705
+artist: Cher song: Stars plays: 469462
+artist: Cher song: Never Shouldve Started plays: 402519
+artist: Eminem song: Believe plays: 853493
+artist: Michael Jackson song: Breaking News plays: 350318
+artist: Drake song: Jungle plays: 331447
+artist: Michael Jackson song: Someone Put Your Hand Out plays: 398688
+artist: Eminem song: The Reunion plays: 259619
+artist: Madonna song: Whos What Girl plays: 551376
+artist: Drake song: Now Forever plays: 787369
+artist: Madonna song: Super Bowl 2012 plays: 622468
+artist: Aerosmith song: Woman Of The World plays: 892852
+artist: Madonna song: Erotic Confessions On A Dance Floor Album plays: 879836
+artist: Lady Gaga song: Electric Chapel Remix plays: 606175
+artist: Cher song: Bad Love plays: 873878
+artist: Drake song: Faithful Extended Version plays: 697120
+artist: Madonna song: Score plays: 796032
+artist: Aerosmith song: Shame On You plays: 383669
+artist: Drake song: Underground Kings plays: 593294
+artist: Cher song: Git Down plays: 362426
+artist: Eminem song: Brabit 1St Battle plays: 575291
+artist: Michael Jackson song: Cry plays: 641392
+artist: Michael Jackson song: Islam In My Veins plays: 537075
+artist: Eminem song: Godzilla plays: 615641
+artist: Madonna song: Holy Water Vogue Live plays: 435445
+artist: Drake song: Cameras Good Ones Go Interlude plays: 575744
+artist: Dua Lipa song: Swan Song plays: 850290
+artist: Madonna song: Holiday plays: 810713
+artist: Queen song: Man On The Prowl plays: 759626
+artist: Madonna song: Revolver plays: 434946
+artist: Queen song: God Save The Queen plays: 614374
+artist: Eminem song: Spend Some Time plays: 755708
+artist: Queen song: The March Of The Black plays: 772471
+artist: Eminem song: Till I Collapse plays: 875068
+artist: Michael Jackson song: Ease On Down The Road plays: 119358
+artist: Cher song: Save Up All Your Tears plays: 765579
+artist: Michael Jackson song: Do You Know Where Your Children Are plays: 452543
+artist: Lady Gaga song: Parking Lot Dialogue plays: 690109
+artist: Drake song: Two Birds One Stone plays: 897290
+artist: Lady Gaga song: Scheisse plays: 634476
+artist: Cher song: Dove Lamore plays: 582431
+artist: Aerosmith song: Taste Of India plays: 230005
+artist: Cher song: Welcome To Burlesque plays: 754614
+artist: Aerosmith song: Reefer Head Woman plays: 520662
+artist: Madonna song: Aint No Big Deal 81 And 97 Extended plays: 806957
+artist: Drake song: Love And Gunz plays: 371394
+artist: Drake song: Way Back Tony Montana plays: 328917
+artist: Madonna song: Crazy plays: 707109
+artist: Drake song: Weall Be Fine plays: 114875
+artist: Beyonce song: Naughty Girl plays: 602160
+artist: Drake song: Desires plays: 679082
+artist: Lady Gaga song: Super Star plays: 464027
+artist: Drake song: Childs Play plays: 696650
+artist: Eminem song: Crazy In Love plays: 456778
+artist: Aerosmith song: You Gotta Move plays: 276395
+artist: Beyonce song: Dance plays: 733691
+artist: Eminem song: Nowhere Fast Extended Version plays: 599501
+artist: Madonna song: Medellin plays: 278488
+artist: Cher song: Dont Come Aroung Tonite plays: 350591
+artist: Eminem song: Shady Narcotics plays: 705082
+artist: Michael Jackson song: Just Good Friends Album Version plays: 865288
+artist: Aerosmith song: Freedom Fighter plays: 432004
+artist: Eminem song: Curtains Close plays: 213749
+artist: Cher song: Skin Deep plays: 305987
+artist: Queen song: Funny How Love Is plays: 560717
+artist: Aerosmith song: Hearts Done Time plays: 283337
+artist: Eminem song: I Tried So Hard Remix plays: 283375
+artist: Michael Jackson song: Little Christmas Tree plays: 205913
+artist: Michael Jackson song: Elizabeth I Love You plays: 270794
+artist: Lady Gaga song: Earthquake plays: 760829
+artist: Beyonce song: War Nala Interlude plays: 395723
+artist: Michael Jackson song: Beat Itjamstate Of Shock Immortal Version plays: 681403
+artist: Eminem song: Get You Mad plays: 474312
+artist: Beyonce song: Dont Jealous Me plays: 460546
+artist: Lady Gaga song: Million Reasons plays: 154364
+artist: Aerosmith song: Nine Lives plays: 578922
+artist: Drake song: All Kinds plays: 583470
+artist: Drake song: Still Got It plays: 174771
+artist: Drake song: Too Much plays: 156018
+artist: Madonna song: Never Let You Go plays: 876237
+artist: Eminem song: For Old Times Sake plays: 567239
+artist: Lady Gaga song: The Lady Is A Tramp plays: 547409
+artist: Madonna song: Cherish plays: 653730
+artist: Aerosmith song: Chiquita plays: 768148
+artist: Lady Gaga song: Dont Call On Me plays: 167195
+artist: Eminem song: My Dads Gone Crazy plays: 511623
+artist: Michael Jackson song: Gonna Be Startin Somethin plays: 744101
+artist: Eminem song: Mockingbird plays: 571430
+artist: Michael Jackson song: Mind Is The Magic plays: 637335
+artist: Cher song: Shoop Shoop Song plays: 368946
+artist: Eminem song: Dead Wrong Remix plays: 828355
+artist: Madonna song: Its So Cool plays: 302655
+artist: Cher song: Save The Children plays: 162805
+artist: Madonna song: Pretender plays: 226091
+artist: Cher song: In For The Night With Greg Allman plays: 634631
+artist: Lady Gaga song: Changing Skies plays: 694686
+artist: Madonna song: In This Life plays: 516358
+artist: Beyonce song: The Star Spangled Banner plays: 730404
+artist: Michael Jackson song: Heartbreaker plays: 754823
+artist: Michael Jackson song: Cant Get Your Weight Off Me plays: 440076
+artist: Eminem song: Can I B plays: 263868
+artist: Queen song: Jailhouse Rock Medley plays: 432814
+artist: Queen song: Drowse 2014 Remaster plays: 328471
+artist: Eminem song: Microphone Fiend plays: 172455
+artist: Dua Lipa song: Begging plays: 889814
+artist: Lady Gaga song: Dont Call My Name plays: 631515
+artist: Aerosmith song: Leaving On A Jet Plane plays: 145937
+artist: Madonna song: Dont Cry For Me Argentina plays: 350701
+artist: Aerosmith song: Toys In The Attic plays: 129187
+artist: Michael Jackson song: Tomboy plays: 435363
+artist: Drake song: Still Here plays: 673767
+artist: Aerosmith song: Beautiful plays: 472096
+artist: Eminem song: Emulate plays: 375820
+artist: Drake song: Get It Together Explicit plays: 819078
+artist: Drake song: Teenage Fever Explicit plays: 314957
+artist: Aerosmith song: What It Takes plays: 683954
+artist: Dua Lipa song: Here Alessia Cara Cover plays: 461605
+artist: Madonna song: I Say A Little Prayer plays: 194078
+artist: Eminem song: Need Me plays: 376520
+artist: Drake song: Finesse plays: 408533
+artist: Eminem song: Just Rhymin Wit Proof plays: 219548
+artist: Drake song: Pound Cake Paris Morton Music 2 plays: 182892
+artist: Beyonce song: The Bzzzz Drumline Interlude plays: 744151
+artist: Drake song: Free Smoke Explicit plays: 290826
+artist: Drake song: The Motion plays: 510053
+artist: Madonna song: Hollywood plays: 735836
+artist: Eminem song: Hi My Name Is plays: 492411
+artist: Drake song: The Resistance plays: 214008
+artist: Eminem song: Hit Me With Your Best Shot plays: 165379
+artist: Beyonce song: Drunk In Love plays: 885445
+artist: Eminem song: 20 Boys plays: 667323
+artist: Drake song: Winters Gone Peril P plays: 712236
+artist: Drake song: Dont Matter To Me plays: 383498
+artist: Michael Jackson song: Man In The Mirror Immortal Version plays: 616567
+artist: Drake song: The Resistance Remix plays: 625089
+artist: Aerosmith song: Walkin The Dog plays: 610975
+artist: Drake song: Fear plays: 677135
+artist: Madonna song: Dirty Liar plays: 871799
+artist: Madonna song: Looking For Mercy plays: 592946
+artist: Eminem song: Its Murda Cable Guy Remix plays: 163401
+artist: Eminem song: Murder plays: 432601
+artist: Michael Jackson song: Slave To The Rhythm plays: 357140
+artist: Michael Jackson song: Eaten Alive plays: 565140
+artist: Queen song: Jailhouse Rock plays: 607248
+artist: Cher song: Womans World plays: 777056
+artist: Queen song: Action This Days plays: 794525
+artist: Drake song: Put It Down plays: 823695
+artist: Cher song: Melody plays: 626966
+artist: Cher song: Sunny plays: 168127
+artist: Queen song: Jailhouse Rock Stupid Cupid Be Bop A Lula plays: 534933
+artist: Madonna song: Thief Of Hearts plays: 477734
+artist: Queen song: Call Me plays: 743787
+artist: Queen song: Leaving Home Aint Easy plays: 592548
+artist: Cher song: I Wouldnt Treat A Dog plays: 422633
+artist: Michael Jackson song: Remember The Time plays: 439216
+artist: Michael Jackson song: I Just Cant Stop Loving You 2012 Remaster plays: 556464
+artist: Drake song: Mob Ties plays: 612966
+artist: Eminem song: Im Shady plays: 688406
+artist: Drake song: Best I Ever Had Remix plays: 892575
+artist: Madonna song: Two Steps Behind plays: 752876
+artist: Cher song: The Long Winding Road plays: 513656
+artist: Madonna song: Some Girls plays: 834216
+artist: Queen song: Love Kills The Ballad plays: 659729
+artist: Lady Gaga song: Beautiful Dirty Rich plays: 586803
+artist: Eminem song: Cant Back Down plays: 869153
+artist: Lady Gaga song: Christmas Tree plays: 835031
+artist: Dua Lipa song: Hotter Than Hell plays: 779450
+artist: Michael Jackson song: In The Back plays: 520620
+artist: Eminem song: Shake That Ass For Me Remix plays: 188770
+artist: Lady Gaga song: Princess Die plays: 275017
+artist: Drake song: Live From The Gutter plays: 197496
+artist: Lady Gaga song: John Wayne plays: 280011
+artist: Queen song: Princes Of The Universe plays: 706026
+artist: Cher song: When Love Calls Your Name plays: 136635
+artist: Cher song: We All Fly Home plays: 146687
+artist: Aerosmith song: The Hand That Feeds plays: 591553
+artist: Eminem song: Hail Mary 2003 Ja Rule Diss plays: 250889
+artist: Cher song: Long Distance Love Affair plays: 822032
+artist: Drake song: Barry Bonds Freestyle plays: 629059
+artist: Michael Jackson song: Billie Jean plays: 128956
+artist: Eminem song: Premonition Intro plays: 223220
+artist: Madonna song: Keep The Trance plays: 284494
+artist: Aerosmith song: Boogie Man plays: 474856
+artist: Lady Gaga song: Text You Pictures plays: 413390
+artist: Eminem song: Stan Clean Version plays: 308296
+artist: Michael Jackson song: Elisabeth I Love You plays: 491695
+artist: Beyonce song: Love On Top plays: 662131
+artist: Drake song: Down Down plays: 112591
+artist: Lady Gaga song: Sex Dreams plays: 878220
+artist: Madonna song: Dance 2Night plays: 263525
+artist: Drake song: Behind Barz Freestyle plays: 882763
+artist: Dua Lipa song: Scared To Be Lonely plays: 336819
+artist: Madonna song: Celebration plays: 814009
+artist: Cher song: Dont Talke To Strangers plays: 669272
+artist: Madonna song: Best Night plays: 212155
+artist: Queen song: Fun It plays: 823669
+artist: Madonna song: Give It 2 Me plays: 757141
+artist: Michael Jackson song: Farewell My Summer Love plays: 852794
+artist: Aerosmith song: Lay It Down plays: 120679
+artist: Beyonce song: Super Bowl 2013 plays: 372254
+artist: Cher song: Games plays: 702952
+artist: Dua Lipa song: Blow Your Mind Mwah plays: 610066
+artist: Aerosmith song: Subway plays: 818190
+artist: Madonna song: Im So Stupid plays: 484143
+artist: Madonna song: I Want You plays: 680455
+artist: Madonna song: Now Im Following You Pt1 plays: 103112
+artist: Eminem song: Chemical Warfare plays: 591209
+artist: Queen song: Hang On In There plays: 485781
+artist: Drake song: Im The Plug plays: 576772
+artist: Cher song: Do What You Gotta Do With Greg Allman plays: 125291
+artist: Drake song: Feeling Like plays: 600799
+artist: Cher song: Emotional Fire plays: 553597
+artist: Beyonce song: Welcome Homecoming Live plays: 261273
+artist: Beyonce song: Revolution plays: 497449
+artist: Michael Jackson song: Sfts Sfts plays: 876240
+artist: Eminem song: Drop World plays: 470222
+artist: Madonna song: Imagine Tsunami Aid plays: 359635
